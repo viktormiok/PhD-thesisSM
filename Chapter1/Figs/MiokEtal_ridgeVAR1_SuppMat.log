@@ -1,0 +1,751 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2015.3.31)  17 AUG 2016 12:56
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**MiokEtal_ridgeVAR1_SuppMat.tex
+(./MiokEtal_ridgeVAR1_SuppMat.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 4 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2004/02/26 v1.1c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup4
+\symboldletters=\mathgroup5
+\symboldsymbols=\mathgroup6
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 138.
+LaTeX Info: Redefining \bm on input line 204.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: dvips.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+) (./psfig.sty
+\@unused=\write3
+\ps@stream=\read1
+\p@intvaluex=\dimen105
+\p@intvaluey=\dimen106
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+\epsfxsize=\dimen107
+\epsfysize=\dimen108
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup7
+\symAMSb=\mathgroup8
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks16
+\thm@bodyfont=\toks17
+\thm@headfont=\toks18
+\thm@notefont=\toks19
+\thm@headpunct=\toks20
+\thm@preskip=\skip43
+\thm@postskip=\skip44
+\thm@headsep=\skip45
+\dth@everypar=\toks21
+)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (./natbib.sty
+Package: natbib 1998/07/14 6.8c (PWD)
+\bibhang=\skip46
+\bibsep=\skip47
+LaTeX Info: Redefining \cite on input line 467.
+\c@NAT@ctr=\count87
+)
+(./paralist.sty
+Package: paralist 1999/04/29 v1.8 Some new list environments (BS)
+\pltopsep=\skip48
+\plpartopsep=\skip49
+\plitemsep=\skip50
+\plparsep=\skip51
+\pl@lab=\toks22
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/afterpage.sty
+Package: afterpage 1995/10/27 v1.08 After-Page Package (DPC)
+\AP@output=\toks23
+\AP@partial=\box26
+\AP@footins=\box27
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: dvips.def on input line 130.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count88
+\lst@gtempboxa=\box28
+\lst@token=\toks24
+\lst@length=\count89
+\lst@currlwidth=\dimen109
+\lst@column=\count90
+\lst@pos=\count91
+\lst@lostspace=\dimen110
+\lst@width=\dimen111
+\lst@newlines=\count92
+\lst@lineno=\count93
+\lst@maxwidth=\dimen112
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2013/08/26 1.5b (Carsten Heinz)
+\c@lstnumber=\count94
+\lst@skipnumbers=\count95
+\lst@framebox=\box29
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2013/08/26 1.5b listings configuration
+))
+Package: listings 2013/08/26 1.5b (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2013/08/26 1.5b listings language file
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang2.sty
+File: lstlang2.sty 2013/08/26 1.5b listings language file
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang3.sty
+File: lstlang3.sty 2013/08/26 1.5b listings language file
+)
+LaTeX Font Info:    Overwriting math alphabet `\mathsfit' in version `bold'
+(Font)                  OT1/cmss/m/sl --> OT1/cmss/bx/sl on input line 30.
+\c@defin=\count96
+\c@ther=\count97
+\c@lemma=\count98
+\c@prop=\count99
+\c@coro=\count100
+\c@example=\count101
+
+No file MiokEtal_ridgeVAR1_SuppMat.aux.
+\openout1 = `MiokEtal_ridgeVAR1_SuppMat.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+\c@lstlisting=\count102
+LaTeX Font Info:    Try loading font information for U+msa on input line 125.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 125.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+] [2]
+File: timeComparison_p05.ps Graphic file (type eps)
+
+<timeComparison_p05.ps>
+File: timeComparison_p10.ps Graphic file (type eps)
+ <timeComparison_p10.ps>
+File: timeComparison_p15.ps Graphic file (type eps)
+ <timeComparison_p15.ps>
+File: timeComparison_p20.ps Graphic file (type eps)
+
+<timeComparison_p20.ps>
+File: timeComparison_p25.ps Graphic file (type eps)
+ <timeComparison_p25.ps>
+File: timeComparison_p30.ps Graphic file (type eps)
+ <timeComparison_p30.ps>
+Overfull \hbox (50.2593pt too wide) in paragraph at lines 169--179
+ [][] 
+ []
+
+
+Package natbib Warning: Citation `Mers2014' on page 3 undefined on input line 1
+79.
+
+
+Package natbib Warning: Citation `Mers2014' on page 3 undefined on input line 1
+79.
+
+[3]
+
+LaTeX Warning: Reference `fig.decomposableGraphIllustration' on page 4 undefine
+d on input line 188.
+
+
+LaTeX Warning: Reference `figSM:examplesOfChordalGraph' on page 4 undefined on 
+input line 188.
+
+File: DecomposableGraph.eps Graphic file (type eps)
+<DecomposableGraph.eps>
+File: chordalGraph_tree_graph.eps Graphic file (type eps)
+ <chordalGraph_tree_graph.eps>
+File: chordalGraph_chain_graph.eps Graphic file (type eps)
+
+<chordalGraph_chain_graph.eps>
+Overfull \hbox (1.9145pt too wide) in paragraph at lines 200--204
+ [][] 
+ []
+
+[4]
+
+Package natbib Warning: Citation `Laur1996' on page 5 undefined on input line 2
+12.
+
+
+LaTeX Warning: Reference `form.reformulatedRidgePanelty' on page 5 undefined on
+ input line 227.
+
+
+Package natbib Warning: Citation `Laur1996' on page 5 undefined on input line 2
+27.
+
+
+Overfull \hbox (45.42035pt too wide) in alignment at lines 235--246
+ [][][] []
+ []
+
+
+Package natbib Warning: Citation `VWie2014b' on page 5 undefined on input line 
+251.
+
+
+LaTeX Warning: Reference `form.decomposedPenLoglik' on page 5 undefined on inpu
+t line 254.
+
+[5]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 275.
+
+ (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 275.
+
+
+Package natbib Warning: Citation `Laur1996' on page 6 undefined on input line 2
+75.
+
+[6]
+
+LaTeX Warning: Reference `fig.TSCGpathAnalysis' on page 7 undefined on input li
+ne 327.
+
+
+LaTeX Warning: Reference `fig.TSCGpathAnalysis' on page 7 undefined on input li
+ne 329.
+
+File: TSCG_pathExample2.eps Graphic file (type eps)
+<TSCG_pathExample2.eps> [7]
+
+Package natbib Warning: Citation `Ernst2005' on page 8 undefined on input line 
+343.
+
+
+Package natbib Warning: Citation `Edga2002' on page 8 undefined on input line 3
+43.
+
+
+LaTeX Warning: Reference `tableSM:GEOdatasets' on page 8 undefined on input lin
+e 343.
+
+
+LaTeX Warning: Reference `figSM:GEOhist' on page 8 undefined on input line 343.
+
+
+File: GEOtime.eps Graphic file (type eps)
+<GEOtime.eps>
+File: GEOind.eps Graphic file (type eps)
+ <GEOind.eps>
+File: GEOscat.eps Graphic file (type eps)
+ <GEOscat.eps>
+Overfull \hbox (13.20717pt too wide) in paragraph at lines 353--358
+ [][] 
+ []
+
+[8] [9]
+
+Package natbib Warning: Citation `Abeg2013' on page 10 undefined on input line 
+458.
+
+
+Package natbib Warning: Citation `Fan2001' on page 10 undefined on input line 4
+58.
+
+
+Package natbib Warning: Citation `Ernst2005' on page 10 undefined on input line
+ 460.
+
+
+Package natbib Warning: Citation `Oga1999' on page 10 undefined on input line 4
+68.
+
+[10]
+
+LaTeX Warning: Reference `figSM:Loss25T10N5_5' on page 11 undefined on input li
+ne 502.
+
+
+LaTeX Warning: Reference `figSM:Loss25T10N5_25' on page 11 undefined on input l
+ine 502.
+
+
+LaTeX Warning: Reference `figSM:Loss25T10N5_5' on page 11 undefined on input li
+ne 502.
+
+
+LaTeX Warning: Reference `figSM:Loss25T10N5_25' on page 11 undefined on input l
+ine 502.
+
+
+LaTeX Warning: Reference `figSM:Loss50T10N5_5' on page 11 undefined on input li
+ne 502.
+
+
+LaTeX Warning: Reference `figSM:Loss50T10N5_25' on page 11 undefined on input l
+ine 502.
+
+
+LaTeX Warning: Reference `figSM:Loss25T20N5_5' on page 11 undefined on input li
+ne 502.
+
+
+LaTeX Warning: Reference `figSM:Loss25T20N5_25' on page 11 undefined on input l
+ine 502.
+
+
+LaTeX Warning: Reference `figSM:Loss50T20N5_5' on page 11 undefined on input li
+ne 502.
+
+
+LaTeX Warning: Reference `figSM:Loss50T20N5_25' on page 11 undefined on input l
+ine 502.
+
+[11]
+
+LaTeX Warning: Reference `tableSM:GEOdatasets' on page 12 undefined on input li
+ne 504.
+
+
+LaTeX Warning: Reference `figSM:Loss25T10N15_5' on page 12 undefined on input l
+ine 504.
+
+
+LaTeX Warning: Reference `figSM:Loss25T10N15_25' on page 12 undefined on input 
+line 504.
+
+
+LaTeX Warning: Reference `figSM:Loss25T20N15_5' on page 12 undefined on input l
+ine 504.
+
+
+LaTeX Warning: Reference `figSM:Loss25T20N15_25' on page 12 undefined on input 
+line 504.
+
+
+LaTeX Warning: Reference `figSM:Loss50T20N15_5' on page 12 undefined on input l
+ine 504.
+
+
+LaTeX Warning: Reference `figSM:Loss25T20N15_25' on page 12 undefined on input 
+line 504.
+
+
+LaTeX Warning: Reference `figSM:RocP25T10N5_5' on page 12 undefined on input li
+ne 509.
+
+
+LaTeX Warning: Reference `figSM:RocP50T10N5_5' on page 12 undefined on input li
+ne 509.
+
+
+LaTeX Warning: Reference `figSM:RocP25T20N15_5' on page 12 undefined on input l
+ine 510.
+
+
+LaTeX Warning: Reference `figSM:RocP50T20N15_5' on page 12 undefined on input l
+ine 510.
+
+
+LaTeX Warning: Reference `figSM:RocP25T10N5_25' on page 12 undefined on input l
+ine 511.
+
+
+LaTeX Warning: Reference `figSM:RocP50T10N5_25' on page 12 undefined on input l
+ine 511.
+
+
+LaTeX Warning: Reference `figSM:RocP25T20N15_25' on page 12 undefined on input 
+line 512.
+
+
+LaTeX Warning: Reference `figSM:RocP50T20N15_25' on page 12 undefined on input 
+line 512.
+
+File: LossA25T10N5_5.eps Graphic file (type eps)
+<LossA25T10N5_5.eps>
+File: LossOmega25T10N5_5.eps Graphic file (type eps)
+ <LossOmega25T10N5_5.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: LossA50T10N5_5.eps Graphic file (type eps)
+<LossA50T10N5_5.eps>
+File: LossOmega50T10N5_5.eps Graphic file (type eps)
+ <LossOmega50T10N5_5.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[12]
+
+LaTeX Warning: Text page 13 contains only floats.
+
+[13]
+
+LaTeX Warning: Text page 14 contains only floats.
+
+[14]
+File: LossA25T20N5_5.eps Graphic file (type eps)
+ <LossA25T20N5_5.eps>
+File: LossOmega25T20N5_5.eps Graphic file (type eps)
+ <LossOmega25T20N5_5.eps>
+File: LossA50T20N5_5.eps Graphic file (type eps)
+ <LossA50T20N5_5.eps>
+File: LossOmega50T20N5_5.eps Graphic file (type eps)
+
+<LossOmega50T20N5_5.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[15
+
+]
+
+LaTeX Warning: Text page 16 contains only floats.
+
+[16]
+File: LossA25T10N15_5.eps Graphic file (type eps)
+ <LossA25T10N15_5.eps>
+File: LossOmega25T10N15_5.eps Graphic file (type eps)
+ <LossOmega25T10N15_5.eps>
+File: LossA50T10N15_5.eps Graphic file (type eps)
+ <LossA50T10N15_5.eps>
+File: LossOmega50T10N15_5.eps Graphic file (type eps)
+
+<LossOmega50T10N15_5.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: LossA25T20N15_5.eps Graphic file (type eps)
+<LossA25T20N15_5.eps>
+File: LossOmega25T20N15_5.eps Graphic file (type eps)
+ <LossOmega25T20N15_5.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: LossA50T20N15_5.eps Graphic file (type eps)
+<LossA50T20N15_5.eps>
+File: LossOmega50T20N15_5.eps Graphic file (type eps)
+ <LossOmega50T20N15_5.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[17
+
+]
+
+LaTeX Warning: Text page 18 contains only floats.
+
+[18]
+
+LaTeX Warning: Text page 19 contains only floats.
+
+[19]
+
+LaTeX Warning: Text page 20 contains only floats.
+
+[20]
+File: LossA25T10N5_25.eps Graphic file (type eps)
+ <LossA25T10N5_25.eps>
+File: LossOmega25T10N5_25.eps Graphic file (type eps)
+ <LossOmega25T10N5_25.eps>
+File: LossA50T10N5_25.eps Graphic file (type eps)
+ <LossA50T10N5_25.eps>
+File: LossOmega50T10N5_25.eps Graphic file (type eps)
+
+<LossOmega50T10N5_25.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: LossA25T20N5_25.eps Graphic file (type eps)
+<LossA25T20N5_25.eps>
+File: LossOmega25T20N5_25.eps Graphic file (type eps)
+ <LossOmega25T20N5_25.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: LossA50T20N5_25.eps Graphic file (type eps)
+<LossA50T20N5_25.eps>
+File: LossOmega50T20N5_25.eps Graphic file (type eps)
+ <LossOmega50T20N5_25.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: LossA25T10N15_25.eps Graphic file (type eps)
+<LossA25T10N15_25.eps>
+File: LossOmega25T10N15_25.eps Graphic file (type eps)
+ <LossOmega25T10N15_25.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: LossA50T10N15_25.eps Graphic file (type eps)
+<LossA50T10N15_25.eps>
+File: LossOmega50T10N15_25.eps Graphic file (type eps)
+ <LossOmega50T10N15_25.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: LossA25T20N15_25.eps Graphic file (type eps)
+<LossA25T20N15_25.eps>
+File: LossOmega25T20N15_25.eps Graphic file (type eps)
+ <LossOmega25T20N15_25.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: LossA50T20N15_25.eps Graphic file (type eps)
+<LossA50T20N15_25.eps>
+File: LossOmega50T20N15_25.eps Graphic file (type eps)
+ <LossOmega50T20N15_25.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[21
+
+]
+
+LaTeX Warning: Text page 22 contains only floats.
+
+[22]
+
+LaTeX Warning: Text page 23 contains only floats.
+
+[23]
+
+LaTeX Warning: Text page 24 contains only floats.
+
+[24]
+
+LaTeX Warning: Text page 25 contains only floats.
+
+[25]
+
+LaTeX Warning: Text page 26 contains only floats.
+
+[26]
+
+LaTeX Warning: Text page 27 contains only floats.
+
+[27]
+
+LaTeX Warning: Text page 28 contains only floats.
+
+[28]
+File: ROCfpr25T10N5_5.eps Graphic file (type eps)
+ <ROCfpr25T10N5_5.eps>
+File: ROCtpr25T10N5_5.eps Graphic file (type eps)
+ <ROCtpr25T10N5_5.eps>
+File: ROCfpr50T10N5_5.eps Graphic file (type eps)
+ <ROCfpr50T10N5_5.eps>
+File: ROCtpr50T10N5_5.eps Graphic file (type eps)
+
+<ROCtpr50T10N5_5.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[29
+
+]
+
+LaTeX Warning: Text page 30 contains only floats.
+
+[30]
+File: ROCfpr25T20N15_5.eps Graphic file (type eps)
+ <ROCfpr25T20N15_5.eps>
+File: ROCtpr25T20N15_5.eps Graphic file (type eps)
+ <ROCtpr25T20N15_5.eps>
+File: ROCfpr50T20N15_5.eps Graphic file (type eps)
+ <ROCfpr50T20N15_5.eps>
+File: ROCtpr50T20N15_5.eps Graphic file (type eps)
+
+<ROCtpr50T20N15_5.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[31
+
+]
+
+LaTeX Warning: Text page 32 contains only floats.
+
+[32]
+File: ROCfpr25T10N5_25.eps Graphic file (type eps)
+ <ROCfpr25T10N5_25.eps>
+File: ROCtpr25T10N5_25.eps Graphic file (type eps)
+ <ROCtpr25T10N5_25.eps>
+File: ROCfpr50T10N5_25.eps Graphic file (type eps)
+ <ROCfpr50T10N5_25.eps>
+File: ROCtpr50T10N5_25.eps Graphic file (type eps)
+
+<ROCtpr50T10N5_25.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[33
+
+]
+
+LaTeX Warning: Text page 34 contains only floats.
+
+[34]
+File: ROCfpr25T20N15_25.eps Graphic file (type eps)
+ <ROCfpr25T20N15_25.eps>
+File: ROCtpr25T20N15_25.eps Graphic file (type eps)
+ <ROCtpr25T20N15_25.eps>
+File: ROCfpr50T20N15_25.eps Graphic file (type eps)
+ <ROCfpr50T20N15_25.eps>
+File: ROCtpr50T20N15_25.eps Graphic file (type eps)
+
+<ROCtpr50T20N15_25.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[35
+
+]
+
+LaTeX Warning: Text page 36 contains only floats.
+
+[36] (./CompareLossRev.R [37
+
+] [38]) [39]
+File: contourPlot_nonSparse.eps Graphic file (type eps)
+ <contourPlot_nonSparse.eps>
+File: contourPlot_sparse.eps Graphic file (type eps)
+
+<contourPlot_sparse.eps>
+File: Ahat_nonSparse.eps Graphic file (type eps)
+ <Ahat_nonSparse.eps>
+File: Phat_nonSparse.eps Graphic file (type eps)
+ <Phat_nonSparse.eps>
+File: Ahat_sparse.eps Graphic file (type eps)
+
+<Ahat_sparse.eps>
+File: Phat_sparse.eps Graphic file (type eps)
+ <Phat_sparse.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: Ahat_support.eps Graphic file (type eps)
+<Ahat_support.eps>
+File: Phat_support.eps Graphic file (type eps)
+ <Phat_support.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (26.82051pt too wide) in paragraph at lines 903--920
+ [] 
+ []
+
+File: fit2obs_CCNG1.eps Graphic file (type eps)
+<fit2obs_CCNG1.eps>
+File: fit2obs_EI24.eps Graphic file (type eps)
+ <fit2obs_EI24.eps>
+File: fit2obs_SFN.eps Graphic file (type eps)
+ <fit2obs_SFN.eps>
+File: fit2obs_STEAP3.eps Graphic file (type eps)
+ <fit2obs_STEAP3.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[40] [41] [42] [43] (./AnalysisForBiomJournal.R [44
+
+]) [45]
+(./MiokEtal_ridgeVAR1_SuppMat.bbl)
+
+Package natbib Warning: There were undefined citations.
+
+[46] (./MiokEtal_ridgeVAR1_SuppMat.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4273 strings out of 494986
+ 55306 string characters out of 6180382
+ 304687 words of memory out of 5000000
+ 7356 multiletter control sequences out of 15000+600000
+ 23349 words of font info for 86 fonts, out of 8000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 26i,14n,41p,1616b,2142s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on MiokEtal_ridgeVAR1_SuppMat.dvi (46 pages, 174688 bytes).

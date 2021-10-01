@@ -1,0 +1,55 @@
+\begin{thebibliography}{}
+
+\bibitem[Abegaz and Wit(2013)Abegaz and Wit]{Abeg2013}
+Abegaz, F. and Wit, E. (2013).
+\newblock Sparse time series chain graphical models for reconstructing genetic
+  networks.
+\newblock {\em Biostatistics\/}, {\bf 13}(3), 586--599.
+
+\bibitem[Carey(2015)Carey]{Care2015}
+Carey, V. (2015).
+\newblock {\em bronchialIL13: time course experiment involving il13\/}.
+\newblock R package, version 1.3.1.
+
+\bibitem[Edgar {\em et~al.}(2002)Edgar, Domrachev, and Lash]{Edga2002}
+Edgar, R., Domrachev, M., and Lash, A.~E. (2002).
+\newblock {G}ene {E}xpression {O}mnibus: {NCBI} gene expression and
+  hybridization array data repository.
+\newblock {\em Nucleic Acids Research\/}, {\bf 30}(1), 207--210.
+
+\bibitem[Ernst {\em et~al.}(2005)Ernst, Nau, and Bar-Joseph]{Ernst2005}
+Ernst, J., Nau, G.~J., and Bar-Joseph, Z. (2005).
+\newblock Clustering short time series gene expression data.
+\newblock {\em Bioinformatics\/}, {\bf 21}(Suppl 1), i159--i168.
+
+\bibitem[Fan and Li(2001)Fan and Li]{Fan2001}
+Fan, J. and Li, R. (2001).
+\newblock Variable selection via nonconcave penalized likelihood and its oracle
+  properties.
+\newblock {\em Journal of the American statistical Association\/}, {\bf
+  96}(456), 1348--1360.
+
+\bibitem[Lauritzen(1996)Lauritzen]{Laur1996}
+Lauritzen, S.~L. (1996).
+\newblock {\em Graphical models\/}.
+\newblock Oxford University Press.
+
+\bibitem[Mersmann(2014)Mersmann]{Mers2014}
+Mersmann, O. (2014).
+\newblock {\em microbenchmark: Accurate Timing Functions\/}.
+\newblock R package version 1.4-2.
+
+\bibitem[Ogata {\em et~al.}(1999)Ogata, Goto, Sato, Fujibuchi, Bono, and
+  Kanehisa]{Oga1999}
+Ogata, H., Goto, S., Sato, K., Fujibuchi, W., Bono, H., and Kanehisa, M.
+  (1999).
+\newblock {KEGG}: {K}yoto {E}ncyclopedia of {G}enes and {G}enomes.
+\newblock {\em Nucleic Acids Research\/}, {\bf 27}, 29--34.
+
+\bibitem[Van~Wieringen and Peeters(2014)Van~Wieringen and Peeters]{VWie2014b}
+Van~Wieringen, W.~N. and Peeters, C. F.~W. (2014).
+\newblock Ridge estimation of the inverse covariance matrix from
+  high-dimensional data.
+\newblock {\em under revision: \url{http://arxiv.org/pdf/1403.0904.pdf}\/}.
+
+\end{thebibliography}

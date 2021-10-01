@@ -1,0 +1,218 @@
+\chapter{tigaR: integrative significance analysis of temporal differential gene expression induced by genomic abnormalities \\ {\footnotesize (\textit{Miok, V., Wilting, S. M., van de Wiel, M. A., Jaspers, A., van Noort, P. I., Brakenhoff, R. H., Snijders, P. J. F., Steenbergen, R. D. M. and van Wieringen, W. N., BMC Bioinformatics (2014), 15: 327.})}}
+\chaptermark{Temporal differential expression analysis}
+\graphicspath{{Chapter2/Figs/}{Chapter2/Figs/PDF/}{Chapter2/Figs/}}%
+
+
+
+
+\section{Effect of shrinkage}
+The proposed empirical Bayes \cite{Allen2013} procedure shrinks the dispersion-related parameters to constrain flexibility of the spline(s) and protect against overfitting. Shrinkage on the random effects $\gamma_{k,j}$, which control the smoothness of the fit, is achieved via the choice of the hyperprior. Here we investigate the effect of this choice. Two different hyperpriors are considered: the Gamma distribution and a mixture distribution of the Gamma and a point mass at zero. The point mass at zero in the latter hyperprior is expected to yield more shrinkage. We compare the fit (of the splines) with both hyperpriors. Figure \ref{fig:shrinkage} illustrates the difference between the fits (using the two hyperpriors). The difference between the fits is not dramatic, but it shows (as expected) that the mixture of Gamma and point mass at zero yields splines with decreased smoothness. 
+
+  The decreased smoothness as an effect of including point mass at zero, which enforce stronger penalization of non-zero random effects, is considered in the sensitivity and specificity analysis. Figure \ref{fig:mixSensSpec} shows the sensitivity and specificity compared among the methods tigaR, EDGE, timecourse, BATS and tigaR (now employing a `Gamma plus point mass at zero' hyperprior). From Figure \ref{fig:mixSensSpec} we conclude that less smooth splines does not substantially affect the sensitivity and specificity of the method. Thus, the Gamma hyperprior guards (sufficiently) against over-smoothing and potential over-fitting.
+
+\begin{figure}[h!]
+\centering
+\begin{tabular}{c}
+\epsfig{file=Shrinkage1.eps,width=0.45\linewidth, angle=0}
+\end{tabular}
+\caption{The effect of using different hyperpriors in a single cell line. Gene\\
+			expression is plotted against time (single cell line only). The solid red line is the\\
+ 		          fit of the model with a standard hyperprior, while the dashed blue line is that of\\
+ 			the model with the alternative mixture hyperprior.}
+\label{fig:shrinkage}
+\end{figure}
+
+\begin{figure}[h!]
+\centering
+\begin{tabular}{cc}
+\epsfig{file=SensSpecMix1.eps,width=0.45\linewidth, angle=0}
+\epsfig{file=SensSpecMix2.eps,width=0.45\linewidth, angle=0}
+\end{tabular}
+\caption{Plots represent comparison of packages tiagR, EDGE, BATS,\\
+				 timecourse and tigaR which employ hyperprior composed of Gamma and point\\
+                                            mass at zero for the sensitivity and specificity on HPV-induced transformation\\
+ 				 data. The left panel represents the sensitivity (of each model), where the true\\
+				 positive rate is plotted against the number of significant genes. The right panel\\
+ 				 illustrates the specificity (of each method), where the false positive rate is\\
+				 plotted against the number of significant genes.}
+\label{fig:mixSensSpec}
+\end{figure}
+
+\newpage
+
+\section{Effect of a gene specific covariate on shrinkage}
+DNA copy number data varies from one chromosome to another, but within a single chromosome these data exhibit genomic regions that share the same aberration patterns over the samples. We assume a common hyperprior for the gene dosage effect within and between such regions. This is justified within a region, but between regions it may be more appropriate to assume a different dirac-Gaussian hyperprior. By simulation we show that the effect of assuming a common hyperprior for all regions is not unreasonable, in the sense that it does not yield results that differ much from those obtained when employing a separate hyperprior for each region.
+ 
+The simulation involves the data set described in Section 2.1. For 15 regions (comprising features with a common DNA copy number pattern over the samples) we estimate parameters of the gene dosage effect prior distribution with both separate Dirac-Gaussian hyperpriors and a common one, employing the procedure described in Section 1.2. First, we estimate the hyperparameters of the DNA copy number effect using a different Dirac-Gaussian hyperprior for each region.  Then, we also estimate hyperparameters of the gene dosage effect using a dirac-Gaussian hyperprior common to all regions. Figure \ref{fig:mixture} shows the histograms of the sampling distribution from the averaged (over the regions) prior and the common prior of the gene dosage effect. At first glance the histograms are similar. A better comparison is provided by the Quantile-Quantile plot (right panel of Figure \ref{fig:mixture}). The Q-Q plot reveals that these prior distributions (with separate and common Dirac-Gaussian hyperpriors) are alike around their modes, but differ somewhat in their tails. This difference in the tails will decrease as the number of regions increases. In most data sets the number of regions easily exceeds a hundred yielding a much better approximation in the tails. On the other hand, a mixture of many Gaussians with common mean but different variances may be approximated by a $t$-distribution with the degrees of freedom equal to the number of Gaussians in the mixture. Furthermore, as the degrees of freedom of a $t$-distribution  increase it approaches a Gaussian. Hence, a better approximation in the tails is expected with more regions.
+
+
+\begin{figure}[h!]
+\centering
+\begin{tabular}{ccc}
+\epsfig{file=Simulation1.eps,width=0.32\linewidth, angle=0}
+\epsfig{file=Simulation2.eps,width=0.32\linewidth, angle=0}
+\epsfig{file=Simulation3.eps,width=0.32\linewidth, angle=0}
+\end{tabular}
+\caption{Comparison of common and separate Dirac-Gaussian hyperpriors. The\\
+ 				 left panel depicts the prior distribution of the gene dosage effect using a\\
+				 common Dirac-Gaussian hyperpriors for all regions. The middle panel \\
+				 represents the prior distribution for different Dirac-Gaussian hyperpriors per\\
+				 region. The right panel compares these distributions using a Q-Q plot.}
+\label{fig:mixture}
+\end{figure}
+
+
+
+\newpage
+\section{Degree of freedom estimation for penalized splines}
+Within the context of generalized linear mixed models the effective degrees of freedom are (usually) defined by the trace of the hat matrix. The fit of the mixed Model (2) per gene $j$ is obtained by $\hat{\mathbf{Y}}_{j}=\mathbf{H}_{\lambda,j}\mathbf{Y}_{j}$, where $\mathbf{H}_{\lambda,j}$ is the hat matrix, which projects the data onto the space spanned by the design matrix. The matrix $\mathbf{Y}_{*,j,*}$ is transformed into a vector by the $\mbox{vec}$-operator: $\mathbf{Y}_j=\mbox{vec}(\mathbf{Y}_{*,j,*})$, where the measurements of gene $j$ are first ordered by cell lines $i$ and within a cell line by time. The hat matrix for Model (2) is defined using smoothing parameter $\lambda= \sigma_{\gamma,j}^2 / \sigma_{\varepsilon,j}^2$, which controls the smoothness of the fit. Let  $\mathbf{C}_j$ be the joint design matrix comprising covariate information for both the fixed and random effects. The hat matrix is then:
+\[
+\mathbf{H}_{\lambda,j}=\mathbf{C}_j\left(\mathbf{C}_j^\mathrm{T}\mathbf{C}_j+\lambda \mathbf{I}\right)^{-1}\mathbf{C}_j^\mathrm{T}.
+\]
+We exemplify the use of the matrix $\mathbf{C}_j$. Consider the data set from Section 2.1 using a model with a common spline. Then, $\mathbf{C}_{j}= [\mathbf{W}_{i,t}|\tilde{\mathbf{Z}}_t ]$, where $\mathbf{W}_{i,t}$ is a matrix with cell line and DNA copy number covariate information, while  $\tilde{\mathbf{Z}}_t$ contains that for the random (time) effect. Matrix $C_j$ has dimensions $32\times7$, where 32 corresponds to the number of observations on gene $j$, while 7 represents the number of covariates: four cell line effects, one gene dosage effect, and two for the spline (a common spline with two knots). The rows of $\mathbf{C}_j$ are ordered as those of $\mathbf{Y}_j$.
+
+
+Generalizing the definition of degrees of freedom, it is defined as the trace of the hat matrix: $\mbox{df} =  \mbox{tr}(\mathbf{H}_{\lambda,j})$.
+This is thus the degree of freedom of mixed Model (2), depending on the smoothing parameter $\lambda$. It can be interpreted as the number of fitted parameters. Thus, $\mbox{df}$ indicates the `amount of fitting' done by $\mathbf{H}_{\lambda,j}$, which is strictly monotone in $\lambda$.
+
+
+\newpage
+\section{Parameter estimation using the spatial prior}
+In this section we present how parameters of Model (2) are re-estimated when imposing a spatial prior on the gene dosage effect. First, all hyperparameters of Model (2) are estimated univariate as described in Section 1.2. Then, hyperparameter $\rho$ (of the spatial prior) is estimated by regressing $\beta_j$ on $\beta_{j-1}$ (justified by the assumption that $\beta_j$ follows a first-order autoregressive process). Combining the univariate estimated hyperparameters $\sigma_{j-1}^2, \sigma_{j}^2, \sigma_{j+1}^2$ with the estimated spatial hyperprior parameter $\rho$, yields the covariance matrix of the spatial hyperprior of a contiguous triplet. With this estimated spatial prior and the other (univariate) priors at hand, model parameters are re-estimated trivariately (per triplet of contiguous genes). Due to the fact that INLA does not allow to estimate a trivariate model with an AR(1) covariance structure on a fixed effect, estimators of model parameters are derived analytically.
+
+
+Analytical estimators are derived separately for fixed and random effects. For convenience of notation we write $\mathbf{W}_{i,j}$, the joint design matrix of the cell line and DNA copy number information, and $\boldsymbol{\theta}_j=(\boldsymbol{\alpha}_{i,j}, \beta_j)$, the vector of corresponding parameters. Further, the prior distributions for fixed and random effects can be written as $\boldsymbol{\theta}_j|\sigma_{\theta,j}^2\sim \mathcal{N}(\mathbf{0},\sigma_{\theta,j}^2 \mathbf{\Sigma})$ and$\boldsymbol{\gamma}_j|\sigma_{\gamma,j}^2\sim \mathcal{N}(\mathbf{0},\sigma_{\gamma,j}^2 \mathbf{\Psi})$, for appropriate covariance matrices  $\mathbf{\Sigma}$ and $\mathbf{\Psi}$. The part of covariance matrix $\mathbf{\Sigma}$ corresponding to parameters $\beta_j$ incorporates the AR(1) correlation structure.
+ 
+ 
+From \cite{Sorensen2002} we obtain the estimator of the fixed effect in a trivariate linear mixed model, given the hyperparameters:
+\begin{eqnarray*}
+\boldsymbol{\hat{\theta}}_j & = & \left( \mathbf{W}_{i,j}^\mathrm{T}\mathbf{V}_j^{-1}\mathbf{W}_{i,j} + \mathbf{\Sigma}^{-1}\frac{\sigma_{\varepsilon,j}^2}{\sigma_{\theta,j}^2} \right)^{-1} \mathbf{W}_{i,j}^\mathrm{T}\mathbf{V}_j^{-1}\mathbf{Y}_{*,j,*},
+\end{eqnarray*}
+where
+\begin{eqnarray*}
+\mathbf{V}_j^{-1} & = & \left( \tilde{\mathbf{Z}}_t\mathbf{\Psi} \tilde{\mathbf{Z}}_t^\mathrm{T}\frac{\sigma_{\varepsilon,j}^2}{\sigma_{\gamma,j}^2}+\mathbf{I} \right)^{-1}.
+\end{eqnarray*}
+Using $\boldsymbol{\hat{\theta}}$ and previously estimated hyperparameters, the random effect estimator from a trivariate linear mixed model is:
+\begin{eqnarray*}
+\boldsymbol{\hat{\gamma}}_j(\boldsymbol{\hat{\theta}}_j) & = & \left( \tilde{\mathbf{Z}}_t^\mathrm{T}\tilde{\mathbf{Z}}_t + \mathbf{\Psi}^{-1}\frac{\sigma_{\varepsilon,j}^2}{\sigma_{\gamma,j}^2}\right)^{-1} \tilde{\mathbf{Z}}_t^\mathrm{T}
+\left( \mathbf{Y}_{*,j,*}-\mathbf{W}_{i,j}\boldsymbol{\hat{\theta}}_j \right).
+\end{eqnarray*}
+Full derivation of these estimators can be found in Chapter 6 of \cite{Sorensen2002}. 
+
+With these analytic estimators we obtain the trivariate fit of the model. From this trivariate fit, only the parameter estimate of the middle gene in the triplet is preserved and considered its final parameter estimate. Sliding the triplet window over the genome yields final parameter estimates for each gene.
+
+
+
+
+\newpage
+\section{Optimal number of knots for penalized splines}
+DIC is a measure that combines model fit with model complexity (the latter is represented by the number of effective parameters) (\cite{Spiegelhalter2002}).
+When denoting by $\boldsymbol{\theta}_j$ the vector containing all parameters of Model (2), then the goodness-of-fit (for gene $j$) may measured by the deviance $D(\boldsymbol{\theta}_j)=-2\log[L(Y_{*,j,*}|\boldsymbol{\theta}_j)]$. Write $D(\bar{\boldsymbol{\theta}}_j)=D(E_{\boldsymbol{\theta}_j|Y_{*,j,*}}[\boldsymbol{\theta}_j])$ for the deviance of the posterior mean, where $\bar{\boldsymbol{\theta}}_j$ is the expectation of $\boldsymbol{\theta}_j$ and $\bar{D}(\boldsymbol{\theta}_j)=E_{\boldsymbol{\theta}_j|Y_{*,j,*}}[D(\boldsymbol{\theta}_j)]$ for the posterior mean of the deviance. The effective number of parameters $p_{D,j}$  is then calculated per gene as:
+\[
+p_{D,j} \, \, \, = \, \, \, \bar{D}(\boldsymbol{\theta}_j)-D(\boldsymbol{\bar{\theta}}_j),
+\]
+The effective number of parameters $p_{D,j}$ may also be defined directly through the effective degrees of freedom. For the normal hierarchical model, $p_{D,j}=\mbox{tr}(\mathbf{H}_{\lambda,j})$, with $\mathbf{H}_{\lambda,j}$ the hat matrix (\cite{Spiegelhalter2002}). The DIC is now defined as:
+\[
+DIC_j\, \, \, = \, \, \, D(\bar{\boldsymbol{\theta}}_j) + 2p_{D,j} \, \, \, = \, \, \, \bar{D}+p_{Dj}.
+\]
+\mbox{ }
+\\
+To decide on the optimal number of knots, we determine the DIC per gene for different numbers of knots $k=2,\ldots,5$. The value of $k$ with the smallest DIC represents the model which is the best supported by the data (for that particular gene). The optimal number of knots for the whole data set (i.e. all genes) is that $k$ which is the most frequent optimal $k$ over the genes. For the data set from Section 2.1, Figure \ref{fig:DIC} indicates that $k=2$ is the optimal number of knots.
+
+\begin{figure}[h!]
+\centering
+\begin{tabular}{c}
+\epsfig{file=NumKnots.eps,width=0.45\linewidth, angle=0}
+\end{tabular}
+\caption{The bar plot illustrates the frequency of genes where the number of \\
+ 				 knots $k$ is identified with the smallest DIC.}
+\label{fig:DIC}
+\end{figure}
+
+
+\newpage
+\section{Comparison using the data set from the EDGE package}
+The proposed method for temporal differential expression was developed with the data set from Section 2.1 in mind. This may accidentally favor our method in the comparison with its competitors EDGE, timecourse, BATS and the reference (univariate fitted) method. Therefore the comparison is repeated using the data set from EDGE-package (\cite{Storey2005}), thus possibly favoring the EDGE. Again sensitivity, specificity and reproducibility are compared among packages EDGE, timecourse, tigaR, BATS and the reference method. Figure \ref{fig:SensSpec} shows the number of true and false positive rates of the four methods. Qualitatively the same picture emerges as from the comparison using the data from Section 2.1. Similarly, when comparing the reproducibility of the methods (confer Figure \ref{fig:reprod}), again tigaR and BATS outperform  timecourse and EDGE.
+
+
+\begin{figure}[h!]
+\centering
+\begin{tabular}{cc}
+\epsfig{file=SensSpecEdge1.eps,width=0.45\linewidth, angle=0}
+\epsfig{file=SensSpecEdge2.eps,width=0.45\linewidth, angle=0}
+\end{tabular}
+\caption{Plots represent comparison of tigaR, EDGE, timecourse and BATS\\
+				 package for the sensitivity and specificity on the data set from the EDGE-\\
+				 package. The left panel represents the sensitivity (of each model), where the\\
+				 true positive rate is plotted against the number of significant genes. The right\\
+				 panel illustrates the specificity (of each method), where the false positive rate is\\
+				 plotted against the number of significant genes.}
+\label{fig:SensSpec}
+\end{figure}
+
+\newpage
+
+\begin{figure}[h!]
+\centering
+\begin{tabular}{c}
+\epsfig{file=ReproduciabilityEdge1.eps,width=0.45\linewidth, angle=0}
+\end{tabular}
+\caption{The plot illustrates the comparison of the reproducibility between\\
+				 tigaR, EDGE, timecourse, BATS and reference model. The number of\\
+				 significant genes is plotted against number of overlapping genes identified\\
+				 between two groups.}
+\label{fig:reprod}
+\end{figure}
+
+
+
+
+\newpage
+\section{Additional plots}
+In the main manuscript Figure 2, Figure 6 and Figure 7 show only a single cell line. This is done for reasons of clarity: to make a certain effect more visible. Here, in Figure \ref{fig:spatialFit}, Figure \ref{fig:SLC25A36} and Figure \ref{fig:priors} these effects are shown in all four cell lines.
+
+Additionally, a Venn diagram (Figure \ref{fig:VennDiagram}) is presented. It illustrates the various intersections of the sets of features exhibiting temporal differential expression as declared by tigaR, EDGE, timecourse and BATS. The timecourse packages only provides a rank-ordered list of genes. For the comparison the top genes from this list are selected, their number being equal to the number of features selected by tigaR (with a common spline).
+
+\begin{figure}[h!]
+\centering
+\begin{tabular}{c}
+\epsfig{file=SpatialEffect_full-new.eps,width=0.45\linewidth, angle=0}
+\end{tabular}
+\caption{Illustration of the effect of the spatial prior of one gene in four cell\\
+ 				 lines. Gene expression is plotted against time (in four cell lines). The lines\\
+         represent the univariate (red, solid line) and multivariate fit (blue, dashed 		  				 line).}
+\label{fig:spatialFit}
+\end{figure}
+
+\begin{figure}[h!]
+\centering
+\begin{tabular}{c}
+\epsfig{file=SLC25A36_full-new.eps,width=0.45\linewidth, angle=0}
+\end{tabular}
+\caption{Dots represent expression levels of gene SLC25A36 plotted against\\
+ 				 time in four cell lines. The solid (red) line represents the full model while the\\
+ 				 dashed (blue) line illustrates the fit of the model without copy number effect.}
+\label{fig:SLC25A36}
+\end{figure}
+
+\begin{figure}[h!]
+\centering
+\begin{tabular}{c}
+\epsfig{file=Shrinkage_full1.eps,width=0.45\linewidth, angle=0}
+\end{tabular}
+\caption{Effect of using different priors in four cell lines. Gene expression is\\
+      plotted against time (in four cell lines). The solid red line is the fit of the model\\
+ 			with a standard prior, while the dashed blue line is that of the model with an\\ 
+			alternative prior.}
+\label{fig:priors}
+\end{figure}
+
+\begin{figure}[h!]
+\centering
+\begin{tabular}{c}
+\epsfig{file=Venn.pdf,width=0.45\linewidth, angle=0}
+\end{tabular}
+\caption{ Venn diagram of methods tigaR, EDGE, timecourse and BATS.}
+\label{fig:VennDiagram}
+\end{figure}
+

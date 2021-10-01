@@ -1,0 +1,62 @@
+\contentsline {section}{\numberline {1}Some necessary biology}{4}
+\contentsline {subsection}{\numberline {1.1}Molecular biology}{4}
+\contentsline {subsection}{\numberline {1.2}Cancer}{4}
+\contentsline {subsection}{\numberline {1.3}Measurement devices}{5}
+\contentsline {section}{\numberline {2}Regression}{6}
+\contentsline {subsection}{\numberline {2.1}Experiment and }{6}
+\contentsline {subsection}{\numberline {2.2}Model}{6}
+\contentsline {subsection}{\numberline {2.3}Estimation}{8}
+\contentsline {subsection}{\numberline {2.4}Testing}{10}
+\contentsline {subsection}{\numberline {2.5}Coefficient of determination}{10}
+\contentsline {subsection}{\numberline {2.6}Illustration}{11}
+\contentsline {subsection}{\numberline {2.7}Exercises}{11}
+\contentsline {subsection}{\numberline {2.8}Answers}{11}
+\contentsline {section}{\numberline {3}Ridge regression}{12}
+\contentsline {subsection}{\numberline {3.1}Introduction}{12}
+\contentsline {subsection}{\numberline {3.2}Expectation}{13}
+\contentsline {subsection}{\numberline {3.3}Variance}{14}
+\contentsline {subsection}{\numberline {3.4}Mean squared error}{15}
+\contentsline {subsection}{\numberline {3.5}Bayesian regression}{16}
+\contentsline {subsection}{\numberline {3.6}Constrained estimation}{17}
+\contentsline {subsection}{\numberline {3.7}Degrees of freedom}{17}
+\contentsline {subsection}{\numberline {3.8}Eigenvalue shrinkage}{18}
+\contentsline {subsection}{\numberline {3.9}Efficient calculation}{18}
+\contentsline {subsection}{\numberline {3.10}Simulation}{19}
+\contentsline {subsection}{\numberline {3.11}Illustration}{19}
+\contentsline {subsection}{\numberline {3.12}Exercises}{19}
+\contentsline {subsection}{\numberline {3.13}Answers}{19}
+\contentsline {section}{\numberline {4}Lasso regression}{20}
+\contentsline {section}{\numberline {5}Graph theory}{21}
+\contentsline {section}{\numberline {6}The multivariate normal distribution}{22}
+\contentsline {subsection}{\numberline {6.1}The marginal and conditional distribution}{24}
+\contentsline {subsection}{\numberline {6.2}Estimation of $\mmu $ and $\SSigma $}{27}
+\contentsline {subsection}{\numberline {6.3}Algebra with multivariate normally distributed random variables}{30}
+\contentsline {subsection}{\numberline {6.4}Estimation of $\SSigma $ when $p > n$}{30}
+\contentsline {subsection}{\numberline {6.5}Dataset}{31}
+\contentsline {section}{\numberline {7}Partial correlation}{32}
+\contentsline {subsection}{\numberline {7.1}Inverse variance lemma}{34}
+\contentsline {subsection}{\numberline {7.2}Partial correlation and conditional independence}{36}
+\contentsline {subsection}{\numberline {7.3}Relation to regression}{36}
+\contentsline {section}{\numberline {8}A single molecular level}{37}
+\contentsline {subsection}{\numberline {8.1}Experimental design, data, and notation}{37}
+\contentsline {subsection}{\numberline {8.2}The VAR(1) model}{37}
+\contentsline {subsubsection}{\numberline {8.2.1}Stability and stationarity}{40}
+\contentsline {subsubsection}{\numberline {8.2.2}The MA representation}{40}
+\contentsline {subsubsection}{\numberline {8.2.3}The structural VAR model}{40}
+\contentsline {subsection}{\numberline {8.3}Mean, variance, and autocovariance}{41}
+\contentsline {subsection}{\numberline {8.4}Estimation}{43}
+\contentsline {subsubsection}{\numberline {8.4.1}Mean and autocovariance}{43}
+\contentsline {subsubsection}{\numberline {8.4.2}Model parameters $\mathbf {A}$ and $\SSigma _{\varepsilon }$}{44}
+\contentsline {subsubsection}{\numberline {8.4.3}Bias of the OLS/ML estimator of $\mathbf {A}$}{45}
+\contentsline {subsubsection}{\numberline {8.4.4}Estimation with constraints on $\mathbf {A}$}{46}
+\contentsline {subsubsection}{\numberline {8.4.5}Ridge estimation}{46}
+\contentsline {subsection}{\numberline {8.5}Granger causality}{47}
+\contentsline {subsection}{\numberline {8.6}VAR(1) and graphical modelling}{48}
+\contentsline {subsubsection}{\numberline {8.6.1}Contemporaneous conditional dependencies}{48}
+\contentsline {subsubsection}{\numberline {8.6.2}Conditional dependencies across time}{49}
+\contentsline {subsection}{\numberline {8.7}Inference on parameters}{49}
+\contentsline {subsection}{\numberline {8.8}Illustration}{50}
+\contentsline {section}{\numberline {9}Two molecular levels}{51}
+\contentsline {subsection}{\numberline {9.1}The VARX(1) model}{51}
+\contentsline {subsection}{\numberline {9.2}Parameter estimation}{51}
+\contentsline {section}{\numberline {10}Appendix A: Matrix algebra}{54}
