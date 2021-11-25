@@ -1,0 +1,133 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdftex 2016.8.30)  11 JAN 2018 22:55
+entering extended mode
+**C:/Users/v.miok/Desktop/Thesis/Thesis/References/references.bib
+(C:/Users/v.miok/Desktop/Thesis/Thesis/References/references.bib
+Overfull \hbox (33.41269pt too wide) in paragraph at lines 92--100
+[]\tenrm @ARTICLESteenbergen2005, title=HPV-mediated trans-for-ma-tion of the a
+nogen-i-tal tract, au-thor=Steenbergen,|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm @
+.\tenrm A
+.\tenrm R
+.\kern-0.83334
+.etc.
+
+[1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Overfull \hbox (8.85599pt too wide) in paragraph at lines 192--201
+\tenrm tle=Circular bi-nary seg-men-ta-tion for the anal-y-sis of array-based D
+NA copy num-ber data, jour-nal=Biostatistics,|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\tenrm t
+.\tenrm l
+.\tenrm e
+.\tenrm =
+.\tenrm C
+.etc.
+
+
+Overfull \hbox (4.00986pt too wide) in paragraph at lines 256--266
+[]\tenrm @articleDahlhaus2000, ti-tle=Graphical in-ter-ac-tion mod-els for mul-
+ti-vari-ate time se-ries, au-thor=Dahlhaus,|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm @
+.\tenrm a
+.\tenrm r
+.\tenrm t
+.etc.
+
+
+Overfull \hbox (3.35718pt too wide) in paragraph at lines 267--273
+[]\tenrm @bookHamilton1994, ti-tle=Time se-ries anal-y-sis, au-thor=Hamilton, J
+D, year=1994, pub-lisher=Princeton|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm @
+.\tenrm b
+.\kern0.27779
+.\tenrm o
+.etc.
+
+
+Overfull \hbox (17.06541pt too wide) in paragraph at lines 281--291
+[]\tenrm @articleJones2005, ti-tle=Covariance de-com-po-si-tion in undi-rected 
+Gaus-sian graph-i-cal mod-els, au-thor=Jones,|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm @
+.\tenrm a
+.\tenrm r
+.\tenrm t
+.etc.
+
+
+Overfull \hbox (15.1062pt too wide) in paragraph at lines 281--291
+\tenrm B and West, M, jour-nal=Biometrika, vol-ume=92, num-ber=4, pages=779--78
+6, year=2005, pub-lisher=Biometrika|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\tenrm B
+.\glue 3.33333 plus 1.66498 minus 1.11221
+.\tenrm a
+.\tenrm n
+.\tenrm d
+.etc.
+
+
+Overfull \hbox (11.41278pt too wide) in paragraph at lines 328--334
+[]\tenrm @bookNewman2010, ti-tle=Networks: an in-tro-duc-tion, au-thor=Newman, 
+M, year=2010, pub-lisher=Oxford|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm @
+.\tenrm b
+.\kern0.27779
+.\tenrm o
+.etc.
+
+[2]
+Overfull \hbox (9.07932pt too wide) in paragraph at lines 440--449
+[]\tenrm @articleDurst1987, ti-tle=Molecular and cy-to-ge-netic anal-y-sis of i
+m-mor-tal-ized hu-man pri-mary ker-atinocytes|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm @
+.\tenrm a
+.\tenrm r
+.\tenrm t
+.etc.
+
+
+Overfull \hbox (9.12943pt too wide) in paragraph at lines 450--460
+\tenrm lo-mavirus, au-thor=Park, NH and Min, BM and Li, S L and Huang, MZ and D
+oniger, J, jour-nal=Carcinogenesis,|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\tenrm l
+.\tenrm o
+.\discretionary
+..\tenrm -
+.\tenrm m
+.\tenrm a
+.etc.
+
+[3]
+! Undefined control sequence.
+l.517 ...e pipeline for {I}nfinium{\textregistered
+                                                  } {H}uman {M}ethylation 45...
+
+? 
+! Emergency stop.
+l.517 ...e pipeline for {I}nfinium{\textregistered
+                                                  } {H}uman {M}ethylation 45...
+End of file on the terminal!
+
+!  ==> Fatal error occurred, no output PDF file produced!

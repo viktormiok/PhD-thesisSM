@@ -1,0 +1,2851 @@
+@Book{loaderlocal1999,
+  title={Local Regression and Likelihood},
+  author={Loader, C},
+  publisher={Springer},
+  year={1999}
+}
+
+@article{campbell2012smooth,
+  title={Smooth functional tempering for nonlinear differential equation models},
+  author={Campbell, David and Steele, Russell J},
+  journal={Statistics and Computing},
+  volume={22},
+  number={2},
+  pages={429--443},
+  year={2012},
+  publisher={Springer}
+}
+
+@article{nagumo1962active,
+  title={An active pulse transmission line simulating nerve axon},
+  author={Nagumo, Jinichi and Arimoto, S and Yoshizawa, S},
+  journal={Proceedings of the IRE},
+  volume={50},
+  number={10},
+  pages={2061--2070},
+  year={1962},
+  publisher={IEEE}
+}
+
+@article{fitzhugh1961impulses,
+  title={Impulses and physiological states in theoretical models of nerve membrane},
+  author={FitzHugh, Richard},
+  journal={Biophysical journal},
+  volume={1},
+  number={6},
+  pages={445--466},
+  year={1961},
+  publisher={Elsevier}
+}
+
+@article{hooker2012collocinfer,
+  title={CollocInfer: collocation inference for dynamic systems},
+  author={Hooker, Giles and Xiao, Luo and Ramsay, James},
+  journal={R package version 0.1.7},
+  year={2012}
+}
+
+@article{himmelblau1967determination,
+  title={Determination of rate constants for complex kinetics models},
+  author={Himmelblau, DM and Jones, CR and Bischoff, KB},
+  journal={Industrial \& Engineering Chemistry Fundamentals},
+  volume={6},
+  number={4},
+  pages={539--543},
+  year={1967},
+  publisher={ACS Publications}
+}
+
+@article{fellinghauer2013stable,
+  title={Stable graphical model estimation with Random Forests for discrete, continuous, and mixed variables},
+  author={Fellinghauer, Bernd and B{\"u}hlmann, Peter and Ryffel, Martin and Von Rhein, Michael and Reinhardt, Jan D},
+  journal={Computational Statistics \& Data Analysis},
+  volume={64},
+  pages={132--152},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@article{voorman2013graph,
+  title={Graph estimation with joint additive models},
+  author={Voorman, Arend and Shojaie, Ali and Witten, Daniela},
+  journal={Biometrika},
+  pages={ast053},
+  year={2013},
+  publisher={Biometrika Trust}
+}
+
+@article{vujacic2014window,
+  title={Time-course window estimator for ordinary differential equations linear in the
+parameters},
+  author={Vuja{\v{c}}i{\'c}, Ivan and Dattner, Itai  and Gonz{\'a}lez, Javier and  and Wit, Ernst},
+  journal={manuscript under revision in Statistics and Computing},
+  year={2014}
+}
+
+@article{vujacic2014kullback,
+  title={A computationally fast alternative to cross-validation in penalized Gaussian graphical models},
+  author={Vuja{\v{c}}i{\'c}, Ivan and Abbruzzo, Antonino and Wit, Ernst},
+  journal={arXiv preprint arXiv:1309.6216},
+  year={2014},
+}
+
+@article{gonzalez2014reproducing,
+  title={Reproducing kernel Hilbert space based estimation of systems of ordinary differential equations},
+  author={Gonz{\'a}lez, Javier and Vuja{\v{c}}i{\'c}, Ivan and Wit, Ernst},
+  journal={Pattern Recognition Letters},
+  year={2014},
+   volume={45},
+  pages={26--32}
+}
+@article{gonzalez2013inferring,
+  title={Inferring latent gene regulatory network kinetics},
+  author={Gonz{\'a}lez, Javier and Vuja{\v{c}}i{\'c}, Ivan and Wit, Ernst},
+  journal={Statistical applications in genetics and molecular biology},
+  volume={12},
+  number={1},
+  pages={109--127},
+  year={2013}
+}
+
+@article{abbruzzo2014generalized,
+  title={Generalized information criterion for model selection in penalized graphical models},
+  author={Abbruzzo, Antonino and Vuja{\v{c}}i{\'c}, Ivan and Wit, Ernst and Mineo, Angelo M},
+  journal={arXiv preprint arXiv:1403.1249},
+  year={2014}
+}
+
+@article{hall2014quick,
+  title={Quick and easy one-step parameter estimation in differential equations},
+  author={Hall, Peter and Ma, Yanyuan},
+  journal={To be published in Journal of the Royal Statistical Society: Series B (Statistical Methodology)},
+  year={2014},
+  publisher={Wiley Online Library}
+}
+
+
+@article{wang2013class,
+  title={On a class of shrinkage priors for covariance matrix estimation},
+  author={Wang, Hao and Pillai, Natesh S},
+  journal={Journal of Computational and Graphical Statistics},
+  volume={22},
+  number={3},
+  pages={689--707},
+  year={2013},
+  publisher={Taylor \& Francis Group}
+}
+
+
+
+@article{lu2011high,
+  title={High-dimensional ODEs coupled with mixed-effects modeling techniques for dynamic gene regulatory network identification},
+  author={Lu, Tao and Liang, Hua and Li, Hongzhe and Wu, Hulin},
+  journal={Journal of the American Statistical Association},
+  volume={106},
+  number={496},
+  year={2011}
+}
+
+@article{meinshausen2008note,
+  title={A note on the Lasso for Gaussian graphical model selection},
+  author={Meinshausen, Nicolai},
+  journal={Statistics \& Probability Letters},
+  volume={78},
+  number={7},
+  pages={880--884},
+  year={2008},
+  publisher={Elsevier}
+}
+
+@article{hooker2009forcing,
+  title={Forcing function diagnostics for nonlinear dynamics},
+  author={Hooker, Giles},
+  journal={Biometrics},
+  volume={65},
+  number={3},
+  pages={928--936},
+  year={2009},
+  publisher={Wiley Online Library}
+}
+
+@article{cao2008estimatingpredator,
+  title={Estimating a Predator-Prey Dynamical Model with the Parameter Cascades Method},
+  author={Cao, Jiguo and Fussmann, Gregor F and Ramsay, James O},
+  journal={Biometrics},
+  volume={64},
+  number={3},
+  pages={959--967},
+  year={2008},
+  publisher={Wiley Online Library}
+}
+
+@techreport{hooker2007theorems,
+  title={Theorems and calculations for smoothing-based profiled estimation of differential equations},
+  author={Hooker, G},
+  year={2007},
+  institution={Technical Report BU-1671-M, Dept. Bio. Stat. and Comp. Bio., Cornell University}
+}
+
+@Book{wild1989nonlinear,
+  title={Nonlinear Regression},
+  author={Wild, GAF and Seber, CJ},
+  year={1989},
+  publisher={Wiley}
+}
+@Book{bard1974nonlinear,
+  title={Nonlinear parameter estimation},
+  author={Bard, Yonathan},
+  year={1974},
+  publisher={Academic Press New York}
+}
+
+@Book{bates1988nonlinear,
+  title={Nonlinear regression: iterative estimation and linear approximations},
+  author={Bates, Douglas M and Watts, Donald G},
+  year={1988},
+  publisher={Wiley}
+}
+
+@article{cao2007parameter,
+  title={Parameter cascades and profiling in functional data analysis},
+  author={Cao, Jiguo and Ramsay, James O},
+  journal={Computational Statistics},
+  volume={22},
+  number={3},
+  pages={335--351},
+  year={2007},
+  publisher={Springer}
+}
+
+@article{tjoa1991simultaneous,
+  title={Simultaneous solution and optimization strategies for parameter estimation of differential-algebraic equation systems},
+  author={Tjoa, Iauw Bhieng and Biegler, Lorenz T},
+  journal={Industrial \& Engineering Chemistry Research},
+  volume={30},
+  number={2},
+  pages={376--385},
+  year={1991},
+  publisher={ACS Publications}
+}
+
+@Book{ramsay2006functional,
+  title={Functional data analysis},
+  author={Ramsay, J.O. and Silverman B.W.},
+  year={2006},
+  publisher={Springer},
+  edition={2}
+}
+
+
+
+@article{biegler1986nonlinear,
+  title={Nonlinear parameter estimation: a case study comparison},
+  author={Biegler, LT and Damiano, JJ and Blau, GE},
+  journal={AIChE Journal},
+  volume={32},
+  number={1},
+  pages={29--45},
+  year={1986},
+  publisher={Wiley Online Library}
+}
+
+@article{arlot2010survey,
+  title={A survey of cross-validation procedures for model selection},
+  author={Arlot, Sylvain and Celisse, Alain},
+  journal={Statistics Surveys},
+  volume={4},
+  pages={40--79},
+  year={2010},
+  publisher={The author, under a Creative Commons Attribution License}
+}
+
+@article{biegler2004retrospective,
+  title={Retrospective on optimization},
+  author={Biegler, Lorenz T and Grossmann, Ignacio E},
+  journal={Computers \& Chemical Engineering},
+  volume={28},
+  number={8},
+  pages={1169--1192},
+  year={2004},
+  publisher={Elsevier}
+}
+
+@article{varziri2008selecting,
+  title={Selecting optimal weighting factors in iPDA for parameter estimation in continuous-time dynamic models},
+  author={Varziri, MS and Poyton, AA and McAuley, KB and McLellan, PJ and Ramsay, JO},
+  journal={Computers \& Chemical Engineering},
+  volume={32},
+  number={12},
+  pages={3011--3022},
+  year={2008},
+  publisher={Elsevier}
+}
+
+@techreport{hooker2007ipopt,
+  title={Ipopt and neural dynamics: Tips, tricks and diagnostics},
+  author={Hooker, G and Biegler, L},
+  year={2007},
+  institution={Department of Biological Statistics and Computational Biology, Cornell University}
+}
+
+@article{ellner2002fitting,
+  title={Fitting population dynamic models to time-series data by gradient matching},
+  author={Ellner, Stephen P and Seifu, Yodit and Smith, Robert H},
+  journal={Ecology},
+  volume={83},
+  number={8},
+  pages={2256--2270},
+  year={2002},
+  publisher={Eco Soc America}
+}
+
+@article{pascual2000linking,
+  title={Linking ecological patterns to environmental forcing via nonlinear time series models},
+  author={Pascual, Mercedes and Ellner, Stephen P},
+  journal={Ecology},
+  volume={81},
+  number={10},
+  pages={2767--2780},
+  year={2000},
+  publisher={Eco Soc America}
+}
+
+@article{jost2000testing,
+  title={Testing for predator dependence in predator-prey dynamics: a non-parametric approach},
+  author={Jost, Christian and Ellner, Stephen P},
+  journal={Proceedings of the Royal Society of London. Series B: Biological Sciences},
+  volume={267},
+  number={1453},
+  pages={1611--1620},
+  year={2000},
+  publisher={The Royal Society}
+}
+
+@article{madar2003incorporating,
+  title={Incorporating Prior Knowledge in a Cubic Spline Approximation-Application to the Identification of Reaction Kinetic Models},
+  author={Mad{\'a}r, J{\'a}nos and Abonyi, J{\'a}nos and Roubos, Hans and Szeifert, Ferenc},
+  journal={Industrial \& engineering chemistry research},
+  volume={42},
+  number={17},
+  pages={4043--4049},
+  year={2003},
+  publisher={ACS Publications}
+}
+
+
+@article{vajda1986direct,
+  title={A direct-indirect procedure for estimation of kinetic parameters},
+  author={Vajda, S and Valko, P and Yermakova, A},
+  journal={Computers \& chemical engineering},
+  volume={10},
+  number={1},
+  pages={49--58},
+  year={1986},
+  publisher={Elsevier}
+}
+
+
+@Book{lalam2006pseudo,
+  title={Pseudo maximum likelihood estimation for differential equations},
+  author={Lalam, Nadia and Klaassen, Chris AJ},
+  year={2006},
+  publisher={Eurandom}
+}
+
+@article{donnet2007estimation,
+  title={Estimation of parameters in incomplete data models defined by dynamical systems},
+  author={Donnet, Sophie and Samson, Adeline},
+  journal={Journal of Statistical Planning and Inference},
+  volume={137},
+  number={9},
+  pages={2815--2831},
+  year={2007},
+  publisher={Elsevier}
+}
+
+@article{voit1982power,
+  title={Power-Low Approach to Modeling Biological Systems: II. Application to Ethanol Production},
+  author={Voit, Eberhard O and Savageau, Michael A},
+  journal={Journal of fermentation technology},
+  volume={60},
+  number={3},
+  pages={229--232},
+  year={1982},
+  publisher={公益社団法人日本生物工学会}
+}
+
+@Book{bock1983recent,
+  title={Recent advances in parameter identification techniques for O.D.E.},
+  author={Bock, Hans Georg},
+  year={1983},
+  publisher={Springer}
+}
+
+@article{girolami2008bayesian,
+  title={Bayesian inference for differential equations},
+  author={Girolami, Mark},
+  journal={Theoretical Computer Science},
+  volume={408},
+  number={1},
+  pages={4--16},
+  year={2008},
+  publisher={Elsevier}
+}
+
+@article{gelman1996physiological,
+  title={Physiological pharmacokinetic analysis using population modeling and informative prior distributions},
+  author={Gelman, Andrew and Bois, Frederic and Jiang, Jiming},
+  journal={Journal of the American Statistical Association},
+  volume={91},
+  number={436},
+  pages={1400--1412},
+  year={1996},
+  publisher={Taylor \& Francis}
+}
+
+@article{wu1981asymptotic,
+  title={Asymptotic theory of nonlinear least squares estimation},
+  author={Wu, Chien-Fu},
+  journal={The Annals of Statistics},
+  pages={501--513},
+  year={1981},
+  publisher={JSTOR}
+}
+
+@article{stortelder1996parameter,
+  title={Parameter estimation in dynamic systems},
+  author={Stortelder, Walter JH},
+  journal={Mathematics and Computers in Simulation},
+  volume={42},
+  number={2},
+  pages={135--142},
+  year={1996},
+  publisher={Elsevier}
+}
+
+@article{miao2008modeling,
+  title={Modeling and estimation of kinetic parameters and replicative fitness of HIV-1 from flow-cytometry-based growth competition experiments},
+  author={Miao, Hongyu and Dykes, Carrie and Demeter, Lisa M and Cavenaugh, James and Park, Sung Yong and Perelson, Alan S and Wu, Hulin},
+  journal={Bulletin of mathematical biology},
+  volume={70},
+  number={6},
+  pages={1749--1771},
+  year={2008},
+  publisher={Springer}
+}
+
+@article{chen2008estimation,
+  title={Estimation of time-varying parameters in deterministic dynamic models},
+  author={Chen, Jianwei and Wu, Hulin},
+  journal={Statistica Sinica},
+  volume={18},
+  number={3},
+  pages={987--1006},
+  year={2008},
+  publisher={Statistica Sinica}
+}
+
+@article{chen2008efficient,
+  title={Efficient local estimation for time-varying coefficients in deterministic dynamic models with applications to HIV-1 dynamics},
+  author={Chen, Jianwei and Wu, Hulin},
+  journal={Journal of the American Statistical Association},
+  volume={103},
+  number={481},
+  pages={369--384},
+  year={2008},
+  publisher={Taylor \& Francis}
+}
+
+@article{ramsay1996principal,
+  title={Principal differential analysis: Data reduction by Differential Operators},
+  author={Ramsay, Jim O},
+  journal={Journal of the Royal Statistical Society. Series B (Methodological)},
+  volume={58},
+  number={3},
+  pages={495--508},
+  year={1996},
+  publisher={JSTOR}
+}
+
+@article{li2002estimation,
+  title={Estimation and Inference for a Spline-Enhanced Population Pharmacokinetic Model},
+  author={Li, Lang and Brown, Morton B and Lee, Kyung-Hoon and Gupta, Suneel},
+  journal={Biometrics},
+  volume={58},
+  number={3},
+  pages={601--611},
+  year={2002},
+  publisher={Wiley Online Library}
+}
+
+@article{huang2006hierarchical,
+  title={Hierarchical Bayesian methods for estimation of parameters in a longitudinal HIV dynamic system},
+  author={Huang, Yangxin and Liu, Dacheng and Wu, Hulin},
+  journal={Biometrics},
+  volume={62},
+  number={2},
+  pages={413--423},
+  year={2006},
+  publisher={Wiley Online Library}
+}
+
+@article{huang2006bayesian,
+  title={A Bayesian approach for estimating antiviral efficacy in HIV dynamic models},
+  author={Huang, Yangxin and Wu, Hulin},
+  journal={Journal of Applied Statistics},
+  volume={33},
+  number={2},
+  pages={155--174},
+  year={2006},
+  publisher={Taylor \& Francis}
+}
+
+@article{putter2002bayesian,
+  title={A Bayesian approach to parameter estimation in HIV dynamical models},
+  author={Putter, Hein and Heisterkamp, SH and Lange, JMA and De Wolf, F},
+  journal={Statistics in medicine},
+  volume={21},
+  number={15},
+  pages={2199--2214},
+  year={2002},
+  publisher={Wiley Online Library}
+}
+
+@article{poyton2006parameter,
+  title={Parameter estimation in continuous-time dynamic models using principal differential analysis},
+  author={Poyton, AA and Varziri, M Saeed and McAuley, Kim B and McLellan, PJ and Ramsay, Jim O},
+  journal={Computers \& chemical engineering},
+  volume={30},
+  number={4},
+  pages={698--708},
+  year={2006},
+  publisher={Elsevier}
+}
+
+@article{li2005parameter,
+  title={Parameter estimation of ordinary differential equations},
+  author={Li, Zhengfeng and Osborne, Michael R and Prvan, Tania},
+  journal={IMA Journal of Numerical Analysis},
+  volume={25},
+  number={2},
+  pages={264--285},
+  year={2005},
+  publisher={Oxford University Press}
+}
+@Book{ogunnaike1994process,
+  title={Process dynamics, modeling, and control},
+  author={Ogunnaike, Babatunde Ayodeji and Ray, Willis Harmon},
+  year={1994},
+  publisher={Oxford University Press}
+}
+@Book{bard1974nonlinear,
+  title={Nonlinear parameter estimation},
+  author={Bard, Yonathan},
+  volume={1209},
+  year={1974},
+  publisher={Academic Press New York}
+}
+
+@article{hemker1972numerical,
+  title={Numerical methods for differential equations in system simulation and in parameter estimation},
+  author={Hemker, PW},
+  journal={Analysis and Simulation of biochemical systems},
+  pages={59--80},
+  year={1972}
+}
+
+@article{girolami2011riemann,
+  title={Riemann manifold langevin and hamiltonian monte carlo methods},
+  author={Girolami, Mark and Calderhead, Ben},
+  journal={Journal of the Royal Statistical Society: Series B (Statistical Methodology)},
+  volume={73},
+  number={2},
+  pages={123--214},
+  year={2011},
+  publisher={Wiley Online Library}
+}
+
+@article{chkrebtii2013bayesian,
+  title={Bayesian Uncertainty Quantification for Differential Equations},
+  author={Chkrebtii, Oksana and Campbell, David A and Girolami, Mark A and Calderhead, Ben},
+  journal={arXiv preprint arXiv:1306.2365},
+  year={2013},
+}
+
+@article{haykin1998making,
+  title={Making sense of a complex world [chaotic events modeling]},
+  author={Haykin, Simon and Principe, Jose},
+  journal={Signal Processing Magazine, IEEE},
+  volume={15},
+  number={3},
+  pages={66--81},
+  year={1998},
+  publisher={IEEE}
+}
+
+@article{chen2002different,
+  title={On different facets of regularization theory},
+  author={Chen, Zhe and Haykin, Simon},
+  journal={Neural Computation},
+  volume={14},
+  number={12},
+  pages={2791--2846},
+  year={2002},
+  publisher={MIT Press}
+}
+
+@article{xiang1996generalized,
+  title={A generalized approximate cross validation for smoothing splines with non-Gaussian data},
+  author={Xiang, Dong and Wahba, Grace},
+  journal={Statistica Sinica},
+  volume={6},
+  pages={675--692},
+  year={1996},
+  publisher={Citeseer}
+}
+
+@Book{rue2005gaussian,
+  title={Gaussian Markov random fields: theory and applications},
+  author={Rue, Havard and Held, Leonhard},
+  year={2005},
+  publisher={CRC Press}
+}
+
+@article{efron1986biased,
+  title={How biased is the apparent error rate of a prediction rule?},
+  author={Efron, Bradley},
+  journal={Journal of the American Statistical Association},
+  volume={81},
+  number={394},
+  pages={461--470},
+  year={1986},
+  publisher={Taylor \& Francis}
+}
+
+@article{schott2005matrix,
+  title={Matrix analysis for statistics},
+  author={Schott, James R},
+  year={2005},
+  publisher={Wiley}
+}
+
+@Book{harville2008matrix,
+  title={Matrix algebra from a statistician's perspective},
+  author={Harville, David A},
+  year={2008},
+  publisher={Springer},
+  edition={2}
+}
+
+@Book{turkington2005matrix,
+  title={Matrix calculus and zero-one matrices: Statistical and econometric applications},
+  author={Turkington, Darrell A},
+  year={2005},
+  publisher={Cambridge University Press}
+}
+
+@Book{bishop2006pattern,
+  title={Pattern recognition and machine learning},
+  author={Bishop, Christopher M and Nasrabadi, Nasser M},
+  volume={1},
+  year={2006},
+  publisher={springer New York}
+}
+
+@Book{roach1982green,
+  title={Green's functions},
+  author={Roach, Gary Francis},
+  year={1982},
+  publisher={Cambridge University Press},
+  edition={2}
+}
+@Book{barton1989elements,
+  title={Elements of Green's functions and propagation: potentials, diffusion, and waves},
+  author={Barton, Gabriel},
+  year={1989},
+  publisher={Oxford University Press}
+}
+@inProceedings{fasshauer2012green,
+ author={Fasshauer, Gregory E},
+ title = {Green’s functions: Taking another look at kernel approximation, radial basis functions, and splines},
+ Booktitle={Approximation Theory XIII: San Antonio 2010},
+ year = {2012},
+ pages={37--63},
+ publisher = {Springer}
+}
+
+@Book{stakgold1979green,
+  title={Green's functions and boundary value problems},
+  author={Stakgold, Ivar and Holst, Michael J},
+  year={1979},
+  publisher={John Wiley \& Sons}
+}
+
+@Book{duffy2001green,
+  title={Green's functions with applications},
+  author={Duffy, Dean},
+  year={2001},
+  publisher={CRC Press}
+}
+
+@Book{folland1992fourier,
+  title={Fourier analysis and its applications},
+  author={Folland, Gerald B},
+  year={1992},
+  publisher={Wadsworth \& Brooks/Cole}
+}
+
+@Book{kelley2010theory,
+  title={The Theory of Differential Equations: Classical and Qualitative},
+  author={Kelley, Walter G and Peterson, Allan C},
+  year={2010},
+  publisher={Springer},
+ edition={2}
+}
+
+
+@Book{nikol1992functional,
+  title={Functional analysis I: linear functional analysis},
+  author={Nikol'skij, Nikolaj Kapitonovic},
+  volume={19},
+  year={1992},
+  publisher={Springer}
+}
+
+@Book{griffel1985applied,
+  title={Applied functional analysis},
+  author={Griffel, David H},
+  year={1985},
+  publisher={Ellis Horwood Limited}
+}
+
+@Book{smola2002learning,
+  title={Learning with Kernels: Support Vector Machines, Regularization, Optimization and Beyond},
+  author={Smola, Alexander J and others},
+  year={2002},
+  publisher={MIT press}
+}
+
+@Book{steinwart2008support,
+  title={Support vector machines},
+  author={Steinwart, Ingo and Christmann, Andreas},
+  year={2008},
+  publisher={Springer}
+}
+
+@article{aijo2009learning,
+  title={Learning gene regulatory networks from gene expression measurements using non-parametric molecular kinetics},
+  author={{\"A}ij{\"o}, Tarmo and L{\"a}hdesm{\"a}ki, Harri},
+  journal={Bioinformatics},
+  volume={25},
+  number={22},
+  pages={2937--2944},
+  year={2009},
+  publisher={Oxford Univ Press}
+}
+@ARTICLE{bib:Akaike1974,
+  author = {Akaike, H.},
+  title = {A new look at the statistical model identification},
+  journal = {IEEE Transactions on Automatic Control},
+  year = {1974},
+  volume = {19(6)},
+  pages = {716-723}
+}
+
+@BOOK{antia2002numerical,
+  title = {Numerical Methods for Scientists and Engineers},
+  publisher = {Birkhauser Verlag},
+  year = {2002},
+  author = {Antia, H.M.},
+  edition = {2nd},
+  isbn = {3764367156}
+}
+@inproceedings{aronszajn1951green,
+  title={Green's functions and reproducing kernels},
+  author={Aronszajn, N},
+  Booktitle={Proc. Symposium on Spectral Theory and Differential Problems},
+  pages={355--411},
+  year={1951}
+}
+
+@article{aronszajn1950theory,
+  title={Theory of reproducing kernels},
+  author={Aronszajn, Nachman},
+  journal={Transactions of the American mathematical society},
+  volume={68},
+  number={3},
+  pages={337--404},
+  year={1950},
+  publisher={JSTOR}
+}
+
+@article{auliac2008evolutionary,
+  title={Evolutionary approaches for the reverse-engineering of gene regulatory networks: A study on a biologically realistic dataset},
+  author={Auliac, C{\'e}dric and Frouin, Vincent and Gidrol, Xavier and d'Alch{\'e}-Buc, Florence},
+  journal={BMC bioinformatics},
+  volume={9},
+  number={1},
+  pages={91},
+  year={2008},
+  publisher={BioMed Central Ltd}
+}
+
+@ARTICLE{Bach2002,
+  author = {Bach, F. R. and Jordan, M. I.},
+  title = {Kernel Independent Component Analysis},
+  journal = {Journal of Machine Learning Research},
+  year = {2002},
+  volume = {3},
+  pages = {1-48},
+  owner = {JGH},
+  timestamp = {2010.03.15}
+}
+@article{barenco2006ranked,
+  title={Ranked prediction of p53 targets using hidden variable dynamic modeling},
+  author={Barenco, Martino and Tomescu, Daniela and Brewer, Daniel and Callard, Robin and Stark, Jaroslav and Hubank, Michael},
+  journal={Genome biology},
+  volume={7},
+  number={3},
+  pages={R25},
+  year={2006},
+  publisher={BioMed Central Ltd}
+}
+
+@ARTICLE{bib:Berlinet2004,
+  author = {Berlinet, A. and Thomas-Agnan C.},
+  title = {Reproducing kernel Hilbert spaces in probability and statistics},
+  journal = {Springer},
+  year = {2004}
+}
+@Book{berlinet2004reproducing,
+  title={Reproducing kernel Hilbert spaces in probability and statistics},
+  author={Berlinet, Alain and Thomas-Agnan, Christine},
+  volume={3},
+  year={2004},
+  publisher={Kluwer Academic Boston}
+}
+@article{cao2008estimating,
+  title={Estimating dynamic models for gene regulation networks},
+  author={Cao, Jiguo and Zhao, Hongyu},
+  journal={Bioinformatics},
+  volume={24},
+  number={14},
+  pages={1619--1624},
+  year={2008},
+  publisher={Oxford Univ Press}
+}
+
+@inproceedings{chen1999modeling,
+  title={Modeling gene expression with differential equations.},
+  author={Chen, Ting and He, Hongyu L and Church, George M and others},
+  Booktitle={Pacific symposium on biocomputing},
+  volume={4},
+  number={29},
+  pages={29-40},
+  year={1999}
+}
+
+@article{chou2009recent,
+  title={Recent developments in parameter estimation and structure identification of biochemical and genomic systems},
+  author={Chou, I and Voit, Eberhard O and others},
+  journal={Mathematical biosciences},
+  volume={219},
+  number={2},
+  pages={57--83},
+  year={2009},
+  publisher={Elsevier}
+}
+
+
+@ARTICLE{bib:Conway1990,
+  author = {Conway, F.},
+  title = {A Course in Functional Analysis},
+  journal = {Springer-Verlag},
+  year = {1990}
+}
+
+@ARTICLE{Courcelle01052001,
+  author = {Courcelle, Justin and Khodursky, Arkady and Peter, Brian and Brown,
+	Patrick O. and Hanawalt, Philip C.},
+  title = {Comparative Gene Expression Profiles Following UV Exposure in Wild-Type
+	and SOS-Deficient Escherichia coli},
+  journal = {Genetics},
+  year = {2001},
+  volume = {158},
+  pages = {41-64},
+  number = {1},
+  eprint = {http://www.genetics.org/content/158/1/41.full.pdf+html},
+  url = {http://www.genetics.org/content/158/1/41.abstract}
+}
+
+@ARTICLE{craven1979,
+  author = {Craven, P. and Wahba, G.},
+  title = {Smoothing noisy data with spline functions: Estimating the correct
+	degree of smoothing by the method of generalized cross validation.},
+  journal = {Numerische Mathemetik},
+  year = {1979},
+  volume = {31},
+  pages = {377-403}
+}
+
+@ARTICLE{cucker2001learning,
+  author = {Cucker, F. and Smale, S.},
+  title = {On the Mathematical Foundations of Learning},
+  journal = {Bulletin of the American Mathematical Society},
+  year = {2001},
+  volume = {39(1)},
+  pages = {1-49},
+  file = {:./S/S0273-0979-01-00923-5.pdf:PDF}
+}
+
+@Book{duffy2001green,
+  title={Green's functions with applications},
+  author={Duffy, Dean},
+  year={2001},
+  publisher={CRC Press}
+}
+
+@article{efron2004estimation,
+  title={The estimation of prediction error: Covariance Penalties and Cross-Validation},
+  author={Efron, Bradley},
+  journal={Journal of the American Statistical Association},
+  volume={99},
+  number={467},
+  year={2004},
+  pages={619--642},
+}
+
+@ARTICLE{Efron1986,
+  author = {Efron, Bradley},
+  title = {How Biased is the Apparent Error Rate of a Prediction Rule?},
+  journal = {Journal of the American Statistical Association},
+  year = {1986},
+  volume = {81},
+  pages = {pp. 461-470},
+  number = {394},
+  copyright = {Copyright © 1986 American Statistical Association},
+  issn = {01621459},
+  jstor_formatteddate = {Jun., 1986},
+  language = {English},
+  publisher = {American Statistical Association}
+}
+@article{efron1979bootstrap,
+  title={Bootstrap methods: another look at the jackknife},
+  author={Efron, Bradley},
+  journal={The Annals of Statistics},
+  pages={1--26},
+  year={1979},
+  volume={7},
+  number={1},
+  publisher={JSTOR}
+}
+
+@article{fitzhugh1955mathematical,
+  title={Mathematical models of threshold phenomena in the nerve membrane},
+  author={FitzHugh, Richard},
+  journal={The bulletin of mathematical biophysics},
+  volume={17},
+  number={4},
+  pages={257--278},
+  year={1955},
+  publisher={Springer}
+}
+
+
+@article{girolami2011riemann,
+  title={Riemann manifold langevin and hamiltonian monte carlo methods},
+  author={Girolami, Mark and Calderhead, Ben},
+  journal={Journal of the Royal Statistical Society: Series B (Statistical Methodology)},
+  volume={73},
+  number={2},
+  pages={123--214},
+  year={2011},
+  publisher={Wiley Online Library}
+}
+
+
+@ARTICLE{Goel1971,
+  author = {Goel, N. S.},
+  title = {On the Volterra and Other Non-Linear Models of Interacting Populations},
+  journal = {Academic Press Inc.},
+  year = {1971}
+}
+@Book{green1994nonparametric,
+  title={Nonparametric regression and generalized linear models: a roughness penalty approach},
+  author={Green, Peter J and Silverman, Bernard W and Silverman, Bernard W and Silverman, Bernard W},
+  year={1994},
+  publisher={Chapman \& Hall London}
+}
+@Book{trevor2009elements,
+  title={The elements of statistical learning},
+  author={Trevor. Hastie and Robert. Tibshirani and Friedman, J Jerome H},
+  year={2009},
+  publisher={Springer New York},
+  edition = {2}
+}
+
+@ARTICLE{bib:Hochstadt1973,
+  author = {Hochstadt, H.},
+  title = {Integral equations},
+  journal = {John Wiley and Sons. New York},
+  year = {1973},
+  volume = {52},
+  pages = {11503}
+}
+@article{hofmann2008kernel,
+  title={Kernel methods in machine learning},
+  author={Hofmann, Thomas and Sch{\"o}lkopf, Bernhard and Smola, Alexander J},
+  journal={The annals of statistics},
+  pages={1171--1220},
+  year={2008},
+  publisher={JSTOR}
+}
+
+@BOOK{iserles2009second,
+  title = {A First Course in the Numerical Analysis of Differential Equations},
+  publisher = {Cambridge University Press},
+  year = {2009},
+  author = {Iserles, Arieh},
+  address = {New York, NY, USA},
+  edition = {2nd},
+  isbn = {0521734908}
+}
+
+@article{de2002modeling,
+  title={Modeling and simulation of genetic regulatory systems: a literature review},
+  author={De Jong, Hidde},
+  journal={Journal of computational biology},
+  volume={9},
+  number={1},
+  pages={67--103},
+  year={2002},
+  publisher={Mary Ann Liebert, Inc.}
+}
+
+@ARTICLE{Khanin07,
+  author = {R. Khanin and V. Vinciotti and V. Mersinias and C.P. Smith and E.
+	Wit },
+  title = {Statistical Reconstruction of Transcription Factor Activity Using
+	Michaelis-Menten Kinetics },
+  journal = {Biometrics },
+  year = {2007 },
+  volume = { 63 },
+  pages = {816-823},
+  number = { 3 }
+}
+
+@ARTICLE{BIOM:BIOM757,
+  author = {Khanin, R. and Vinciotti, V. and Mersinias, V. and Smith, C. P. and
+	Wit, E.},
+  title = {Statistical Reconstruction of Transcription Factor Activity Using
+	Michaelis–Menten Kinetics},
+  journal = {Biometrics},
+  year = {2007},
+  volume = {63},
+  pages = {816--823},
+  number = {3},
+  doi = {10.1111/j.1541-0420.2007.00757.x},
+  issn = {1541-0420},
+  keywords = {Gene regulation, Maximum likelihood estimation, Michaelis–Menten
+	kinetics, Streptomyces coelicolor},
+  publisher = {Blackwell Publishing Inc}
+}
+@article{khanin2006reconstructing,
+  title={Reconstructing repressor protein levels from expression of gene targets in Escherichia coli},
+  author={Khanin, R and Vinciotti, V and Wit, E},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={103},
+  number={49},
+  pages={18592--18596},
+  year={2006},
+  publisher={National Acad Sciences}
+}
+
+@article{kimeldorf1970correspondence,
+  title={A correspondence between Bayesian estimation on stochastic processes and smoothing by splines},
+  author={Kimeldorf, George S and Wahba, Grace},
+  journal={The Annals of Mathematical Statistics},
+  volume={41},
+  number={2},
+  pages={495--502},
+  year={1970},
+  publisher={JSTOR}
+}
+@article{lawrence2011gaussian,
+  title={Gaussian process inference for differential equation models of transcriptional regulation},
+  author={Lawrence, Neil and Rattray, Magnus and Honkela, Antti and Titsias, Michalis},
+  journal={HandBook of Statistical Systems Biology},
+  pages={376--394},
+  year={2011},
+  publisher={Wiley Online Library}
+}
+@Article{lawrence2006modelling,
+ author = {Neil D. Lawrence and Guido Sanguinetti and Magnus Rattray},
+ title = {Modelling transcriptional regulation using Gaussian Processes},
+ journal = {Advances in Neural Information Processing},
+ year = {2006},
+ volume = {19},
+ pages = {785--792},
+}
+@article{lillacci2010parameter,
+  title={Parameter estimation and model selection in computational biology},
+  author={Lillacci, Gabriele and Khammash, Mustafa},
+  journal={PLoS computational biology},
+  volume={6},
+  number={3},
+  pages={e1000696},
+  year={2010},
+  publisher={Public Library of Science}
+}
+
+@article{lotka1910contribution,
+  title={Contribution to the theory of periodic reactions},
+  author={Lotka, Alfred J},
+  journal={The Journal of Physical Chemistry},
+  volume={14},
+  number={3},
+  pages={271--274},
+  year={1910},
+  publisher={ACS Publications}
+}
+
+@article{ma2010penalized,
+  title={Penalized likelihood regression in reproducing kernel Hilbert spaces with randomized covariate data},
+  author={Ma, Xiwen and Dai, Bin and Klein, Ronald and Klein, Barbara EK and Lee, Kristine E and Wahba, Grace},
+  journal={arXiv preprint arXiv:1008.0415},
+  year={2010}
+}
+
+@ARTICLE{bib:mercer1909,
+  author = {Mercer, J.},
+  title = {Functions of positive and negative type and their connection with
+	the theory of integral equations},
+  journal = {Philosophical Transactions of the Royal Society of London. Series
+	A},
+  year = {1909},
+  volume = {209},
+  pages = { 415-446}
+}
+@article{milo2002network,
+  title={Network motifs: simple building blocks of complex networks},
+  author={Milo, Ron and Shen-Orr, Shai and Itzkovitz, Shalev and Kashtan, Nadav and Chklovskii, Dmitri and Alon, Uri},
+  journal={Science},
+  volume={298},
+  number={5594},
+  pages={824--827},
+  year={2002},
+  publisher={American Association for the Advancement of Science}
+}
+@article{moguerza2006support,
+  title={Support vector machines with applications},
+  author={Moguerza, Javier M and Mu{\~n}oz, Alberto},
+  journal={Statistical Science},
+  pages={322--336},
+  year={2006},
+  publisher={JSTOR}
+}
+
+@BOOK{Nocedal2006NO,
+  title = {Numerical Optimization},
+  publisher = {Springer},
+  year = {2006},
+  author = {J. Nocedal and S. J. Wright},
+  address = {New York},
+  edition = {2nd},
+  ad_theotech = {General},
+  remark = {Section 8.2 gives a short introduction to automatic differentiation}
+}
+
+@ARTICLE{Parzen1970,
+  author = {Parzen, E.},
+  title = {Statistical Inference on time series by RKHS methods},
+  journal = {In Proceedings 12th Biennial Seminar (R. Pyke, ed.) Canadian Mathematical
+	Congress, Montreal.},
+  year = {1970},
+  pages = {1-37},
+  owner = {JGH},
+  timestamp = {2010.03.15}
+}
+@article{poggio1990networks,
+  title={Networks for approximation and learning},
+  author={Poggio, Tomaso and Girosi, Federico},
+  journal={Proceedings of the IEEE},
+  volume={78},
+  number={9},
+  pages={1481--1497},
+  year={1990},
+  publisher={IEEE}
+}
+
+@article{quach2007estimating,
+  title={Estimating parameters and hidden variables in non-linear state-space models based on ODEs for biological networks inference},
+  author={Quach, Minh and Brunel, Nicolas and d'Alch{\'e}-Buc, Florence},
+  journal={Bioinformatics},
+  volume={23},
+  number={23},
+  pages={3209--3216},
+  year={2007},
+  publisher={Oxford Univ Press}
+}
+
+@Book{rasmussen2006gaussian,
+  title={Gaussian processes for machine learning},
+  author={Rasmussen, Carl Edward},
+  year={2006},
+  publisher={The MIT Press}
+}
+
+@article{rogers2007bayesian,
+  title={Bayesian model-based inference of transcription factor activity},
+  author={Rogers, Simon and Khanin, Raya and Girolami, Mark},
+  journal={BMC bioinformatics},
+  volume={8},
+  number={Suppl 2},
+  pages={S2},
+  year={2007},
+  publisher={BioMed Central Ltd}
+}
+@article{ronen2002assigning,
+  title={Assigning numbers to the arrows: parameterizing a gene regulation network by using accurate expression kinetics},
+  author={Ronen, Michal and Rosenberg, Revital and Shraiman, Boris I and Alon, Uri},
+  journal={Proceedings of the national academy of sciences},
+  volume={99},
+  number={16},
+  pages={10555--10560},
+  year={2002},
+  publisher={National Acad Sciences}
+}
+@BOOK{Ryaben2006,
+  title = {A Theoretical Introduction to Numerical Analysis},
+  publisher = {Chapman and Hall/CRC},
+  year = {2006},
+  author = {Ryabenkii, V.S. and Tsynkov, S.V.},
+  optedition = {1}
+}
+
+@ARTICLE{DBLP:journals/bioinformatics/SanguinettiLR06,
+  author = {Guido Sanguinetti and Neil D. Lawrence and Magnus Rattray},
+  title = {Probabilistic inference of transcription factor concentrations and
+	gene-specific regulatory activities},
+  journal = {Bioinformatics},
+  year = {2006},
+  volume = {22},
+  pages = {2775-2781},
+  number = {22},
+  bibsource = {DBLP, http://dblp.uni-trier.de},
+  ee = {http://dx.doi.org/10.1093/bioinformatics/btl473}
+}
+
+@article{sassanfar1990nature,
+  title={Nature of the SOS-inducing signal in \emph{Escherichia coli}: The involvement of DNA replication},
+  author={Sassanfar, Mandana and Roberts, Jeffrey W},
+  journal={Journal of molecular biology},
+  volume={212},
+  number={1},
+  pages={79--96},
+  year={1990},
+  publisher={Elsevier}
+}
+
+
+@ARTICLE{bib:Schwarz1978,
+  author = {Schwarz, G.},
+  title = {Estimating the dimension of a model},
+  journal = {Annals of Statistics},
+  year = {1978},
+  volume = {6},
+  pages = {461-464}
+}
+@article{secrier2009abc,
+  title={The ABC of reverse engineering biological signalling systems},
+  author={Secrier, Maria and Toni, Tina and Stumpf, Michael PH},
+  journal={Molecular Biosystems},
+  volume={5},
+  number={12},
+  pages={1925--1935},
+  year={2009},
+  publisher={Royal Society of Chemistry}
+}
+@article{shanno1978convergence,
+  title={On the convergence of a new conjugate gradient algorithm},
+  author={Shanno, DF},
+  journal={SIAM Journal on Numerical Analysis},
+  volume={15},
+  number={6},
+  pages={1247--1257},
+  year={1978},
+  publisher={SIAM}
+}
+
+@ARTICLE{Shanno78,
+  author = {Shanno, D. F.},
+  title = { On the Convergence of a New Conjugate Gradient Method},
+  journal = {SIAM Journal on Numerical Analysi},
+  year = {1978},
+  volume = {15},
+  pages = {1247-1257}
+}
+@article{smola1998connection,
+  title={The connection between regularization operators and support vector kernels},
+  author={Smola, Alex J and Sch{\"o}lkopf, Bernhard and M{\"u}ller, Klaus-Robert},
+  journal={Neural Networks},
+  volume={11},
+  number={4},
+  pages={637--649},
+  year={1998},
+  publisher={Elsevier}
+}
+
+@article{steinke2008kernels,
+  title={Kernels, regularization and differential equations},
+  author={Steinke, Florian and Sch{\"o}lkopf, Bernhard},
+  journal={Pattern Recognition},
+  volume={41},
+  number={11},
+  pages={3271--3286},
+  year={2008},
+  publisher={Elsevier}
+}
+
+
+@BOOK{Sutherland2009,
+  title = {Introduction to Metric and Topological Spaces },
+  publisher = {Oxford University Press},
+  year = {2009},
+  author = {Sutherland, W. A.},
+  optedition = {2}
+}
+
+@ARTICLE{bib:vapnik95,
+  author = {Vapnik, V.},
+  title = {The Nature of Statistical Learning Theory},
+  journal = {Springer, New York},
+  year = {1995},
+  file = {:./V/Springer - The Nature Of Statistical Learning Theory - 2nd E.pdf:PDF}
+}
+
+@ARTICLE{bib:vapnik95,
+  author = {Vapnik, V.},
+  title = {The Nature of Statistical Learning Theory},
+  journal = {Springer, New York},
+  year = {1995},
+  file = {:./V/Springer - The Nature Of Statistical Learning Theory - 2nd E.pdf:PDF}
+}
+
+@article{voit2004decoupling,
+  title={Decoupling dynamical systems for pathway identification from metabolic profiles},
+  author={Voit, Eberhard O and Almeida, Jonas},
+  journal={Bioinformatics},
+  volume={20},
+  number={11},
+  pages={1670--1681},
+  year={2004},
+  publisher={Oxford Univ Press}
+}
+
+
+@ARTICLE{bib:wahba2003,
+  author = {Wahba, G.},
+  title = {Reproducing Kernel Hilbert Spaces - Two Brief Reviews},
+  journal = {Proceedings of the 13th IFAC Symposium on System Identification},
+  year = {2003},
+  pages = {549-559},
+  file = {:./W/Wahba2003 RKHS.pdf:PDF}
+}
+
+@Book{wahba1990spline,
+  title={Spline models for observational data},
+  author={Wahba, Grace},
+  number={59},
+  year={1990},
+  publisher={Siam}
+}
+
+@Misc{wood2013aptsstatcomputing,
+ author = {Wood, N. Simon and Lindgren, Finn},
+ title  = {APTS Statistical Computing},
+ year   = {2013},
+ howpublished = {Notes}
+}
+
+@article{goldstein1992optimal,
+  title={Optimal plug-in estimators for nonparametric functional estimation},
+  author={Goldstein, Larry and Messer, Karen},
+  journal={The Annals of Statistics},
+ volume={20},
+  number={3},
+  pages={1306--1328},
+  year={1992},
+  publisher={JSTOR}
+}
+@article{bickel2003nonparametric,
+  title={Nonparametric estimators which can be ''plugged-in''},
+  author={Bickel, Peter J and Ritov, Ya'acov},
+  journal={The Annals of Statistics},
+  volume={31},
+  number={4},
+  pages={1033--1053},
+  year={2003},
+  publisher={Institute of Mathematical Statistics}
+}
+@article{stone2007seasonal,
+  title={Seasonal dynamics of recurrent epidemics},
+  author={Stone, Lewi and Olinky, Ronen and Huppert, Amit},
+  journal={Nature},
+  volume={446},
+  number={7135},
+  pages={533--536},
+  year={2007},
+  publisher={Nature Publishing Group}
+}
+
+@article{olinky2008seasonal,
+  title={Seasonal dynamics and thresholds governing recurrent epidemics},
+  author={Olinky, Ronen and Huppert, Amit and Stone, Lewi},
+  journal={Journal of mathematical biology},
+  volume={56},
+  number={6},
+  pages={827--839},
+  year={2008},
+  publisher={Springer}
+}
+
+@article{huppert2012modeling,
+  title={Modeling and statistical analysis of the spatio-temporal patterns of seasonal influenza in Israel},
+  author={Huppert, Amit and Barnea, Oren and Katriel, Guy and Yaari, Rami and Roll, Uri and Stone, Lewi},
+  journal={PloS one},
+  volume={7},
+  number={10},
+  pages={e45107},
+  year={2012},
+  publisher={Public Library of Science}
+}
+
+@article{he2010plug,
+  title={Plug-and-play inference for disease dynamics: measles in large and small populations as a case study},
+  author={He, Daihai and Ionides, Edward L and King, Aaron A},
+  journal={Journal of the Royal Society Interface},
+  volume={7},
+  number={43},
+  pages={271--283},
+  year={2010},
+  publisher={The Royal Society}
+}
+
+@article{finkenstadt2000time,
+  title={Time series modelling of childhood diseases: a dynamical systems approach},
+  author={Finkenst{\"a}dt, B{\"a}rbel F and Grenfell, Bryan T},
+  journal={Journal of the Royal Statistical Society: Series C (Applied Statistics)},
+  volume={49},
+  number={2},
+  pages={187--205},
+  year={2000},
+  publisher={Wiley Online Library}
+}
+
+@article{fine1982measles,
+  title={Measles in England and Wales—I: an analysis of factors underlying seasonal patterns},
+  author={Fine, Paul E and Clarkson, Jacqueline A},
+  journal={International journal of epidemiology},
+  volume={11},
+  number={1},
+  pages={5--14},
+  year={1982},
+  publisher={IEA}
+}
+
+
+@article{earn2000simple,
+  title={A simple model for complex dynamical transitions in epidemics},
+  author={Earn, David JD and Rohani, Pejman and Bolker, Benjamin M and Grenfell, Bryan T},
+  journal={Science},
+  volume={287},
+  number={5453},
+  pages={667--670},
+  year={2000},
+  publisher={American Association for the Advancement of Science}
+}
+@article{earn2000simple,
+  title={A simple model for complex dynamical transitions in epidemics},
+  author={Earn, David JD and Rohani, Pejman and Bolker, Benjamin M and Grenfell, Bryan T},
+  journal={Science},
+  volume={287},
+  number={5453},
+  pages={667--670},
+  year={2000},
+  publisher={American Association for the Advancement of Science}
+}
+
+@article{xun2013parameter,
+  title={Parameter Estimation of Partial Differential Equation Models},
+  author={Xun, Xiaolei and Cao, Jiguo and Mallick, Bani and Maity, Arnab and Carroll, Raymond J},
+  journal={Journal of the American Statistical Association},
+  volume={108},
+  number={503},
+  pages={1009--1020},
+  year={2013},
+  publisher={Taylor \& Francis Group}
+}
+
+@article{miao2008modeling,
+  title={Modeling and estimation of kinetic parameters and replicative fitness of HIV-1 from flow-cytometry-based growth competition experiments},
+  author={Miao, Hongyu and Dykes, Carrie and Demeter, Lisa M and Cavenaugh, James and Park, Sung Yong and Perelson, Alan S and Wu, Hulin},
+  journal={Bulletin of mathematical biology},
+  volume={70},
+  number={6},
+  pages={1749--1771},
+  year={2008},
+  publisher={Springer}
+}
+@article{xue2010sieve,
+  title={Sieve estimation of constant and time-varying coefficients in nonlinear ordinary differential equation models by considering both numerical error and measurement error},
+  author={Xue, Hongqi and Miao, Hongyu and Wu, Hulin},
+  journal={The Annals of Statistics},
+  volume={38},
+  number={4},
+  pages={2351--2387},
+  year={2010},
+  publisher={NIH Public Access}
+}
+
+@article{hooker2011parameterizing,
+  title={Parameterizing state--space models for infectious disease dynamics by generalized profiling: measles in Ontario},
+  author={Hooker, Giles and Ellner, Stephen P and Roditi, Laura De Vargas and Earn, David JD},
+  journal={Journal of The Royal Society Interface},
+  volume={8},
+  number={60},
+  pages={961--974},
+  year={2011},
+  publisher={The Royal Society}
+}
+@article{qi2010asymptotic,
+  title={Asymptotic efficiency and finite-sample properties of the generalized profiling estimation of parameters in ordinary differential equations},
+  author={Qi, Xin and Zhao, Hongyu},
+  journal={The Annals of Statistics},
+  volume={38},
+  number={1},
+  pages={435--481},
+  year={2010},
+  publisher={Institute of Mathematical Statistics}
+}
+
+
+@article{gugushvili2012parametric,
+  title={Parametric inference for stochastic differential equations: a smooth and match approach},
+  author={Gugushvili, Shota and Spreij, Peter},
+  journal={Latin American Journal of Probability and Mathematical Statistics},
+   volume={9},
+  number={2},
+  pages={609--635},
+year={2012}
+}
+@article{gugushvili2012sqrt,
+  title={ $\sqrt{n}$-consistent parameter estimation for systems of ordinary differential equations: bypassing numerical integration via smoothing},
+  author={Gugushvili, Shota and Klaassen, Chris A J},
+  journal={Bernoulli},
+ volume={18},
+ number={3},
+pages={1061--1098},
+  year={2012}
+}
+@article{fang2011two,
+  title={A two-stage estimation method for random coefficient differential equation models with application to longitudinal HIV dynamic data},
+  author={Fang, Yun and Wu, Hulin and Zhu, Li-Xing},
+  journal={Statistica Sinica},
+  volume={21},
+  number={3},
+  pages={1145--1170},
+  year={2011},
+  publisher={NIH Public Access}
+}
+
+@article{liang2008parameter,
+  title={Parameter estimation for differential equation models using a framework of measurement error in regression models},
+  author={Liang, Hua and Wu, Hulin},
+  journal={Journal of the American Statistical Association},
+  volume={103},
+  number={484},
+  pages={1570--1583},
+  year={2008}
+}
+
+
+@article{brunel2008parameter,
+  title={Parameter estimation of ODE's via nonparametric estimators},
+  author={Brunel, Nicolas J B},
+  journal={Electronic Journal of Statistics},
+  volume={2},
+  pages={1242--1267},
+  year={2008},
+  publisher={Institute of Mathematical Statistics}
+}
+
+
+
+@article{bonhoeffer1997virus,
+  title={Virus dynamics and drug therapy},
+  author={Bonhoeffer, Sebastian and May, Robert M and Shaw, George M and Nowak, Martin A},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={94},
+  number={13},
+  pages={6971--6976},
+  year={1997},
+  publisher={National Acad Sciences}
+}
+
+@article{bickel2003nonparametric,
+  title={Nonparametric estimators which can be" plugged-in"},
+  author={Bickel, Peter J and Ritov, Ya'acov},
+  journal={The Annals of Statistics},
+  volume={31},
+  number={4},
+  pages={1033--1053},
+  year={2003},
+  publisher={Institute of Mathematical Statistics}
+}
+
+@article{varah1982spline,
+  title={A spline least squares method for numerical parameter estimation in differential equations},
+  author={Varah, JM},
+  journal={SIAM Journal on Scientific and Statistical Computing},
+  volume={3},
+  number={1},
+  pages={28--46},
+  year={1982},
+  publisher={SIAM}
+}
+
+@article{bellman1971use,
+  title={The use of splines with unknown end points in the identification of systems},
+  author={Bellman, Richard and Roth, Robert S},
+  journal={Journal of Mathematical Analysis and Applications},
+  volume={34},
+  number={1},
+  pages={26--33},
+  year={1971},
+  publisher={Academic Press}
+}
+
+
+@article{gugushvili2012n,
+  title={√ n-consistent parameter estimation for systems of ordinary differential equations: bypassing numerical integration via smoothing},
+  author={Gugushvili, Shota and Klaassen, Chris AJ},
+  journal={Bernoulli},
+  volume={18},
+  number={3},
+  pages={1061--1098},
+  year={2012},
+  publisher={Bernoulli Society for Mathematical Statistics and Probability}
+}
+
+
+@Book{bernstein2009matrix,
+  title={Matrix mathematics: theory, facts, and formulas},
+  author={Bernstein, Dennis S},
+  year={2009},
+  publisher={Princeton University Press}
+}
+
+@article{dattner2013estimation,
+  title={Estimation in Systems of Ordinary Differential Equations Linear in the Parameters},
+  author={Dattner, Itai and Klaassen, Chris AJ},
+  journal={arXiv preprint arXiv:1305.4126},
+  year={2013}
+}
+
+@Book{edelstein2005mathematical,
+  title={Mathematical models in biology},
+  author={Edelstein-Keshet, Leah},
+  volume={46},
+  year={2005},
+  publisher={Siam}
+}
+
+@Book{nowak2000virus,
+  title={Virus dynamics: mathematical principles of immunology and virology},
+  author={Nowak, Martin and May, Robert M},
+  year={2000},
+  publisher={Oxford university press}
+}
+
+
+
+@article{ramsay2007parameter,
+  title={Parameter estimation for differential equations: a generalized smoothing approach},
+  author={Ramsay, Jim O and Hooker, G and Campbell, D and Cao, J},
+  journal={Journal of the Royal Statistical Society: Series B (Statistical Methodology)},
+  volume={69},
+  number={5},
+  pages={741--796},
+  year={2007},
+  publisher={Wiley Online Library}
+}
+
+@article{powers2011evaluation,
+  title={Evaluation: From precision, recall and f-measure to roc., informedness, markedness \& correlation},
+  author={Powers, DMW},
+  journal={Journal of Machine Learning Technologies},
+  volume={2},
+  number={1},
+  pages={37--63},
+  year={2011}
+}
+
+@article{baldi2000assessing,
+  title={Assessing the accuracy of prediction algorithms for classification: an overview},
+  author={Baldi, Pierre and Brunak, S{\o}ren and Chauvin, Yves and Andersen, Claus AF and Nielsen, Henrik},
+  journal={Bioinformatics},
+  volume={16},
+  number={5},
+  pages={412--424},
+  year={2000},
+  publisher={Oxford Univ Press}
+}
+
+@article{feng2013consistent,
+  title={Consistent cross-validation for tuning parameter selection in high-dimensional variable selection},
+  author={Feng, Yang and Yu, Yi},
+  journal={arXiv preprint arXiv:1308.5390},
+  year={2013}
+}
+
+@article{zhang2010regularization,
+  title={Regularization parameter selections via generalized information criterion},
+  author={Zhang, Yiyun and Li, Runze and Tsai, Chih-Ling},
+  journal={Journal of the American Statistical Association},
+  volume={105},
+  number={489},
+  pages={312--323},
+  year={2010},
+  publisher={Taylor \& Francis}
+}
+
+@article{nishii1984asymptotic,
+  title={Asymptotic properties of criteria for selection of variables in multiple regression},
+  author={Nishii, Ryuei},
+  journal={The Annals of Statistics},
+  volume={12},
+  number={2},
+  pages={758--765},
+  year={1984},
+  publisher={JSTOR}
+}
+
+@article{wainwright2008graphical,
+  title={Graphical models, exponential families, and variational inference},
+  author={Wainwright, Martin J and Jordan, Michael I},
+  journal={Foundations and Trends{\textregistered} in Machine Learning},
+  volume={1},
+  number={1-2},
+  pages={1--305},
+  year={2008},
+  publisher={Now Publishers Inc.}
+}
+@InCollection{fried2009robust,
+ author = {Fried, Roland and Vogel, Daniel},
+ title = {On robust Gaussian Graphical Modelling},
+ Booktitle = {Recent Developments in Applied Probability and Statistics},
+ publisher = {Berlin, Heidelberg: Springer},
+ year = {2010}
+}
+@misc{arnold1973ordinary,
+  title={Ordinary differential equations (Translated and edited by RA Silverman)},
+  author={Arnold, VI},
+  year={1973},
+  publisher={MIT Press, Cambridge}
+}
+
+@article{miao2011identifiability,
+  title={On identifiability of nonlinear ODE models and applications in viral dynamics},
+  author={Miao, Hongyu and Xia, Xiaohua and Perelson, Alan S and Wu, Hulin},
+  journal={SIAM review},
+  volume={53},
+  number={1},
+  pages={3--39},
+  year={2011},
+  publisher={SIAM}
+}
+
+@article{ljung1994global,
+  title={On global identifiability for arbitrary model parametrizations},
+  author={Ljung, Lennart and Glad, Torkel},
+  journal={Automatica},
+  volume={30},
+  number={2},
+  pages={265--276},
+  year={1994},
+  publisher={Elsevier}
+}
+
+
+@article{bellman1970structural,
+  title={On structural identifiability},
+  author={Bellman, Ror and {\AA}str{\"o}m, KJ},
+  journal={Mathematical Biosciences},
+  volume={7},
+  number={3},
+  pages={329--339},
+  year={1970},
+  publisher={Elsevier}
+}
+
+
+@article{kullback1951information,
+  title={On information and sufficiency},
+  author={Kullback, Solomon and Leibler, Richard A},
+  journal={The Annals of Mathematical Statistics},
+  volume={22},
+  number={1},
+  pages={79--86},
+  year={1951},
+  publisher={JSTOR}
+}
+
+
+@inproceedings{akaike1973information,
+  title={Information theory and an extension of the maximum likelihood principle},
+  author={Akaike, Hirotugu},
+  Booktitle={Second international symposium on information theory},
+  pages={267--281},
+  year={1973},
+  organization={Akademinai Kiado}
+}
+
+@Article{Rogers07,
+author = {Rogers, S. and Khanin, R. and Girolami, M. },
+title = {Bayesian Model-Based Inference of Transcription Factor Activity},
+journal = {BMC Bioinformatics},
+year = {2007},
+volume = {8},
+}
+@article{khanin2007statistical,
+  title={Statistical reconstruction of transcription factor activity using Michaelis--Menten kinetics},
+  author={Khanin, R and Vinciotti, V and Mersinias, V and Smith, CP and Wit, E},
+  journal={Biometrics},
+  volume={63},
+  number={3},
+  pages={816--823},
+  year={2007},
+  publisher={Wiley Online Library}
+}
+
+@Article{Recchia08,
+author = {Recchia, A.  and  Wit, E. and  Vinciotti, V. and  Kellam, P.},
+title = {Computational Inference of Replication and Transcription Activator Regulator Activity in Herpesvirus from Gene Expression Data},
+journal = {IET Systems Biology},
+year = {2008},
+volume = {2},
+number = {6},
+pages = {385-396},
+}
+
+@Article{Lee00,
+author = {Lee,  M. and Kuo,  F. and Whitmore,  G. and Sklar, J.},
+title = {Importance of Replication in Microarray Gene Expression Studies: Statistical Methods and Evidence from Repetitive cdna Hybridizations},
+journal = {Proceedings of the national Academy of Science },
+year = {2000},
+volume = {2},
+number = {6},
+pages = {385-396},
+}
+
+@Book{Alberts04,
+ title = {Essential Cell Biology},
+ publisher = {Garland Science},
+ year = {2004},
+ author = {Alberts, B. and Bray, D. and Hopkin, K. and Johnson, A. and  Lewis, J. and Raff, M. and Roberts, K. and  Walter, P.},
+ address = {New York},
+ edition = {2nd},
+}
+@Misc{Jones06,
+ author = {Jones, M.D.},
+ title = {Overview of the Central Dogma of Molecular Biology},
+ month = {December},
+ year = {2006},
+ note = {Figure},
+ url = {http://en.wikipedia.org/wiki/File:Cdmb.svg},
+}
+@Misc{Forluvoft071,
+ author = {Forluvoft},
+ title = {Simple Cartoon of Transcription Initiation},
+ month = {October},
+ year = {2007},
+ note = {Figure},
+ url = {http://en.wikipedia.org/wiki/File:Simple_transcription_initiation1.svg},
+}
+@Misc{Forluvoft072,
+ author = {Forluvoft},
+ title = {Simple Cartoon of Transcription Elongation},
+ month = {October},
+ year = {2007},
+ note = {Figure},
+ url = {http://en.wikipedia.org/wiki/File:Simple_transcription_elongation1.svg},
+}
+@Misc{Forluvoft073,
+ author = {Forluvoft},
+ title = {Overview of The Central Dogma of Molecular Biology},
+ month = {October},
+ year = {2007},
+ note = {Figure},
+ url = {http://en.wikipedia.org/wiki/File:Simple_transcription_termination1.svg},
+}
+
+@Article{Jong02,
+ author = {de Jong, H.},
+ title = {Modeling and Simulation of Genetic Regulatory Systems: A Literature Review},
+ journal = {Journal of Computational Biology},
+ year = {2002},
+ OPTkey = {},
+ volume = {9},
+ number = {1},
+ pages = {67-103},
+ }
+@InProceedings{Hinton99,
+ author = {Hinton, G.E},
+ title = {Product of Experts},
+ Booktitle = {Proceedings of the International Conference on Artificial Networks},
+ pages = {1-6},
+ year = {1999},
+ volume = {1},
+ address = {Edinburg,GB},
+ }
+@Misc{Welling07,
+ author = {Welling, M.},
+ title = {Product Of Experts},
+ howpublished = {ScholarPedia},
+ year = {2007},
+}
+@Article{Andrews06,
+ author = {Andrews, S.S. and Arkin, P.A.},
+ title = {Simulating Cell Biology.},
+ journal = {Current Biology },
+ year = {2006},
+ volume = {16},
+ number = {14},
+ pages = {R523-R527},
+}
+
+@Book{Iglesias10,
+ title = {Control Theory and Systems Biology},
+ publisher = {The MIT Press},
+ year = {2010},
+ editor = {Iglesias, P.A. and Ingalls, B.P.},
+ address = {Cambridge, Massachusetts},
+}
+
+@Misc{Moore11,
+ author = {Moore, A.W.},
+ title = {Gaussians},
+ month = {2},
+ year = {2011},
+ note = {Slides},
+ url = {http://www.autonlab.org/tutorials/gaussian.html},
+}
+@Article{calderhead2008accelerating,
+ author = {Calderhead, B. and Girolami, M. and Lawrence, N.},
+ title = {Accelerating Bayesian Inference over Nonlinear Differential Equations with Gaussian Processes},
+ journal = {Advances in Neural Information Processing},
+ year = {2008},
+ volume = {21},
+ pages = {217-224},
+}
+@Book{Rasmussen06,
+ title = {Gaussian Processes for Machine Learning},
+ publisher = {The MIT Press},
+ year = {2006},
+ author = {Rasmussen, C.E. and Williams, C.K.I.},
+ address = {Cambridge, Massachusetts},
+ }
+
+@Misc{Fischer11,
+ author = {Fischer, T. G.},
+ title = {Transcription},
+ month = {February},
+ year = {2011},
+ note = {Figure},
+ url = {http://faculty.irsc.edu/FACULTY/TFischer/micro%20resources.htm},
+}
+@Article{Barenco06,
+ author = {Barenco, M. and Tomescu, D. and Brewer, D. and Callard, R. and Starkt, J. and Hubank, M.},
+ title = {Ranked Prediction of p53 Targets Using Hidden Variable Dynamic Modeling},
+ journal = {Genome Biology},
+ year = {2006},
+ volume = {7},
+ number = {3},
+ pages = {R25},
+}
+
+@Book{Robert10,
+ title = {Introducing Monte Carlo Methods with R},
+ publisher = {Springer},
+ year = {2010},
+ author = {Robert, C.P. and Casella, G.},
+ address = {New York},
+}
+@Book{Parzen62,
+ title = {Stochastic Processes},
+ publisher = {Holden-Day},
+ year = {1962},
+ author = {Parzen, E.},
+ address = {San Francisco},
+}
+
+@Article{ ,
+ author = {},
+ title = {},
+ journal = {Genome Biology},
+ year = {2007},
+ volume = {7},
+ number = {3},
+ pages = {R25},
+}
+@TechReport{Hooker07,
+ author = {Hooker, G.},
+ title = {Theorems and Calculations for Smoothing-Based Profiled Estimation of Differential Equations},
+ institution = {Department of Biological Statistics and Computational Biology, Cornell University},
+ year = {2007},
+}
+@Book{Agarwal08,
+ title = {An Introduction to Ordinary Differential Equations},
+ publisher = {Springer},
+ year = {2008},
+ author = {Agarwal, R.P and O'Regan, D.},
+ address = {New York},
+}
+@Book{Abramowitz65,
+ title = {HandBook of Mathematical Functions},
+ publisher = {Dover},
+ year = {1965},
+ author = {Abramowitz, M. and Stegun, I.A.},
+ address = {New York},
+}
+@Book{Hastie08,
+ title = {The Elements of Statistical Learning: Data Mining, Inference, and Prediction},
+ publisher = {Springer},
+ year = {2008},
+ author = {Hastie, T. and Tibshirani, R. and Friedman, J.},
+ address = {New York},
+ edition = {Second},
+}
+@PhdThesis{Geeven10,
+ author = {Geeven, Geert},
+ title = {Computational statistics for the identification of transcriptional gene regulatory interactions},
+ school = {Vrije Universiteit Amsterdam},
+ year={2010}
+ }
+@Book{Aster05,
+ title = {Parameter Estimation and Inverse Problems},
+ publisher = {Elsevier Academic Press},
+ year = {2005},
+ author = {Aster, C. R. and Borchers B. and Thurber C.H.},
+}
+@Book{Oxford00,
+ title = {Oxford Dictionary of Biochemistry and Molecular Biology},
+ publisher = {Oxford Univeristy Press},
+ year = {2000},
+ editor = {Smith, A.D. and Datta, S.P. and Smith, G.H. and Campbell, P.N. and Bentley, R. and Mckenzie, H.A. and Bender, D.A. and Carozzi, A.J. and Goodwin, T.W. and Parish, J.H. and Stanford, S.C.},
+ address = {Oxford},
+ edition = {Revised First },
+}
+@Book{Stenesh89,
+ title = {Dictionary of Biochemistry and Molecular Biology},
+ publisher = {Wiley},
+ year = {1989},
+ author = {Stenesh, J.},
+ edition = {Second},
+}
+@Book{Sheriff04,
+ title = {Medical Biochemistry},
+ publisher = {Jitendar P Vij},
+ year = {2004},
+ author = {Sheriff, DS},
+ edition = {First},
+}
+@Book{Andrzej07,
+ title = {Systems Biology: Principles, Methods and Concepts},
+ publisher = {CRC Press},
+ year = {2007},
+ editor = {Andrzej, K.K},
+ }
+
+@article{magnus1985matrix,
+  title={Matrix differential calculus with applications to simple, Hadamard, and Kronecker products},
+  author={Magnus, Jan R and Neudecker, Heinz},
+  journal={Journal of Mathematical Psychology},
+  volume={29},
+  number={4},
+  pages={474--492},
+  year={1985},
+  publisher={Elsevier}
+}
+
+@Book{magnus2007matrix,
+ title = {Matrix differential calculus with applications in statistics and econometrics},
+ author = {Magnus, Jan R and Neudecker, Heinz},
+ publisher = {Wiley \& Sons},
+ year = {2007},
+ edition = {Third},
+ }
+
+@Misc{GRN,
+ author = {CBS},
+ title = {Gene regulatory network},
+ month = {2},
+ year = {2011},
+ note = {Figure},
+ url = {http://www.cbs.dtu.dk/researchgroups/regulatorygenomics.php},
+}
+
+@techreport{penny2001kullback,
+  title={Kullback-liebler divergences of normal, gamma, dirichlet and wishart densities},
+  author={Penny, William D},
+  institution={Wellcome Department of Cognitive Neurology},
+  year={2001}
+}
+
+
+@Manual{huge,
+    title = {huge: High-dimensional Undirected Graph Estimation},
+    author = {Tuo Zhao and Han Liu and Kathryn Roeder and John Lafferty and Larry Wasserman},
+    year = {2014},
+    note = {R package version 1.2.6},
+  }
+
+
+@article{fried2009robust,
+  title={On robust Gaussian Graphical Modelling},
+  author={Fried, Roland and Vogel, Daniel},
+  year={2009}
+}
+
+@article{banerjee2008model,
+  title={Model selection through sparse maximum likelihood estimation for multivariate gaussian or binary data},
+  author={Banerjee, Onureena and El Ghaoui, Laurent and d'Aspremont, Alexandre},
+  journal={The Journal of Machine Learning Research},
+  volume={9},
+  pages={485--516},
+  year={2008},
+  publisher={JMLR. org}
+}
+
+@article{wang2007unified,
+  title={Unified LASSO estimation by least squares approximation},
+  author={Wang, Hansheng and Leng, Chenlei},
+  journal={Journal of the American Statistical Association},
+  volume={102},
+  number={479},
+  year={2007}
+}
+
+@article{yang2005can,
+  title={Can the strengths of AIC and BIC be shared? A conflict between model indentification and regression estimation},
+  author={Yang, Yuhong},
+  journal={Biometrika},
+  volume={92},
+  number={4},
+  pages={937--950},
+  year={2005},
+  publisher={Biometrika Trust}
+}
+
+@article{shao1997asymptotic,
+  title={An asymptotic theory for linear model selection},
+  author={Shao, Jun},
+  journal={Statistica Sinica},
+  volume={7},
+  number={2},
+  pages={221--242},
+  year={1997},
+  publisher={C/O DR HC HO, INST STATISTICAL SCIENCE, ACADEMIA SINICA, TAIPEI 115, TAIWAN}
+}
+
+
+@article{xiang1996generalized,
+  title={A generalized approximate cross validation for smoothing splines with non-Gaussian data},
+  author={Xiang, Dong and Wahba, Grace},
+  journal={Statistica Sinica},
+  volume={6},
+  pages={675--692},
+  year={1996},
+  publisher={Citeseer}
+}
+
+@article{craven1978smoothing,
+  title={Smoothing noisy data with spline functions},
+  author={Craven, Peter and Wahba, Grace},
+  journal={Numerische Mathematik},
+  volume={31},
+  number={4},
+  pages={377--403},
+  year={1978},
+  publisher={Springer}
+}
+
+@article{zhao2006model,
+  title={On model selection consistency of Lasso},
+  author={Zhao, Peng and Yu, Bin},
+  journal={The Journal of Machine Learning Research},
+  volume={7},
+  pages={2541--2563},
+  year={2006},
+  publisher={JMLR. org}
+}
+
+@article{dobra2004bayesian,
+  title={Bayesian covariance selection},
+  author={Dobra, Adrian and West, Mike},
+  journal={Duke Statistics Discussion Papers},
+  volume={23},
+  year={2004}
+}
+@article{bickel2008covariance,
+  title={Covariance regularization by thresholding},
+  author={Bickel, Peter J and Levina, Elizaveta},
+  journal={The Annals of Statistics},
+  volume={36},
+  number={6},
+  pages={2577--2604},
+  year={2008},
+  publisher={Institute of Mathematical Statistics}
+}
+
+@article{fan1997comments,
+  title={Comments on {\guillemotleft}Wavelets in statistics: A review{\guillemotright} by A. Antoniadis},
+  author={Fan, Jianqing},
+  journal={Journal of the Italian Statistical Society},
+  volume={6},
+  number={2},
+  pages={131--138},
+  year={1997},
+  publisher={Springer}
+}
+
+@article{huang2006covariance,
+  title={Covariance matrix selection and estimation via penalised normal likelihood},
+  author={Huang, Jianhua Z and Liu, Naiping and Pourahmadi, Mohsen and Liu, Linxu},
+  journal={Biometrika},
+  volume={93},
+  number={1},
+  pages={85--98},
+  year={2006},
+  publisher={Biometrika Trust}
+}
+
+@article{dobra2004sparse,
+  title={Sparse graphical models for exploring gene expression data},
+  author={Dobra, Adrian and Hans, Chris and Jones, Beatrix and Nevins, Joseph R and Yao, Guang and West, Mike},
+  journal={Journal of Multivariate Analysis},
+  volume={90},
+  number={1},
+  pages={196--212},
+  year={2004},
+  publisher={Elsevier}
+}
+
+@article{wong2003efficient,
+  title={Efficient estimation of covariance selection models},
+  author={Wong, Frederick and Carter, Christopher K and Kohn, Robert},
+  journal={Biometrika},
+  volume={90},
+  number={4},
+  pages={809--830},
+  year={2003},
+  publisher={Biometrika Trust}
+}
+
+@article{schafer2005empirical,
+  title={An empirical Bayes approach to inferring large-scale gene association networks},
+  author={Sch{\"a}fer, Juliane and Strimmer, Korbinian},
+  journal={Bioinformatics},
+  volume={21},
+  number={6},
+  pages={754--764},
+  year={2005},
+  publisher={Oxford Univ Press}
+}
+
+@article{li2006gradient,
+  title={Gradient directed regularization for sparse Gaussian concentration graphs, with applications to inference of genetic networks},
+  author={Li, Hongzhe and Gui, Jiang},
+  journal={Biostatistics},
+  volume={7},
+  number={2},
+  pages={302--317},
+  year={2006},
+  publisher={Biometrika Trust}
+}
+
+@article{zou2008one,
+  title={One-step sparse estimates in nonconcave penalized likelihood models},
+  author={Zou, Hui and Li, Runze},
+  journal={Annals of statistics},
+  volume={36},
+  number={4},
+  pages={1509},
+  year={2008},
+  publisher={NIH Public Access}
+}
+
+@article{efron2004least,
+  title={Least angle regression},
+  author={Efron, Bradley and Hastie, Trevor and Johnstone, Iain and Tibshirani, Robert},
+  journal={The Annals of statistics},
+  volume={32},
+  number={2},
+  pages={407--499},
+  year={2004},
+  publisher={Institute of Mathematical Statistics}
+}
+
+@article{fan2004nonconcave,
+  title={Nonconcave penalized likelihood with a diverging number of parameters},
+  author={Fan, Jianqing and Peng, Heng},
+  journal={The Annals of Statistics},
+  volume={32},
+  number={3},
+  pages={928--961},
+  year={2004},
+  publisher={Institute of Mathematical Statistics}
+}
+
+@article{lam2009sparsistency,
+  title={Sparsistency and rates of convergence in large covariance matrix estimation},
+  author={Lam, Clifford and Fan, Jianqing},
+  journal={The Annals of Statistics},
+  volume={37},
+  number={6B},
+  pages={4254--4278},
+  year={2009},
+  publisher={NIH Public Access}
+}
+
+@article{vandenberghe1998determinant,
+  title={Determinant maximization with linear matrix inequality constraints},
+  author={Vandenberghe, Lieven and Boyd, Stephen and Wu, Shao-Po},
+  journal={SIAM journal on matrix analysis and applications},
+  volume={19},
+  number={2},
+  pages={499--533},
+  year={1998},
+  publisher={SIAM}
+}
+
+@article{levina2008sparse,
+  title={Sparse estimation of large covariance matrices via a nested Lasso penalty},
+  author={Levina, Elizaveta and Rothman, Adam and Zhu, Ji},
+  journal={The Annals of Applied Statistics},
+  pages={245--263},
+  year={2008},
+  publisher={JSTOR}
+}
+
+@article{d2008first,
+  title={First-order methods for sparse covariance selection},
+  author={d'Aspremont, Alexandre and Banerjee, Onureena and El Ghaoui, Laurent},
+  journal={SIAM Journal on Matrix Analysis and Applications},
+  volume={30},
+  number={1},
+  pages={56--66},
+  year={2008},
+  publisher={SIAM}
+}
+
+@article{breiman1996heuristics,
+  title={Heuristics of instability and stabilization in model selection},
+  author={Breiman, Leo},
+  journal={The Annals of Statistics},
+  volume={24},
+  number={6},
+  pages={2350--2383},
+  year={1996},
+  publisher={Institute of Mathematical Statistics}
+}
+
+@article{tibshirani1996regression,
+  title={Regression shrinkage and selection via the lasso},
+  author={Tibshirani, Robert},
+  journal={Journal of the Royal Statistical Society. Series B (Methodological)},
+  volume={58},
+  number={1},
+  pages={267--288},
+  year={1996},
+  publisher={JSTOR}
+}
+
+@article{drton2004model,
+  title={Model selection for Gaussian concentration graphs},
+  author={Drton, Mathias and Perlman, Michael D},
+  journal={Biometrika},
+  volume={91},
+  number={3},
+  pages={591--602},
+  year={2004},
+  publisher={Biometrika Trust}
+}
+
+@article{zou2006adaptive,
+  title={The adaptive lasso and its oracle properties},
+  author={Zou, Hui},
+  journal={Journal of the American statistical association},
+  volume={101},
+  number={476},
+  pages={1418--1429},
+  year={2006},
+  publisher={Taylor \& Francis}
+}
+
+@article{fan2001variable,
+  title={Variable selection via nonconcave penalized likelihood and its oracle properties},
+  author={Fan, Jianqing and Li, Runze},
+  journal={Journal of the American Statistical Association},
+  volume={96},
+  number={456},
+  pages={1348--1360},
+  year={2001},
+  publisher={Taylor \& Francis}
+}
+
+@article{zhaowang2007tuning,
+  title={Tuning parameter selectors for the smoothly clipped absolute deviation method},
+  author={Wang, Hansheng and Li, Runze and Tsai, Chih-Ling},
+  journal={Biometrika},
+  volume={94},
+  number={3},
+  pages={553--568},
+  year={2007},
+  publisher={Biometrika Trust}
+}
+@article{yanagihara2006bias,
+  title={Bias correction of cross-validation criterion based on Kullback--Leibler information under a general condition},
+  author={Yanagihara, Hirokazu and Tonda, Tetsuji and Matsumoto, Chieko},
+  journal={Journal of multivariate analysis},
+  volume={97},
+  number={9},
+  pages={1965--1975},
+  year={2006},
+  publisher={Elsevier}
+}
+
+@Book{kolaczyk2009statistical,
+  title={Statistical analysis of network data},
+  author={Kolaczyk, Eric D},
+  year={2009},
+  publisher={Springer}
+}
+
+@article{stone1977asymptotic,
+  title={An asymptotic equivalence of choice of model by cross-validation and Akaike's criterion},
+  author={Stone, Mervyn},
+  journal={Journal of the Royal Statistical Society. Series B (Methodological)},
+  volume={39},
+  number={1},
+  pages={44--47},
+  year={1977},
+  publisher={JSTOR}
+}
+@article{stone1974cross,
+  title={Cross-validatory choice and assessment of statistical predictions},
+  author={Stone, Mervyn},
+  journal={Journal of the Royal Statistical Society. Series B (Methodological)},
+  volume={36},
+  number={2},
+  pages={111--147},
+  year={1974},
+  publisher={JSTOR}
+}
+
+
+@article{menendez2010gene,
+  title={Gene regulatory networks from multifactorial perturbations using Graphical Lasso: application to the DREAM4 Challenge},
+  author={Men{\'e}ndez, Patricia and Kourmpetis, Yiannis AI and ter Braak, Cajo JF and van Eeuwijk, Fred A},
+  journal={PloS one},
+  volume={5},
+  number={12},
+  pages={e14147},
+  year={2010},
+  publisher={Public Library of Science}
+}
+
+@Article{foygel2010ebic,
+ title = {Extended Bayesian Information Criteria for Gaussian Graphical Models},
+ author = {Rina Foygel and Mathias Drton},
+ journal = {Advances in Neural Information Processing Systems},
+ pages = {604--612},
+ volume = {23},
+ year = {2010}
+}
+@article{wang2012bayesian,
+  title={Bayesian Graphical Lasso Models and Efficient Posterior Computation},
+  author={Wang, Hao},
+  journal={Bayesian Analysis},
+  volume={7},
+  number={4},
+  pages={867--886},
+  year={2012},
+  publisher={International Society for Bayesian Analysis}
+}
+
+@article{dempster1972covariance,
+  title={Covariance selection},
+  author={Dempster, Arthur P},
+  journal={Biometrics},
+  volume={28},
+  number={1},
+  pages={157--175},
+  year={1972},
+  publisher={JSTOR}
+}
+
+@article{cai2011constrained,
+  title={A constrained $l_1$ minimization approach to sparse precision matrix estimation},
+  author={Cai, Tony and Liu, Weidong and Luo, Xi},
+  journal={Journal of the American Statistical Association},
+  volume={106},
+  number={494},
+  pages={594--607},
+  year={2011},
+  publisher={Taylor \& Francis}
+}
+
+@PhdThesis{campbell2007bayesian,
+ author = {Campbell, David Alexander},
+ title = {Bayesian collocation tempering and generalized profiling for estimation of parameters from differential equation models},
+ school = {McGill University, Montreal, Quebec},
+ year = {2007},
+ month = {July},
+}
+@PhdThesis{fitch2012computationally,
+ author = {Fitch, Anne Marie},
+ title = {Computationally tractable fitting of graphical models: the cost and benefits of decomposable Bayesian and penalized likelihood approaches},
+ school = {Massey University, Albany, New Zealand},
+ year = {2012}
+ }
+@PhdThesis{chen2012lasso,
+ author = {Chen, Xiaohui},
+ title = {Lasso-type sparse regression and high-dimensional Gaussian graphical models},
+ school = {The University of British Columbia, Vancouver, Canada},
+ year = {2012},
+ month = {April},
+}
+@PhdThesis{schmidt2010graphical,
+  title={Graphical model structure learning with $l_1$-regularization},
+  author={Schmidt, Mark},
+  year={2010},
+  school={The University of British Columbia, Vancouver, Canada}
+}
+
+@article{gao2012tuning,
+  title={Tuning parameter selection for penalized likelihood estimation of Gaussian graphical model},
+  author={Gao, Xin and Pu, Daniel Q and Wu, Yuehua and Xu, Hong},
+  journal={Statistica Sinica},
+  volume={22},
+  number={3},
+  pages={1123},
+  year={2012}
+}
+
+@article{zhou2011high,
+  title={High-dimensional covariance estimation based on Gaussian graphical models},
+  author={Zhou, Shuheng and R{\"u}timann, Philipp and Xu, Min and B{\"u}hlmann, Peter},
+  journal={The Journal of Machine Learning Research},
+  volume={12},
+  pages={2975--3026},
+  year={2011},
+  publisher={JMLR. org}
+}
+
+
+@article{ravikumar2011high,
+  title={High-dimensional covariance estimation by minimizing $l_1$-penalized log-determinant divergence},
+  author={Ravikumar, Pradeep and Wainwright, Martin J and Raskutti, Garvesh and Yu, Bin},
+  journal={Electronic Journal of Statistics},
+  volume={5},
+  pages={935--980},
+  year={2011},
+  publisher={Institute of Mathematical Statistics}
+}
+
+@article{guo2011joint,
+  title={Joint estimation of multiple graphical models},
+  author={Guo, Jian and Levina, Elizaveta and Michailidis, George and Zhu, Ji},
+  journal={Biometrika},
+  volume={98},
+  number={1},
+  pages={1--15},
+  year={2011},
+  publisher={Biometrika Trust}
+}
+
+
+
+@article{,
+  title={},
+  author={},
+  year={2012},
+  publisher={University of British Columbia}
+}
+
+
+@article{fan2009network,
+  title={Network exploration via the adaptive LASSO and SCAD penalties},
+  author={Fan, Jianqing and Feng, Yang and Wu, Yichao},
+  journal={The Annals of Applied Statistics},
+  volume={3},
+  number={2},
+  pages={521--541},
+  year={2009},
+  publisher={NIH Public Access}
+}
+
+
+@article{xue2012regularized,
+  title={Regularized rank-based estimation of high-dimensional nonparanormal graphical models},
+  author={Xue, Lingzhou and Zou, Hui},
+  journal={The Annals of Statistics},
+  volume={40},
+  number={5},
+  pages={2541--2571},
+  year={2012},
+  publisher={Institute of Mathematical Statistics}
+}
+
+
+@article{rothman2008sparse,
+  title={Sparse permutation invariant covariance estimation},
+  author={Rothman, Adam J and Bickel, Peter J and Levina, Elizaveta and Zhu, Ji},
+  journal={Electronic Journal of Statistics},
+  volume={2},
+  pages={494--515},
+  year={2008},
+  publisher={Institute of Mathematical Statistics}
+}
+
+@article{lian2011shrinkage,
+  title={Shrinkage tuning parameter selection in precision matrices estimation},
+  author={Lian, Heng},
+  journal={Journal of Statistical Planning and Inference},
+  volume={141},
+  number={8},
+  pages={2839--2848},
+  year={2011},
+  publisher={Elsevier}
+}
+
+@article{meinshausen2006high,
+  title={High-dimensional graphs and variable selection with the lasso},
+  author={Meinshausen, Nicolai and B{\"u}hlmann, Peter},
+  journal={The Annals of Statistics},
+  volume={34},
+  number={3},
+  pages={1436--1462},
+  year={2006},
+  publisher={Institute of Mathematical Statistics}
+}
+
+@Book{konishi2008information,
+  title={Information criteria and statistical modeling},
+  author={Konishi, Sadanori and Kitagawa, Genshiro},
+  year={2008},
+  publisher={Springer}
+}
+
+@article{konishi1996generalised,
+  title={Generalised information criteria in model selection},
+  author={Konishi, Sadanori and Kitagawa, Genshiro},
+  journal={Biometrika},
+  volume={83},
+  number={4},
+  pages={875--890},
+  year={1996},
+  publisher={Biometrika Trust}
+}
+
+
+ @Book{Bernstein09,
+ title = {Matrix Mathematics},
+ publisher = {Princeton University Press},
+ year = {2009},
+ author = {Bernstein, Dennis S.  },
+ OPTedition = {2},
+ }
+
+@Book{buhlmann2011statistics,
+  title={Statistics for high-dimensional data: methods, theory and applications},
+  author={B{\"u}hlmann, Peter and Van De Geer, Sara},
+  year={2011},
+  publisher={Springer}
+}
+
+
+
+
+@INPROCEEDINGS{Schmidt07,
+    author = {Mark Schmidt and Glenn Fung and R\'omer Rosales},
+    title = {Fast optimization methods for l1 regularization: A comparative study and two new approaches Suplemental Material},
+    Booktitle = {Proceedings of European Conference on Machine Learning},
+    year = {2007},
+    pages = {286--297}
+}
+
+
+
+@article{friedman2008sparse,
+  title={Sparse inverse covariance estimation with the graphical lasso},
+  author={Friedman, J. and Hastie, T. and Tibshirani, R.},
+  journal={Biostatistics},
+  volume={9},
+  number={3},
+  pages={432--441},
+  year={2008},
+  publisher={Biometrika Trust}
+}
+
+@article{meinshausen2006high,
+  title={High-dimensional graphs and variable selection with the lasso},
+  author={Meinshausen, N. and B{\"u}hlmann, P.},
+  journal={The Annals of Statistics},
+  volume={34},
+  number={3},
+  pages={1436--1462},
+  year={2006},
+  publisher={Institute of Mathematical Statistics}
+}
+
+@article{yuan2007model,
+  title={Model selection and estimation in the Gaussian graphical model},
+  author={Yuan, M. and Lin, Y.},
+  journal={Biometrika},
+  volume={94},
+  number={1},
+  pages={19--35},
+  year={2007},
+  publisher={Biometrika Trust}
+}
+
+@article{banerjee2008model,
+  title={Model selection through sparse maximum likelihood estimation for multivariate gaussian or binary data},
+  author={Banerjee, O. and El Ghaoui, L. and d'Aspremont, A.},
+  journal={The Journal of Machine Learning Research},
+  volume={9},
+  pages={485--516},
+  year={2008},
+  publisher={JMLR. org}
+}
+
+@Book{friedman2001elements,
+  title={The elements of statistical learning},
+  author={Friedman, J. and Hastie, T. and Tibshirani, R.},
+  volume={1},
+  year={2001},
+  publisher={Springer Series in Statistics}
+}
+
+@article{chen1996class,
+  title={A class of smoothing functions for nonlinear and mixed complementarity problems},
+  author={Chen, C. and Mangasarian, O.L.},
+  journal={Computational Optimization and Applications},
+  volume={5},
+  number={2},
+  pages={97--138},
+  year={1996},
+  publisher={Springer}
+}
+
+@Book{lauritzen1996graphical,
+  title={Graphical models},
+  author={Lauritzen, Steffen L},
+  year={1996},
+  publisher={Oxford University Press}
+}
+
+
+@Book{edwards2000introduction,
+  title={Introduction to graphical modelling},
+  author={Edwards, David},
+  year={2000},
+  publisher={Springer}
+}
+
+@Book{whittaker2009graphical,
+  title={Graphical models in applied multivariate statistics},
+  author={Whittaker, Joe},
+  year={2009},
+  publisher={Wiley Publishing}
+}
+
+@article{liu2012high,
+  title={High-dimensional semiparametric Gaussian copula graphical models},
+  author={Liu, Han and Han, Fang and Yuan, Ming and Lafferty, John and Wasserman, Larry},
+  journal={The Annals of Statistics},
+  volume={40},
+  number={4},
+  pages={2293--2326},
+  year={2012},
+  publisher={Institute of Mathematical Statistics}
+}
+@Article{liuroederwasserman10,
+ title = {Stability Approach to Regularization Selection (StARS) for High  Dimensional Graphical Models},
+ author = {Han Liu and Kathryn Roeder and Larry Wasserman},
+ journal = {Advances in Neural Information Processing Systems},
+ volume={23},
+ pages = {1432--1440},
+ year = {2010}
+}
+
+@misc{williams2011breaking,
+  title={Breaking the Coppersmith-Winograd barrier},
+  author={Williams, V.V.},
+  year={2011},
+  publisher={Manuscript}
+}
+
+@inproceedings{akaike1973information,
+  title={Information theory and an extension of the maximum likelihood principle},
+  author={Akaike, H.},
+  Booktitle={Second international symposium on information theory},
+  volume={1},
+  pages={267--281},
+  year={1973},
+  organization={Springer Verlag}
+}
+
+@article{schwarz1978estimating,
+  title={Estimating the dimension of a model},
+  author={Schwarz, G.},
+  journal={The annals of statistics},
+  volume={6},
+  number={2},
+  pages={461--464},
+  year={1978},
+  publisher={Institute of Mathematical Statistics}
+}
+
+@article{dattner2013estimation,
+  title={Estimation in Systems of Ordinary Differential Equations Linear in the Parameters},
+  author={Dattner, Itai and Klaassen, Chris AJ},
+  journal={arXiv preprint arXiv:1305.4126},
+  year={2013}
+}
+
+@Book{edelstein2005mathematical,
+  title={Mathematical models in biology},
+  author={Edelstein-Keshet, Leah},
+  year={2004},
+  publisher={Siam}
+}
+
+@Book{nowak2000virus,
+  title={Virus dynamics: mathematical principles of immunology and virology},
+  author={Nowak, Martin and May, Robert M},
+  year={2000},
+  publisher={Oxford university press}
+}
+
+
+
+
+
+
+
+
+
