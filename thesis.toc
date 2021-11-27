@@ -1,0 +1,30 @@
+\thispagestyle {empty}
+\contentsline {chapter}{Contents}{iii}{chapter*.1}
+\contentsline {chapter}{Chapter\nobreakspace {}1: Introduction}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}No Supplementary Materials available}{1}{section.1.1}
+\contentsline {chapter}{Chapter\nobreakspace {}2: tigaR: integrative significance analysis of temporal differential gene expression induced by genomic abnormalities \\ {\relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip (\textit {Miok, V., Wilting, S. M., van de Wiel, M. A., Jaspers, A., van Noort, P. I., Brakenhoff, R. H., Snijders, P. J. F., Steenbergen, R. D. M. and van Wieringen, W. N., BMC Bioinformatics (2014), 15: 327.})}}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Effect of shrinkage}{3}{section.2.1}
+\contentsline {section}{\numberline {2.2}Effect of a gene specific covariate on shrinkage}{5}{section.2.2}
+\contentsline {section}{\numberline {2.3}Degree of freedom estimation for penalized splines}{7}{section.2.3}
+\contentsline {section}{\numberline {2.4}Parameter estimation using the spatial prior}{8}{section.2.4}
+\contentsline {section}{\numberline {2.5}Optimal number of knots for penalized splines}{10}{section.2.5}
+\contentsline {section}{\numberline {2.6}Comparison using the data set from the EDGE package}{11}{section.2.6}
+\contentsline {section}{\numberline {2.7}Additional plots}{13}{section.2.7}
+\contentsline {chapter}{Chapter\nobreakspace {}3: Ridge estimation of the VAR(1) model and its time series chain graph from multivariate time-course omics data \\ {\relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip (\textit {Miok, V., Wilting, S. M. and van Wieringen, W. N., Biometrical Journal (2017), 59(1), 172-191})}}{17}{chapter.3}
+\contentsline {section}{\numberline {3.1}Pseudo-code of ridge ML estimation}{18}{section.3.1}
+\contentsline {section}{\numberline {3.2}Comparison of computation time}{19}{section.3.2}
+\contentsline {section}{\numberline {3.3}Decomposable graph illustration}{21}{section.3.3}
+\contentsline {section}{\numberline {3.4}Initial estimate of $\mathbf {\Omega }$ with chordal support}{22}{section.3.4}
+\contentsline {section}{\numberline {3.5}Path analysis illustration}{25}{section.3.5}
+\contentsline {section}{\numberline {3.6}Design of time-course studies in GEO}{26}{section.3.6}
+\contentsline {section}{\numberline {3.7}Comparison by simulation}{29}{section.3.7}
+\contentsline {section}{\numberline {3.8}Illustration, additional material }{57}{section.3.8}
+\contentsline {chapter}{Chapter\nobreakspace {}4: Ridge estimation of network models from time-course omics data \\ {\relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip (\textit {Miok, V., Wilting, S. M. and van Wieringen, W. N., Submitted for publication})}}{61}{chapter.4}
+\contentsline {section}{\numberline {4.1}The VAR(2) model}{61}{section.4.1}
+\contentsline {section}{\numberline {4.2}Multiple VAR(1) models}{65}{section.4.2}
+\contentsline {section}{\numberline {4.3}The VARX(1) model}{68}{section.4.3}
+\contentsline {chapter}{Chapter\nobreakspace {}5: Comprehensive molecular profiling of HPV-induced transformation over time \\{\relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip (\textit {Miok, V., Babion, I., Jaspers, A., Meijer, C. J. L. M., Snijders, P. J. F. and Steenbergen, R. D. M. , van Wieringen, W. N., Wilting, S. M., In preparation})}}{71}{chapter.5}
+\contentsline {section}{\numberline {5.1}Un published material}{71}{section.5.1}
+\contentsline {chapter}{Chapter\nobreakspace {}6: Aberrant methylation-mediated silencing of microRNAs contributes to HPV-induced anchorage independence \\ {\relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip (\textit {Wilting, S. M., Miok, V., Jaspers, A., Boon, D., Sorgad, H., Lando, M., Snoek, B. C., van Wieringen, W. N., Meijer, C. J. L. M., Lyng H., Snijders, P. J. F. and Steenbergen, R. D. M., Oncotarget (2016), 7(28): 43805-43819})}}{73}{chapter.6}
+\contentsline {section}{\numberline {6.1}Supplementary Tables}{73}{section.6.1}
+\contentsline {chapter}{References}{77}{chapter*.61}
