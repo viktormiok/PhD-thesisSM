@@ -12,7 +12,7 @@ Comprehensive molecular characterisation of HPV-induced transformation by longit
 Clone this thesis into a local folder using:
 
 ```{bash}
-clone https://github.com/viktormok/PhD-thesis.git
+clone https://github.com/viktormok/thesis.git
 ```
 
 To compile the thesis, change to the Thesis folder and use `latexmk`:
