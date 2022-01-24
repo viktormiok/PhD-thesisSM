@@ -1,0 +1,4398 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.1)  7 JUN 2018 14:31
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**thesis.tex
+(./thesis.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(./Classes/PhDThesisPSnPDF.cls
+
+LaTeX Warning: You have requested document class `Classes/PhDThesisPSnPDF',
+               but the document class provides `PhDThesisPSnPDF'.
+
+Document Class: PhDThesisPSnPDF 2013/12/10 version 1.0 by Krishna Kumar
+https://github.com/kks32/phd-thesis-template/
+
+Class PhDThesisPSnPDF Warning: The Cambridge University PhD thesis guidelines r
+ecommend using a minimum font size of 11pt (12pt is preferred) and 10pt for foo
+tnotes. on input line 143.
+
+
+Class PhDThesisPSnPDF Warning: Unknown or non-standard option 'notitlepage'. I'
+ll see if I can load it from the book class. If you get a warning unused global
+ option(s): `notitlepage` then the option is not supported! on input line 143.
+
+
+Class PhDThesisPSnPDF Warning: Unknown or non-standard option 'openright'. I'll
+ see if I can load it from the book class. If you get a warning unused global o
+ption(s): `openright` then the option is not supported! on input line 143.
+
+
+Class PhDThesisPSnPDF Warning: Unknown or non-standard option 'leqno'. I'll see
+ if I can load it from the book class. If you get a warning unused global optio
+n(s): `leqno` then the option is not supported! on input line 143.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/leqno.clo
+File: leqno.clo 2016/12/29 v1.2a Standard LaTeX option (left equation numbers)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/fleqn.clo
+File: fleqn.clo 2016/12/29 v1.2a Standard LaTeX option (flush left equations)
+\mathindent=\dimen102
+Applying: [2015/01/01] Make \[ robust on input line 50.
+LaTeX Info: Redefining \[ on input line 51.
+Already applied: [0000/00/00] Make \[ robust on input line 62.
+Applying: [2015/01/01] Make \] robust on input line 74.
+LaTeX Info: Redefining \] on input line 75.
+Already applied: [0000/00/00] Make \] robust on input line 83.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen104
+\Hy@linkcounter=\count88
+\Hy@pagecounter=\count89
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count90
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `unicode' set `true' on input line 4374.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2017/03/14 v6.85a Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4498.
+Package hyperref Info: Link nesting OFF on input line 4503.
+Package hyperref Info: Hyper index ON on input line 4506.
+Package hyperref Info: Plain pages OFF on input line 4513.
+Package hyperref Info: Backreferencing OFF on input line 4518.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4751.
+\c@Hy@tempcnt=\count91
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5104.
+\XeTeXLinkMargin=\dimen105
+\Fld@menulength=\count92
+\Field@Width=\dimen106
+\Fld@charsize=\dimen107
+Package hyperref Info: Hyper figures OFF on input line 6358.
+Package hyperref Info: Link nesting OFF on input line 6363.
+Package hyperref Info: Hyper index ON on input line 6366.
+Package hyperref Info: backreferencing OFF on input line 6373.
+Package hyperref Info: Link coloring OFF on input line 6378.
+Package hyperref Info: Link coloring with OCG OFF on input line 6383.
+Package hyperref Info: PDF/A mode OFF on input line 6388.
+LaTeX Info: Redefining \ref on input line 6428.
+LaTeX Info: Redefining \pageref on input line 6432.
+\Hy@abspage=\count93
+\c@Item=\count94
+\c@Hfootnote=\count95
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2017/03/14 v6.85a Hyperref driver for pdfTeX
+\Fld@listcount=\count96
+\c@bookmark@seq@number=\count97
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip43
+)
+Package hyperref Info: Option `plainpages' set `false' on input line 223.
+Package hyperref Info: Option `pdftoolbar' set `true' on input line 223.
+Package hyperref Info: Option `pdfmenubar' set `true' on input line 223.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 223.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 223.
+
+Package hyperref Info: Option `breaklinks' set `true' on input line 223.
+Package hyperref Info: Option `linktocpage' set `true' on input line 223.
+Package hyperref Info: Option `colorlinks' set `true' on input line 223.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+\Gm@cnth=\count98
+\Gm@cntv=\count99
+\c@Gm@tempcnt=\count100
+\Gm@bindingoffset=\dimen108
+\Gm@wd@mp=\dimen109
+\Gm@odd@mp=\dimen110
+\Gm@even@mp=\dimen111
+\Gm@layoutwidth=\dimen112
+\Gm@layoutheight=\dimen113
+\Gm@layouthoffset=\dimen114
+\Gm@layoutvoffset=\dimen115
+\Gm@dimlist=\toks15
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+\Gread@gobject=\count101
+)))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count102
+\calc@Bcount=\count103
+\calc@Adimen=\dimen116
+\calc@Bdimen=\dimen117
+\calc@Askip=\skip44
+\calc@Bskip=\skip45
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count104
+\calc@Cskip=\skip46
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tocbibind/tocbibind.sty
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has chapter divisions on input line 50.
+
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2009/09/02 v1.2b extra appendix facilities
+\c@@pps=\count105
+\c@@ppsavesec=\count106
+\c@@ppsaveapp=\count107
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf.sty
+Package: epstopdf 2016/05/15 v2.6 Conversion with epstopdf on the fly (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen118
+\Gin@req@width=\dimen119
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip47
+\bibsep=\skip48
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count108
+)
+
+Class PhDThesisPSnPDF Warning: No bibliography style was specified. Default num
+bered style is used. If you would like to use a different style, use `authoryea
+r' or `numbered' in the options in documentclass or use `custombib` and define 
+the natbib package or biblatex package with required style in the Preamble.tex 
+file on input line 315.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+
+Class PhDThesisPSnPDf Warning: Using default font Latin Modern. If you would li
+ke to use other pre-defined fonts use `times' (The Cambridge University PhD the
+sis guidelines recommend using Times font) or `fourier' or load a custom font i
+n the preamble.tex file by specifying `customfont' in the class options on inpu
+t line 339.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/lm/lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0100 (decimal 256)
+   defining Unicode char U+0101 (decimal 257)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+0108 (decimal 264)
+   defining Unicode char U+0109 (decimal 265)
+   defining Unicode char U+010A (decimal 266)
+   defining Unicode char U+010B (decimal 267)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0112 (decimal 274)
+   defining Unicode char U+0113 (decimal 275)
+   defining Unicode char U+0114 (decimal 276)
+   defining Unicode char U+0115 (decimal 277)
+   defining Unicode char U+0116 (decimal 278)
+   defining Unicode char U+0117 (decimal 279)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011C (decimal 284)
+   defining Unicode char U+011D (decimal 285)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0120 (decimal 288)
+   defining Unicode char U+0121 (decimal 289)
+   defining Unicode char U+0122 (decimal 290)
+   defining Unicode char U+0123 (decimal 291)
+   defining Unicode char U+0124 (decimal 292)
+   defining Unicode char U+0125 (decimal 293)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+012A (decimal 298)
+   defining Unicode char U+012B (decimal 299)
+   defining Unicode char U+012C (decimal 300)
+   defining Unicode char U+012D (decimal 301)
+   defining Unicode char U+012E (decimal 302)
+   defining Unicode char U+012F (decimal 303)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0134 (decimal 308)
+   defining Unicode char U+0135 (decimal 309)
+   defining Unicode char U+0136 (decimal 310)
+   defining Unicode char U+0137 (decimal 311)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013B (decimal 315)
+   defining Unicode char U+013C (decimal 316)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0145 (decimal 325)
+   defining Unicode char U+0146 (decimal 326)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+014C (decimal 332)
+   defining Unicode char U+014D (decimal 333)
+   defining Unicode char U+014E (decimal 334)
+   defining Unicode char U+014F (decimal 335)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0156 (decimal 342)
+   defining Unicode char U+0157 (decimal 343)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015C (decimal 348)
+   defining Unicode char U+015D (decimal 349)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+016A (decimal 362)
+   defining Unicode char U+016B (decimal 363)
+   defining Unicode char U+016C (decimal 364)
+   defining Unicode char U+016D (decimal 365)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0172 (decimal 370)
+   defining Unicode char U+0173 (decimal 371)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+01CD (decimal 461)
+   defining Unicode char U+01CE (decimal 462)
+   defining Unicode char U+01CF (decimal 463)
+   defining Unicode char U+01D0 (decimal 464)
+   defining Unicode char U+01D1 (decimal 465)
+   defining Unicode char U+01D2 (decimal 466)
+   defining Unicode char U+01D3 (decimal 467)
+   defining Unicode char U+01D4 (decimal 468)
+   defining Unicode char U+01E2 (decimal 482)
+   defining Unicode char U+01E3 (decimal 483)
+   defining Unicode char U+01E6 (decimal 486)
+   defining Unicode char U+01E7 (decimal 487)
+   defining Unicode char U+01E8 (decimal 488)
+   defining Unicode char U+01E9 (decimal 489)
+   defining Unicode char U+01EA (decimal 490)
+   defining Unicode char U+01EB (decimal 491)
+   defining Unicode char U+01F0 (decimal 496)
+   defining Unicode char U+01F4 (decimal 500)
+   defining Unicode char U+01F5 (decimal 501)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+0232 (decimal 562)
+   defining Unicode char U+0233 (decimal 563)
+   defining Unicode char U+1E02 (decimal 7682)
+   defining Unicode char U+1E03 (decimal 7683)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2010 (decimal 8208)
+   defining Unicode char U+2011 (decimal 8209)
+   defining Unicode char U+2012 (decimal 8210)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2015 (decimal 8213)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+1E20 (decimal 7712)
+   defining Unicode char U+1E21 (decimal 7713)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/ts1enc.dfu
+File: ts1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pdftex/glyphtounicode.tex)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
+\fancy@headwidth=\skip49
+\f@ncyO@elh=\skip50
+\f@ncyO@erh=\skip51
+\f@ncyO@olh=\skip52
+\f@ncyO@orh=\skip53
+\f@ncyO@elf=\skip54
+\f@ncyO@erf=\skip55
+\f@ncyO@olf=\skip56
+\f@ncyO@orf=\skip57
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/nomencl/nomencl.sty
+Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
+\nomlabelwidth=\dimen120
+\nom@tempdim=\dimen121
+\nomitemsep=\skip58
+)
+\@nomenclaturefile=\write3
+\openout3 = `thesis.nlo'.
+
+
+Writing nomenclature file thesis.nlo
+\c@appendix=\count109
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 2016/08/01 v2.7 eTeX basic definition package (PEB,DPC)
+\et@xins=\count110
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/array.sty
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen122
+\extrarowheight=\dimen123
+\NC@list=\toks18
+\extratabsurround=\skip59
+\backup@length=\skip60
+)
+\everycr=\toks19
+\minrowclearance=\skip61
+)
+LaTeX Info: Redefining \color on input line 709.
+\rownum=\count111
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count112
+\lst@gtempboxa=\box26
+\lst@token=\toks20
+\lst@length=\count113
+\lst@currlwidth=\dimen124
+\lst@column=\count114
+\lst@pos=\count115
+\lst@lostspace=\dimen125
+\lst@width=\dimen126
+\lst@newlines=\count116
+\lst@lineno=\count117
+\lst@maxwidth=\dimen127
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count118
+\lst@skipnumbers=\count119
+\lst@framebox=\box27
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang2.sty
+File: lstlang2.sty 2015/06/04 1.6 listings language file
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang3.sty
+File: lstlang3.sty 2015/06/04 1.6 listings language file
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup4
+\symboldletters=\mathgroup5
+\symboldsymbols=\mathgroup6
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 207.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/helvet.sty
+Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks21
+\symAMSa=\mathgroup7
+\symAMSb=\mathgroup8
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2015/03/04 v2.20.2
+\thm@style=\toks22
+\thm@bodyfont=\toks23
+\thm@headfont=\toks24
+\thm@notefont=\toks25
+\thm@headpunct=\toks26
+\thm@preskip=\skip62
+\thm@postskip=\skip63
+\thm@headsep=\skip64
+\dth@everypar=\toks27
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/paralist/paralist.sty
+Package: paralist 2017/01/22 v2.7 Extended list environments
+\pltopsep=\skip65
+\plpartopsep=\skip66
+\plitemsep=\skip67
+\plparsep=\skip68
+\pl@lab=\toks28
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/afterpage.sty
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks29
+\AP@partial=\box28
+\AP@footins=\box29
+)
+LaTeX Font Info:    Overwriting math alphabet `\mathsfit' in version `bold'
+(Font)                  T1/phv/m/sl --> T1/phv/bx/sl on input line 124.
+
+(./Preamble/preamble.tex
+(/usr/local/texlive/2017/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen128
+\captionmargin@=\dimen129
+\captionwidth=\dimen130
+\caption@tempdima=\dimen131
+\caption@indent=\dimen132
+\caption@parindent=\dimen133
+\caption@hangindent=\dimen134
+)
+\c@ContinuedFloat=\count120
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2012/05/21 v1.0 Adjusting TeX boxes (trim, clip, ...)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2017/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks30
+\XKV@tempa@toks=\toks31
+)
+\XKV@depth=\count121
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2012/05/16 v1.0 Trim and clip general TeX material
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box30
+)
+\tc@llx=\dimen135
+\tc@lly=\dimen136
+\tc@urx=\dimen137
+\tc@ury=\dimen138
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+File: tc-pdftex.def 2012/05/13 v1.0 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen139
+\adjbox@Height=\dimen140
+\adjbox@Depth=\dimen141
+\adjbox@Totalheight=\dimen142
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count122
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box31
+\sift@deathcycles=\count123
+\@vwid@loff=\dimen143
+\@vwid@roff=\dimen144
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count124
+\rotFPtop=\skip69
+\rotFPbot=\skip70
+\rot@float@box=\box32
+\rot@mess@toks=\toks32
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/commath/commath.sty
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip71
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks33
+\ex@=\dimen145
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+LaTeX Info: Redefining \boldsymbol on input line 28.
+\pmbraise@=\dimen146
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count125
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count126
+\leftroot@=\count127
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count128
+\DOTSCASE@=\count129
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box33
+\strutbox@=\box34
+\big@size=\dimen147
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count130
+\c@MaxMatrixCols=\count131
+\dotsspace@=\muskip11
+\c@parentequation=\count132
+\dspbrk@lvl=\count133
+\tag@help=\toks34
+\row@=\count134
+\column@=\count135
+\maxfields@=\count136
+\andhelp@=\toks35
+\eqnshift@=\dimen148
+\alignsep@=\dimen149
+\tagshift@=\dimen150
+\tagwidth@=\dimen151
+\totwidth@=\dimen152
+\lineht@=\dimen153
+\@envbody=\toks36
+\multlinegap=\skip72
+\multlinetaggap=\skip73
+\mathdisplay@stack=\toks37
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+\c@KVtest=\count137
+\sf@farskip=\skip74
+\sf@captopadj=\dimen154
+\sf@capskip=\skip75
+\sf@nearskip=\skip76
+\c@subfigure=\count138
+\c@subfigure@save=\count139
+\c@lofdepth=\count140
+\c@subtable=\count141
+\c@subtable@save=\count142
+\c@lotdepth=\count143
+\sf@top=\skip77
+\sf@bottom=\skip78
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
+\TX@col@width=\dimen155
+\TX@old@table=\dimen156
+\TX@old@col=\dimen157
+\TX@target=\dimen158
+\TX@delta=\dimen159
+\TX@cols=\count144
+\TX@ftn=\toks38
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip79
+\enit@outerparindent=\dimen160
+\enit@toks=\toks39
+\enit@inbox=\box35
+\enitdp@description=\count145
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2016/04/27 v1.618033 publication quality tables
+\heavyrulewidth=\dimen161
+\lightrulewidth=\dimen162
+\cmidrulewidth=\dimen163
+\belowrulesep=\dimen164
+\belowbottomsep=\dimen165
+\aboverulesep=\dimen166
+\abovetopsep=\dimen167
+\cmidrulesep=\dimen168
+\cmidrulekern=\dimen169
+\defaultaddspace=\dimen170
+\@cmidla=\count146
+\@cmidlb=\count147
+\@aboverulesep=\dimen171
+\@belowrulesep=\dimen172
+\@thisruleclass=\count148
+\@lastruleclass=\count149
+\@thisrulewidth=\dimen173
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tabulary/tabulary.sty
+Package: tabulary 2014/06/11 v0.10 tabulary package (DPC)
+\TY@count=\count150
+\TY@linewidth=\dimen174
+\tymin=\dimen175
+\tymax=\dimen176
+\TY@tablewidth=\dimen177
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip80
+\multirow@cntb=\count151
+\multirow@dima=\skip81
+\bigstrutjot=\dimen178
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
+\pgfutil@everybye=\toks40
+\pgfutil@tempdima=\dimen179
+\pgfutil@tempdimb=\dimen180
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
+sts.tex))
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box36
+(/usr/local/texlive/2017/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks41
+\pgfkeys@temptoks=\toks42
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
+\pgfkeys@tmptoks=\toks43
+))
+\pgf@x=\dimen181
+\pgf@y=\dimen182
+\pgf@xa=\dimen183
+\pgf@ya=\dimen184
+\pgf@xb=\dimen185
+\pgf@yb=\dimen186
+\pgf@xc=\dimen187
+\pgf@yc=\dimen188
+\w@pgf@writea=\write4
+\r@pgf@reada=\read1
+\c@pgf@counta=\count152
+\c@pgf@countb=\count153
+\c@pgf@countc=\count154
+\c@pgf@countd=\count155
+\t@pgf@toka=\toks44
+\t@pgf@tokb=\toks45
+\t@pgf@tokc=\toks46
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.d
+ef
+File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
+df.def
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+code.tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count156
+\pgfsyssoftpath@bigbuffer@items=\count157
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
+code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen189
+\pgfmath@count=\count158
+\pgfmath@box=\box37
+\pgfmath@toks=\toks47
+\pgfmath@stack@operand=\toks48
+\pgfmath@stack@operation=\toks49
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)))
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count159
+))
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
+de.tex
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen190
+\pgf@picmaxx=\dimen191
+\pgf@picminy=\dimen192
+\pgf@picmaxy=\dimen193
+\pgf@pathminx=\dimen194
+\pgf@pathmaxx=\dimen195
+\pgf@pathminy=\dimen196
+\pgf@pathmaxy=\dimen197
+\pgf@xx=\dimen198
+\pgf@xy=\dimen199
+Normal \dimen register pool exhausted, switching to extended pool.
+\pgf@yx=\dimen256
+\pgf@yy=\dimen257
+\pgf@zx=\dimen258
+\pgf@zy=\dimen259
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
+ruct.code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen260
+\pgf@path@lasty=\dimen261
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
+.code.tex
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen262
+\pgf@shorten@start@additional=\dimen263
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
+de.tex
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box38
+\pgf@hbox=\box39
+\pgf@layerbox@main=\box40
+\pgf@picture@serial@count=\count160
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
+ate.code.tex
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen264
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
+ations.code.tex
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen265
+\pgf@pt@y=\dimen266
+\pgf@pt@temp=\dimen267
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
+e.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+ode.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
+ssing.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+de.tex
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen268
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+e.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen269
+\pgf@sys@shading@range@num=\count161
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+e.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
+code.tex
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box41
+))
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
+de.tex
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
+ncy.code.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
+code.tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
+e.tex
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box42
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
+tex
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen270
+\pgf@nodesepend=\dimen271
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen272
+\pgffor@skip=\dimen273
+\pgffor@stack=\toks50
+\pgffor@toks=\toks51
+))
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
+e.tex
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
+dlers.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count162
+\pgfplotmarksize=\dimen274
+)
+\tikz@lastx=\dimen275
+\tikz@lasty=\dimen276
+\tikz@lastxsaved=\dimen277
+\tikz@lastysaved=\dimen278
+\tikzleveldistance=\dimen279
+\tikzsiblingdistance=\dimen280
+\tikz@figbox=\box43
+\tikz@figbox@bg=\box44
+\tikz@tempbox=\box45
+\tikz@tempbox@bg=\box46
+\tikztreelevel=\count163
+\tikznumberofchildren=\count164
+\tikznumberofcurrentchild=\count165
+\tikz@fig@count=\count166
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
+e.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count167
+\pgfmatrixcurrentcolumn=\count168
+\pgf@matrix@numberofcolumns=\count169
+)
+\tikz@expandcount=\count170
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.
+code.tex
+File: pgflibraryarrows.code.tex 2013/09/23 v3.0.1a (rcs-revision 1.16)
+\arrowsize=\dimen281
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+Package: algorithm2e 2013/01/06 v5.00 algorithms environments
+\c@AlgoLine=\count171
+\algocf@hangindent=\skip82
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+********************************************************
+Package `algorithm2e' Release 5.1 -- october 19 2015 --
+- algorithm2e-announce@lirmm.fr mailing list for announcement about releases
+- algorithm2e-discussion@lirmm.fr mailing list for discussion about package
+subscribe by emailing sympa@lirmm.fr with 'subscribe <list> <firstname name>'
+- Author: Christophe Fiorio (christophe.fiorio@umontpellier.fr)
+********************************************************
+\skiptotal=\skip83
+\skiplinenumber=\skip84
+\skiprule=\skip85
+\skiphlne=\skip86
+\skiptext=\skip87
+\skiplength=\skip88
+\algomargin=\skip89
+\skipalgocfslide=\skip90
+\algowidth=\dimen282
+\inoutsize=\dimen283
+\inoutindent=\dimen284
+\interspacetitleruled=\dimen285
+\interspacealgoruled=\dimen286
+\interspacetitleboxruled=\dimen287
+\algocf@ruledwidth=\skip91
+\algocf@inoutbox=\box47
+\algocf@inputbox=\box48
+\AlCapSkip=\skip92
+\AlCapHSkip=\skip93
+\algoskipindent=\skip94
+\algocf@nlbox=\box49
+\algocf@hangingbox=\box50
+\algocf@untilbox=\box51
+\algocf@skipuntil=\skip95
+\algocf@capbox=\box52
+\algoheightruledefault=\skip96
+\algoheightrule=\skip97
+\algotitleheightruledefault=\skip98
+\algotitleheightrule=\skip99
+\c@algocfline=\count172
+\c@algocfproc=\count173
+\c@algocf=\count174
+\algocf@algoframe=\box53
+\algocf@algobox=\box54
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/preprint/authblk.sty
+Package: authblk 2001/02/27 1.3 (PWD)
+\affilsep=\skip100
+\@affilsep=\skip101
+\c@Maxaffil=\count175
+\c@authors=\count176
+\c@affil=\count177
+)
+\edgelength=\skip102
+\exgredge=\skip103
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+\epsfxsize=\dimen288
+\epsfysize=\dimen289
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks52
+\verbatim@line=\toks53
+\verbatim@in@stream=\read2
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/soul/soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks54
+\SOUL@lasttoken=\toks55
+\SOUL@cmds=\toks56
+\SOUL@buffer=\toks57
+\SOUL@token=\toks58
+\SOUL@spaceskip=\skip104
+\SOUL@ttwidth=\dimen290
+\SOUL@uldp=\dimen291
+\SOUL@ulht=\dimen292
+)
+\c@example=\count178
+\c@proposition=\count179
+\c@theorem=\count180
+\c@definition=\count181
+\c@lemma=\count182
+)
+(./thesis-info.tex) (./thesis.aux (./Chapter1/Ch1.aux) (./Chapter2/Ch2.aux)
+(./Chapter3/Ch3.aux) (./Chapter4/Ch4.aux
+
+LaTeX Warning: Label `fig:contourVAR2' multiply defined.
+
+) (./Chapter5/Ch5.aux
+
+LaTeX Warning: Label `chapter:Window estimator' multiply defined.
+
+) (./Chapter6/Ch6.aux
+
+LaTeX Warning: Label `chapter:Window estimator' multiply defined.
+
+
+LaTeX Warning: Label `tableSM:GEOdatasets' multiply defined.
+
+
+LaTeX Warning: Label `tableSM:GEOdatasets' multiply defined.
+
+
+LaTeX Warning: Label `tableSM:GEOdatasets' multiply defined.
+
+
+LaTeX Warning: Label `tableSM:GEOdatasets' multiply defined.
+
+))
+\openout1 = `thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 272.
+LaTeX Font Info:    ... okay on input line 272.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 272.
+LaTeX Font Info:    ... okay on input line 272.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 272.
+LaTeX Font Info:    ... okay on input line 272.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 272.
+LaTeX Font Info:    ... okay on input line 272.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 272.
+LaTeX Font Info:    ... okay on input line 272.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 272.
+LaTeX Font Info:    ... okay on input line 272.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 272.
+LaTeX Font Info:    ... okay on input line 272.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 272.
+LaTeX Font Info:    ... okay on input line 272.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 272.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 272.
+
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 272.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 272.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+\AtBeginShipoutBox=\box55
+Package hyperref Info: Link coloring ON on input line 272.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count183
+)
+LaTeX Info: Redefining \ref on input line 272.
+LaTeX Info: Redefining \pageref on input line 272.
+LaTeX Info: Redefining \nameref on input line 272.
+
+(./thesis.out) (./thesis.out)
+\@outlinefile=\write5
+\openout5 = `thesis.out'.
+
+
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* hratio: 1:1
+* vratio: 1:1
+* modes: twoside 
+* h-part:(L,W,R)=(74.68848pt, 448.1309pt, 74.68849pt)
+* v-part:(T,H,B)=(105.63086pt, 633.78513pt, 105.63086pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=433.62pt
+* \textheight=650.43pt
+* \oddsidemargin=14.45377pt
+* \evensidemargin=-7.22743pt
+* \topmargin=14.45377pt
+* \headheight=14.5pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=88.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count184
+\scratchdimen=\dimen293
+\scratchbox=\box56
+\nofMPsegments=\count185
+\nofMParguments=\count186
+\everyMPshowfont=\toks59
+\MPscratchCnt=\count187
+\MPscratchDim=\dimen294
+\MPnumerator=\count188
+\makeMPintoPDFobject=\count189
+\everyMPtoPDFconversion=\toks60
+)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 272.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\calc@A' on input line 272.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\calc@Askip' on input line 272.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 272.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\calc@B' on input line 272.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\calc@Bskip' on input line 272.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 272.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\aftergroup' on input line 272.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\calc@B' on input line 272.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\calc@A' on input line 272.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 272.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\aftergroup' on input line 272.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\calc@B' on input line 272.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\calc@A' on input line 272.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\afterassignment' on input line 272.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<def>-command' on input line 272.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\calc@next' on input line 272.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\calc@next' on input line 272.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\calc@A' on input line 272.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\affilsep' on input line 272.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\global' on input line 272.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\calc@A' on input line 272.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\calc@B' on input line 272.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\endgroup' on input line 272.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@affilsep' on input line 272.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\calc@B' on input line 272.
+
+\c@lstlisting=\count190
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: rotating package is loaded.
+Package caption Info: End \AtBeginDocument code.
+ABD: EveryShipout initializing macros
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 272.
+ [1
+
+
+{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 296--297
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 298--299
+
+ []
+
+<VU.png, id=129, 1445.4pt x 1027.84pt>
+File: VU.png Graphic file (type png)
+ <use VU.png>
+Package pdftex.def Info: VU.png used on input line 301.
+(pdftex.def)             Requested size: 130.08731pt x 92.5016pt.
+
+<VUmc.jpg, id=130, 301.125pt x 142.131pt>
+File: VUmc.jpg Graphic file (type jpg)
+ <use VUmc.jpg>
+Package pdftex.def Info: VUmc.jpg used on input line 303.
+(pdftex.def)             Requested size: 216.81pt x 102.33856pt.
+LaTeX Font Info:    Try loading font information for T1+times on input line 311
+.
+LaTeX Font Info:    No file T1times.fd. on input line 311.
+
+
+LaTeX Font Warning: Font shape `T1/times/m/n' undefined
+(Font)              using `T1/cmr/m/n' instead on input line 311.
+
+LaTeX Font Info:    Try loading font information for TS1+times on input line 31
+1.
+LaTeX Font Info:    No file TS1times.fd. on input line 311.
+
+LaTeX Font Warning: Font shape `TS1/times/m/n' undefined
+(Font)              using `TS1/cmr/m/n' instead
+(Font)              for symbol `textcopyright' on input line 311.
+
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 322.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 322.
+
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 322
+.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 322
+.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 322.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 322.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 322.
+LaTeX Font Info:    Try loading font information for U+msa on input line 322.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 322.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+lasy on input line 322.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+Underfull \hbox (badness 10000) in paragraph at lines 310--325
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 310--325
+
+ []
+
+[2 <./VU.png (PNG copy)> <./VUmc.jpg>]pdfTeX warning (ext4): destination with t
+he same identifier (name{page.i}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.351 \end{titlepage}
+                      [1
+
+]pdfTeX warning (ext4): destination with the same identifier (name{page.ii}) ha
+s been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.378 \tableofcontents
+                       [2] (./thesis.toc [3
+
+])
+\tf@toc=\write6
+\openout6 = `thesis.toc'.
+
+ [4]
+\openout2 = `Chapter1/Ch1.aux'.
+
+ (./Chapter1/Ch1.tex
+Chapter 1.
+) [1
+
+
+
+]
+\openout2 = `Chapter2/Ch2.aux'.
+
+ (./Chapter2/Ch2.tex [2
+
+
+
+]
+Chapter 2.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 1.
+
+
+Underfull \vbox (badness 1178) has occurred while \output is active []
+
+ [3]
+Package epstopdf Info: Source file: <Chapter2/Figs/Shrinkage1.eps>
+(epstopdf)                    date: 2014-08-22 09:32:13
+(epstopdf)                    size: 6255 bytes
+(epstopdf)             Output file: <Chapter2/Figs/Shrinkage1-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2014-08-22 09:33:02
+(epstopdf)                    size: 3984 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter2/Figs/Shrinkage1-ep
+s-converted-to.pdf Chapter2/Figs/Shrinkage1.eps>
+(epstopdf)             \includegraphics on input line 16.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter2/Figs/Shrinkage1-eps-converted-to.pdf, id=207, 578.16pt x 594.22pt>
+File: Chapter2/Figs/Shrinkage1-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Chapter2/Figs/Shrinkage1-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter2/Figs/Shrinkage1-eps-converted-to.pdf used on 
+input line 16.
+(pdftex.def)             Requested size: 195.12767pt x 200.54512pt.
+Package epstopdf Info: Source file: <Chapter2/Figs/SensSpecMix1.eps>
+(epstopdf)                    date: 2014-09-02 14:49:28
+(epstopdf)                    size: 5682 bytes
+(epstopdf)             Output file: <Chapter2/Figs/SensSpecMix1-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2014-09-02 14:50:03
+(epstopdf)                    size: 3527 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter2/Figs/SensSpecMix1-
+eps-converted-to.pdf Chapter2/Figs/SensSpecMix1.eps>
+(epstopdf)             \includegraphics on input line 28.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter2/Figs/SensSpecMix1-eps-converted-to.pdf, id=208, 578.16pt x 594.22pt>
+File: Chapter2/Figs/SensSpecMix1-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Chapter2/Figs/SensSpecMix1-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter2/Figs/SensSpecMix1-eps-converted-to.pdf used o
+n input line 28.
+(pdftex.def)             Requested size: 195.12767pt x 200.54512pt.
+Package epstopdf Info: Source file: <Chapter2/Figs/SensSpecMix2.eps>
+(epstopdf)                    date: 2014-08-20 11:22:58
+(epstopdf)                    size: 5628 bytes
+(epstopdf)             Output file: <Chapter2/Figs/SensSpecMix2-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2014-09-02 14:44:28
+(epstopdf)                    size: 3504 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter2/Figs/SensSpecMix2-
+eps-converted-to.pdf Chapter2/Figs/SensSpecMix2.eps>
+(epstopdf)             \includegraphics on input line 29.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter2/Figs/SensSpecMix2-eps-converted-to.pdf, id=209, 578.16pt x 594.22pt>
+File: Chapter2/Figs/SensSpecMix2-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Chapter2/Figs/SensSpecMix2-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter2/Figs/SensSpecMix2-eps-converted-to.pdf used o
+n input line 29.
+(pdftex.def)             Requested size: 195.12767pt x 200.54512pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[4 <./Chapter2/Figs/Shrinkage1-eps-converted-to.pdf>] [5 <./Chapter2/Figs/SensS
+pecMix1-eps-converted-to.pdf> <./Chapter2/Figs/SensSpecMix2-eps-converted-to.pd
+f>]
+Package epstopdf Info: Source file: <Chapter2/Figs/Simulation1.eps>
+(epstopdf)                    date: 2014-05-30 12:26:31
+(epstopdf)                    size: 4517 bytes
+(epstopdf)             Output file: <Chapter2/Figs/Simulation1-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2014-05-30 12:27:53
+(epstopdf)                    size: 3477 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter2/Figs/Simulation1-e
+ps-converted-to.pdf Chapter2/Figs/Simulation1.eps>
+(epstopdf)             \includegraphics on input line 52.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter2/Figs/Simulation1-eps-converted-to.pdf, id=234, 578.16pt x 594.22pt>
+File: Chapter2/Figs/Simulation1-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Chapter2/Figs/Simulation1-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter2/Figs/Simulation1-eps-converted-to.pdf used on
+ input line 52.
+(pdftex.def)             Requested size: 138.76157pt x 142.6157pt.
+Package epstopdf Info: Source file: <Chapter2/Figs/Simulation2.eps>
+(epstopdf)                    date: 2014-05-30 12:27:14
+(epstopdf)                    size: 4456 bytes
+(epstopdf)             Output file: <Chapter2/Figs/Simulation2-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2014-05-30 12:27:54
+(epstopdf)                    size: 3444 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter2/Figs/Simulation2-e
+ps-converted-to.pdf Chapter2/Figs/Simulation2.eps>
+(epstopdf)             \includegraphics on input line 53.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter2/Figs/Simulation2-eps-converted-to.pdf, id=235, 578.16pt x 594.22pt>
+File: Chapter2/Figs/Simulation2-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Chapter2/Figs/Simulation2-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter2/Figs/Simulation2-eps-converted-to.pdf used on
+ input line 53.
+(pdftex.def)             Requested size: 138.76157pt x 142.6157pt.
+Package epstopdf Info: Source file: <Chapter2/Figs/Simulation3.eps>
+(epstopdf)                    date: 2014-05-30 12:27:45
+(epstopdf)                    size: 504471 bytes
+(epstopdf)             Output file: <Chapter2/Figs/Simulation3-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2014-05-30 12:27:56
+(epstopdf)                    size: 650110 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter2/Figs/Simulation3-e
+ps-converted-to.pdf Chapter2/Figs/Simulation3.eps>
+(epstopdf)             \includegraphics on input line 54.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter2/Figs/Simulation3-eps-converted-to.pdf, id=236, 578.16pt x 594.22pt>
+File: Chapter2/Figs/Simulation3-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Chapter2/Figs/Simulation3-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter2/Figs/Simulation3-eps-converted-to.pdf used on
+ input line 54.
+(pdftex.def)             Requested size: 138.76157pt x 142.6157pt.
+
+Overfull \hbox (2.49792pt too wide) in paragraph at lines 51--60
+ [][] 
+ []
+
+[6 <./Chapter2/Figs/Simulation1-eps-converted-to.pdf> <./Chapter2/Figs/Simulati
+on2-eps-converted-to.pdf> <./Chapter2/Figs/Simulation3-eps-converted-to.pdf>]
+Overfull \hbox (28.15736pt too wide) in paragraph at lines 67--67
+[]\T1/lmr/bx/n/17.28 Degree of free-dom es-ti-ma-tion for pe-nal-ized splines 
+ []
+
+[7]
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 84.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 84.
+
+
+Package natbib Warning: Citation `Sorensen2002' on page 8 undefined on input li
+ne 87.
+
+
+Package natbib Warning: Citation `Sorensen2002' on page 8 undefined on input li
+ne 100.
+
+[8] [9]
+Package epstopdf Info: Source file: <Chapter2/Figs/NumKnots.eps>
+(epstopdf)                    date: 2014-05-02 11:46:08
+(epstopdf)                    size: 3848 bytes
+(epstopdf)             Output file: <Chapter2/Figs/NumKnots-eps-converted-to.pd
+f>
+(epstopdf)                    date: 2014-05-30 12:29:16
+(epstopdf)                    size: 3043 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter2/Figs/NumKnots-eps-
+converted-to.pdf Chapter2/Figs/NumKnots.eps>
+(epstopdf)             \includegraphics on input line 125.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter2/Figs/NumKnots-eps-converted-to.pdf, id=281, 578.16pt x 594.22pt>
+File: Chapter2/Figs/NumKnots-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Chapter2/Figs/NumKnots-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter2/Figs/NumKnots-eps-converted-to.pdf used on in
+put line 125.
+(pdftex.def)             Requested size: 195.12767pt x 200.54512pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[10]
+Package epstopdf Info: Source file: <Chapter2/Figs/SensSpecEdge1.eps>
+(epstopdf)                    date: 2014-09-03 16:54:40
+(epstopdf)                    size: 5081 bytes
+(epstopdf)             Output file: <Chapter2/Figs/SensSpecEdge1-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2014-09-03 16:56:42
+(epstopdf)                    size: 3361 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter2/Figs/SensSpecEdge1
+-eps-converted-to.pdf Chapter2/Figs/SensSpecEdge1.eps>
+(epstopdf)             \includegraphics on input line 141.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter2/Figs/SensSpecEdge1-eps-converted-to.pdf, id=293, 578.16pt x 594.22pt>
+File: Chapter2/Figs/SensSpecEdge1-eps-converted-to.pdf Graphic file (type pdf)
+<use Chapter2/Figs/SensSpecEdge1-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter2/Figs/SensSpecEdge1-eps-converted-to.pdf used 
+on input line 141.
+(pdftex.def)             Requested size: 195.12767pt x 200.54512pt.
+Package epstopdf Info: Source file: <Chapter2/Figs/SensSpecEdge2.eps>
+(epstopdf)                    date: 2014-09-04 09:08:20
+(epstopdf)                    size: 5135 bytes
+(epstopdf)             Output file: <Chapter2/Figs/SensSpecEdge2-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2014-09-04 09:09:49
+(epstopdf)                    size: 3389 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter2/Figs/SensSpecEdge2
+-eps-converted-to.pdf Chapter2/Figs/SensSpecEdge2.eps>
+(epstopdf)             \includegraphics on input line 142.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter2/Figs/SensSpecEdge2-eps-converted-to.pdf, id=294, 578.16pt x 594.22pt>
+File: Chapter2/Figs/SensSpecEdge2-eps-converted-to.pdf Graphic file (type pdf)
+<use Chapter2/Figs/SensSpecEdge2-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter2/Figs/SensSpecEdge2-eps-converted-to.pdf used 
+on input line 142.
+(pdftex.def)             Requested size: 195.12767pt x 200.54512pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[11 <./Chapter2/Figs/NumKnots-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Chapter2/Figs/ReproduciabilityEdge1.eps>
+(epstopdf)                    date: 2014-08-19 17:00:50
+(epstopdf)                    size: 6124 bytes
+(epstopdf)             Output file: <Chapter2/Figs/ReproduciabilityEdge1-eps-co
+nverted-to.pdf>
+(epstopdf)                    date: 2014-08-21 16:06:59
+(epstopdf)                    size: 5292 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter2/Figs/Reproduciabil
+ityEdge1-eps-converted-to.pdf Chapter2/Figs/ReproduciabilityEdge1.eps>
+(epstopdf)             \includegraphics on input line 158.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter2/Figs/ReproduciabilityEdge1-eps-converted-to.pdf, id=306, 578.16pt x 5
+94.22pt>
+File: Chapter2/Figs/ReproduciabilityEdge1-eps-converted-to.pdf Graphic file (ty
+pe pdf)
+ <use Chapter2/Figs/ReproduciabilityEdge1-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter2/Figs/ReproduciabilityEdge1-eps-converted-to.p
+df used on input line 158.
+(pdftex.def)             Requested size: 195.12767pt x 200.54512pt.
+
+[12 <./Chapter2/Figs/SensSpecEdge1-eps-converted-to.pdf> <./Chapter2/Figs/SensS
+pecEdge2-eps-converted-to.pdf> <./Chapter2/Figs/ReproduciabilityEdge1-eps-conve
+rted-to.pdf>]
+Package epstopdf Info: Source file: <Chapter2/Figs/SpatialEffect_full-new.eps>
+(epstopdf)                    date: 2014-05-13 10:04:59
+(epstopdf)                    size: 14250 bytes
+(epstopdf)             Output file: <Chapter2/Figs/SpatialEffect_full-new-eps-c
+onverted-to.pdf>
+(epstopdf)                    date: 2014-05-30 12:31:42
+(epstopdf)                    size: 6449 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter2/Figs/SpatialEffect
+_full-new-eps-converted-to.pdf Chapter2/Figs/SpatialEffect_full-new.eps>
+(epstopdf)             \includegraphics on input line 179.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter2/Figs/SpatialEffect_full-new-eps-converted-to.pdf, id=328, 578.16pt x 
+594.22pt>
+File: Chapter2/Figs/SpatialEffect_full-new-eps-converted-to.pdf Graphic file (t
+ype pdf)
+ <use Chapter2/Figs/SpatialEffect_full-new-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter2/Figs/SpatialEffect_full-new-eps-converted-to.
+pdf used on input line 179.
+(pdftex.def)             Requested size: 195.12767pt x 200.54512pt.
+Package epstopdf Info: Source file: <Chapter2/Figs/SLC25A36_full-new.eps>
+(epstopdf)                    date: 2014-05-09 13:52:02
+(epstopdf)                    size: 14136 bytes
+(epstopdf)             Output file: <Chapter2/Figs/SLC25A36_full-new-eps-conver
+ted-to.pdf>
+(epstopdf)                    date: 2014-05-30 12:31:43
+(epstopdf)                    size: 6422 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter2/Figs/SLC25A36_full
+-new-eps-converted-to.pdf Chapter2/Figs/SLC25A36_full-new.eps>
+(epstopdf)             \includegraphics on input line 190.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter2/Figs/SLC25A36_full-new-eps-converted-to.pdf, id=329, 578.16pt x 594.2
+2pt>
+File: Chapter2/Figs/SLC25A36_full-new-eps-converted-to.pdf Graphic file (type p
+df)
+ <use Chapter2/Figs/SLC25A36_full-new-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter2/Figs/SLC25A36_full-new-eps-converted-to.pdf u
+sed on input line 190.
+(pdftex.def)             Requested size: 195.12767pt x 200.54512pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package epstopdf Info: Source file: <Chapter2/Figs/Shrinkage_full1.eps>
+(epstopdf)                    date: 2014-08-22 09:29:26
+(epstopdf)                    size: 14432 bytes
+(epstopdf)             Output file: <Chapter2/Figs/Shrinkage_full1-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2014-08-22 09:32:32
+(epstopdf)                    size: 6482 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter2/Figs/Shrinkage_ful
+l1-eps-converted-to.pdf Chapter2/Figs/Shrinkage_full1.eps>
+(epstopdf)             \includegraphics on input line 201.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter2/Figs/Shrinkage_full1-eps-converted-to.pdf, id=330, 578.16pt x 594.22p
+t>
+File: Chapter2/Figs/Shrinkage_full1-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use Chapter2/Figs/Shrinkage_full1-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter2/Figs/Shrinkage_full1-eps-converted-to.pdf use
+d on input line 201.
+(pdftex.def)             Requested size: 195.12767pt x 200.54512pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Chapter2/Figs/Venn.pdf, id=331, 1084.05pt x 593.21625pt>
+File: Chapter2/Figs/Venn.pdf Graphic file (type pdf)
+
+<use Chapter2/Figs/Venn.pdf>
+Package pdftex.def Info: Chapter2/Figs/Venn.pdf used on input line 213.
+(pdftex.def)             Requested size: 195.12767pt x 106.7743pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) [13 <./Chapter2/Figs/SpatialEffect_full-new-eps-converted-to.pdf>] [14 <./Cha
+pter2/Figs/SLC25A36_full-new-eps-converted-to.pdf> <./Chapter2/Figs/Shrinkage_f
+ull1-eps-converted-to.pdf>] [15 <./Chapter2/Figs/Venn.pdf>]
+\openout2 = `Chapter3/Ch3.aux'.
+
+ (./Chapter3/Ch3.tex [16
+
+
+
+]
+Chapter 3.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 1.
+
+[17] [18]
+<Chapter3/Figs/timeComparison_p05.pdf, id=381, 597.23125pt x 845.1575pt>
+File: Chapter3/Figs/timeComparison_p05.pdf Graphic file (type pdf)
+
+<use Chapter3/Figs/timeComparison_p05.pdf>
+Package pdftex.def Info: Chapter3/Figs/timeComparison_p05.pdf used on input lin
+e 49.
+(pdftex.def)             Requested size: 167.2236pt x 236.64249pt.
+
+<Chapter3/Figs/timeComparison_p10.pdf, id=382, 597.23125pt x 845.1575pt>
+File: Chapter3/Figs/timeComparison_p10.pdf Graphic file (type pdf)
+
+<use Chapter3/Figs/timeComparison_p10.pdf>
+Package pdftex.def Info: Chapter3/Figs/timeComparison_p10.pdf used on input lin
+e 50.
+(pdftex.def)             Requested size: 167.2236pt x 236.64249pt.
+
+<Chapter3/Figs/timeComparison_p15.pdf, id=383, 597.23125pt x 845.1575pt>
+File: Chapter3/Figs/timeComparison_p15.pdf Graphic file (type pdf)
+
+<use Chapter3/Figs/timeComparison_p15.pdf>
+Package pdftex.def Info: Chapter3/Figs/timeComparison_p15.pdf used on input lin
+e 52.
+(pdftex.def)             Requested size: 167.2236pt x 236.64249pt.
+
+<Chapter3/Figs/timeComparison_p20.pdf, id=384, 597.23125pt x 845.1575pt>
+File: Chapter3/Figs/timeComparison_p20.pdf Graphic file (type pdf)
+
+<use Chapter3/Figs/timeComparison_p20.pdf>
+Package pdftex.def Info: Chapter3/Figs/timeComparison_p20.pdf used on input lin
+e 53.
+(pdftex.def)             Requested size: 167.2236pt x 236.64249pt.
+
+<Chapter3/Figs/timeComparison_p25.pdf, id=385, 597.23125pt x 845.1575pt>
+File: Chapter3/Figs/timeComparison_p25.pdf Graphic file (type pdf)
+
+<use Chapter3/Figs/timeComparison_p25.pdf>
+Package pdftex.def Info: Chapter3/Figs/timeComparison_p25.pdf used on input lin
+e 55.
+(pdftex.def)             Requested size: 167.2236pt x 236.64249pt.
+
+<Chapter3/Figs/timeComparison_p30.pdf, id=386, 597.23125pt x 845.1575pt>
+File: Chapter3/Figs/timeComparison_p30.pdf Graphic file (type pdf)
+
+<use Chapter3/Figs/timeComparison_p30.pdf>
+Package pdftex.def Info: Chapter3/Figs/timeComparison_p30.pdf used on input lin
+e 56.
+(pdftex.def)             Requested size: 167.2236pt x 236.64249pt.
+
+Overfull \hbox (63.66498pt too wide) in paragraph at lines 48--58
+ [][] 
+ []
+
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 58.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[19]
+
+LaTeX Warning: Text page 20 contains only floats.
+
+[20 <./Chapter3/Figs/timeComparison_p05.pdf> <./Chapter3/Figs/timeComparison_p1
+0.pdf> <./Chapter3/Figs/timeComparison_p15.pdf> <./Chapter3/Figs/timeComparison
+_p20.pdf> <./Chapter3/Figs/timeComparison_p25.pdf> <./Chapter3/Figs/timeCompari
+son_p30.pdf>]
+Package epstopdf Info: Source file: <Chapter3/Figs/DecomposableGraph.eps>
+(epstopdf)                    date: 2016-04-06 14:22:32
+(epstopdf)                    size: 34103 bytes
+(epstopdf)             Output file: <Chapter3/Figs/DecomposableGraph-eps-conver
+ted-to.pdf>
+(epstopdf)                    date: 2018-05-06 17:56:21
+(epstopdf)                    size: 13449 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/DecomposableG
+raph-eps-converted-to.pdf Chapter3/Figs/DecomposableGraph.eps>
+(epstopdf)             \includegraphics on input line 71.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/DecomposableGraph-eps-converted-to.pdf, id=488, 558.085pt x 417.
+56pt>
+File: Chapter3/Figs/DecomposableGraph-eps-converted-to.pdf Graphic file (type p
+df)
+ <use Chapter3/Figs/DecomposableGraph-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/DecomposableGraph-eps-converted-to.pdf u
+sed on input line 71.
+(pdftex.def)             Requested size: 558.08365pt x 417.55896pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/chordalGraph_tree_graph.eps>
+
+(epstopdf)                    date: 2016-04-06 14:56:44
+(epstopdf)                    size: 10482 bytes
+(epstopdf)             Output file: <Chapter3/Figs/chordalGraph_tree_graph-eps-
+converted-to.pdf>
+(epstopdf)                    date: 2018-05-06 17:57:21
+(epstopdf)                    size: 12095 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/chordalGraph_
+tree_graph-eps-converted-to.pdf Chapter3/Figs/chordalGraph_tree_graph.eps>
+(epstopdf)             \includegraphics on input line 80.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/chordalGraph_tree_graph-eps-converted-to.pdf, id=489, 505.89pt x
+ 505.89pt>
+File: Chapter3/Figs/chordalGraph_tree_graph-eps-converted-to.pdf Graphic file (
+type pdf)
+ <use Chapter3/Figs/chordalGraph_tree_graph-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/chordalGraph_tree_graph-eps-converted-to
+.pdf used on input line 80.
+(pdftex.def)             Requested size: 505.88875pt x 505.88875pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/chordalGraph_chain_graph.eps
+>
+(epstopdf)                    date: 2016-04-06 14:52:22
+(epstopdf)                    size: 15139 bytes
+(epstopdf)             Output file: <Chapter3/Figs/chordalGraph_chain_graph-eps
+-converted-to.pdf>
+(epstopdf)                    date: 2018-05-06 17:57:22
+(epstopdf)                    size: 14081 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/chordalGraph_
+chain_graph-eps-converted-to.pdf Chapter3/Figs/chordalGraph_chain_graph.eps>
+(epstopdf)             \includegraphics on input line 81.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/chordalGraph_chain_graph-eps-converted-to.pdf, id=490, 505.89pt 
+x 505.89pt>
+File: Chapter3/Figs/chordalGraph_chain_graph-eps-converted-to.pdf Graphic file 
+(type pdf)
+ <use Chapter3/Figs/chordalGraph_chain_graph-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/chordalGraph_chain_graph-eps-converted-t
+o.pdf used on input line 81.
+(pdftex.def)             Requested size: 505.88875pt x 505.88875pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[21 <./Chapter3/Figs/DecomposableGraph-eps-converted-to.pdf>]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <17.28> on input line 90.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 90.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 90.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\Omega' on input line 90.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 90.
+
+LaTeX Font Info:    Try loading font information for T1+phv on input line 97.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/t1phv.fd
+File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
+)
+Overfull \hbox (12.19717pt too wide) in alignment at lines 94--101
+ [][][] []
+ []
+
+
+Overfull \hbox (44.89606pt too wide) in alignment at lines 103--105
+ [][][] []
+ []
+
+
+Overfull \hbox (32.9345pt too wide) in alignment at lines 107--114
+ [][][] []
+ []
+
+
+Underfull \vbox (badness 6641) has occurred while \output is active []
+
+ [22 <./Chapter3/Figs/chordalGraph_tree_graph-eps-converted-to.pdf> <./Chapter3
+/Figs/chordalGraph_chain_graph-eps-converted-to.pdf>]
+Overfull \hbox (82.73558pt too wide) in alignment at lines 118--129
+ [][][] []
+ []
+
+
+Underfull \vbox (badness 3343) has occurred while \output is active []
+
+ [23]
+LaTeX Font Info:    Try loading font information for TS1+lmr on input line 158.
+
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+) [24]
+Package epstopdf Info: Source file: <Chapter3/Figs/TSCG_pathExample2.eps>
+(epstopdf)                    date: 2015-05-13 12:42:38
+(epstopdf)                    size: 32718 bytes
+(epstopdf)             Output file: <Chapter3/Figs/TSCG_pathExample2-eps-conver
+ted-to.pdf>
+(epstopdf)                    date: 2015-05-13 13:06:06
+(epstopdf)                    size: 13137 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/TSCG_pathExam
+ple2-eps-converted-to.pdf Chapter3/Figs/TSCG_pathExample2.eps>
+(epstopdf)             \includegraphics on input line 216.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/TSCG_pathExample2-eps-converted-to.pdf, id=544, 835.12pt x 562.1
+pt>
+File: Chapter3/Figs/TSCG_pathExample2-eps-converted-to.pdf Graphic file (type p
+df)
+ <use Chapter3/Figs/TSCG_pathExample2-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/TSCG_pathExample2-eps-converted-to.pdf u
+sed on input line 216.
+(pdftex.def)             Requested size: 835.11795pt x 562.09863pt.
+ [25] [26 <./Chapter3/Figs/TSCG_pathExample2-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Chapter3/Figs/GEOtime.eps>
+(epstopdf)                    date: 2015-08-07 07:07:16
+(epstopdf)                    size: 4772 bytes
+(epstopdf)             Output file: <Chapter3/Figs/GEOtime-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2015-12-23 20:32:16
+(epstopdf)                    size: 8335 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/GEOtime-eps-c
+onverted-to.pdf Chapter3/Figs/GEOtime.eps>
+(epstopdf)             \includegraphics on input line 237.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/GEOtime-eps-converted-to.pdf, id=569, 561.09625pt x 809.0225pt>
+File: Chapter3/Figs/GEOtime-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Chapter3/Figs/GEOtime-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/GEOtime-eps-converted-to.pdf used on inp
+ut line 237.
+(pdftex.def)             Requested size: 134.66585pt x 194.16937pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/GEOind.eps>
+(epstopdf)                    date: 2015-08-07 07:06:58
+(epstopdf)                    size: 4006 bytes
+(epstopdf)             Output file: <Chapter3/Figs/GEOind-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2015-12-23 20:32:16
+(epstopdf)                    size: 8387 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/GEOind-eps-co
+nverted-to.pdf Chapter3/Figs/GEOind.eps>
+(epstopdf)             \includegraphics on input line 238.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/GEOind-eps-converted-to.pdf, id=570, 561.09625pt x 809.0225pt>
+File: Chapter3/Figs/GEOind-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Chapter3/Figs/GEOind-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/GEOind-eps-converted-to.pdf used on inpu
+t line 238.
+(pdftex.def)             Requested size: 134.66585pt x 194.16937pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/GEOscat.eps>
+(epstopdf)                    date: 2015-08-07 07:07:10
+(epstopdf)                    size: 5449 bytes
+(epstopdf)             Output file: <Chapter3/Figs/GEOscat-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2015-12-23 20:32:18
+(epstopdf)                    size: 9656 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/GEOscat-eps-c
+onverted-to.pdf Chapter3/Figs/GEOscat.eps>
+(epstopdf)             \includegraphics on input line 239.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/GEOscat-eps-converted-to.pdf, id=571, 561.09625pt x 809.0225pt>
+File: Chapter3/Figs/GEOscat-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Chapter3/Figs/GEOscat-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/GEOscat-eps-converted-to.pdf used on inp
+ut line 239.
+(pdftex.def)             Requested size: 134.66585pt x 194.16937pt.
+
+Overfull \hbox (6.37755pt too wide) in paragraph at lines 236--241
+ [][] 
+ []
+
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 254.
+
+LaTeX Warning: Float too large for page by 41.2689pt on input line 334.
+
+[27 <./Chapter3/Figs/GEOtime-eps-converted-to.pdf> <./Chapter3/Figs/GEOind-eps-
+converted-to.pdf> <./Chapter3/Figs/GEOscat-eps-converted-to.pdf>] [28]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 343.
+ [29]
+[30]
+Underfull \vbox (badness 4940) has occurred while \output is active []
+
+ [31]
+
+Package caption Warning: \label without proper reference on input line 171.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `tableSM:GEOdatasets' on page 32 undefined on input li
+ne 387.
+
+Package epstopdf Info: Source file: <Chapter3/Figs/LossA25T10N5_5.eps>
+(epstopdf)                    date: 2016-05-26 08:51:04
+(epstopdf)                    size: 23345 bytes
+(epstopdf)             Output file: <Chapter3/Figs/LossA25T10N5_5-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2018-05-06 18:01:50
+(epstopdf)                    size: 13702 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/LossA25T10N5_
+5-eps-converted-to.pdf Chapter3/Figs/LossA25T10N5_5.eps>
+(epstopdf)             \includegraphics on input line 403.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/LossA25T10N5_5-eps-converted-to.pdf, id=659, 561.09625pt x 809.0
+225pt>
+File: Chapter3/Figs/LossA25T10N5_5-eps-converted-to.pdf Graphic file (type pdf)
+
+ <use Chapter3/Figs/LossA25T10N5_5-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/LossA25T10N5_5-eps-converted-to.pdf used
+ on input line 403.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/LossOmega25T10N5_5.eps>
+(epstopdf)                    date: 2016-05-26 08:52:10
+(epstopdf)                    size: 22885 bytes
+(epstopdf)             Output file: <Chapter3/Figs/LossOmega25T10N5_5-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2018-05-06 18:01:50
+(epstopdf)                    size: 13122 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/LossOmega25T1
+0N5_5-eps-converted-to.pdf Chapter3/Figs/LossOmega25T10N5_5.eps>
+(epstopdf)             \includegraphics on input line 405.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/LossOmega25T10N5_5-eps-converted-to.pdf, id=660, 561.09625pt x 8
+09.0225pt>
+File: Chapter3/Figs/LossOmega25T10N5_5-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use Chapter3/Figs/LossOmega25T10N5_5-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/LossOmega25T10N5_5-eps-converted-to.pdf 
+used on input line 405.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package epstopdf Info: Source file: <Chapter3/Figs/LossA50T10N5_5.eps>
+(epstopdf)                    date: 2016-05-26 08:51:38
+(epstopdf)                    size: 22096 bytes
+(epstopdf)             Output file: <Chapter3/Figs/LossA50T10N5_5-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2018-05-06 18:01:51
+(epstopdf)                    size: 12951 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/LossA50T10N5_
+5-eps-converted-to.pdf Chapter3/Figs/LossA50T10N5_5.eps>
+(epstopdf)             \includegraphics on input line 416.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/LossA50T10N5_5-eps-converted-to.pdf, id=661, 561.09625pt x 809.0
+225pt>
+File: Chapter3/Figs/LossA50T10N5_5-eps-converted-to.pdf Graphic file (type pdf)
+
+ <use Chapter3/Figs/LossA50T10N5_5-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/LossA50T10N5_5-eps-converted-to.pdf used
+ on input line 416.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/LossOmega50T10N5_5.eps>
+(epstopdf)                    date: 2016-05-26 08:52:46
+(epstopdf)                    size: 22269 bytes
+(epstopdf)             Output file: <Chapter3/Figs/LossOmega50T10N5_5-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2018-05-06 18:01:51
+(epstopdf)                    size: 13082 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/LossOmega50T1
+0N5_5-eps-converted-to.pdf Chapter3/Figs/LossOmega50T10N5_5.eps>
+(epstopdf)             \includegraphics on input line 417.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/LossOmega50T10N5_5-eps-converted-to.pdf, id=662, 561.09625pt x 8
+09.0225pt>
+File: Chapter3/Figs/LossOmega50T10N5_5-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use Chapter3/Figs/LossOmega50T10N5_5-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/LossOmega50T10N5_5-eps-converted-to.pdf 
+used on input line 417.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[32] [33 <./Chapter3/Figs/LossA25T10N5_5-eps-converted-to.pdf> <./Chapter3/Figs
+/LossOmega25T10N5_5-eps-converted-to.pdf>] [34 <./Chapter3/Figs/LossA50T10N5_5-
+eps-converted-to.pdf> <./Chapter3/Figs/LossOmega50T10N5_5-eps-converted-to.pdf>
+]
+Package epstopdf Info: Source file: <Chapter3/Figs/LossA25T20N5_5.eps>
+(epstopdf)                    date: 2016-05-26 08:51:24
+(epstopdf)                    size: 24035 bytes
+(epstopdf)             Output file: <Chapter3/Figs/LossA25T20N5_5-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2018-05-06 18:01:51
+(epstopdf)                    size: 13471 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/LossA25T20N5_
+5-eps-converted-to.pdf Chapter3/Figs/LossA25T20N5_5.eps>
+(epstopdf)             \includegraphics on input line 429.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/LossA25T20N5_5-eps-converted-to.pdf, id=739, 561.09625pt x 809.0
+225pt>
+File: Chapter3/Figs/LossA25T20N5_5-eps-converted-to.pdf Graphic file (type pdf)
+
+ <use Chapter3/Figs/LossA25T20N5_5-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/LossA25T20N5_5-eps-converted-to.pdf used
+ on input line 429.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/LossOmega25T20N5_5.eps>
+(epstopdf)                    date: 2016-05-26 08:52:30
+(epstopdf)                    size: 23149 bytes
+(epstopdf)             Output file: <Chapter3/Figs/LossOmega25T20N5_5-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2018-05-06 18:01:52
+(epstopdf)                    size: 13520 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/LossOmega25T2
+0N5_5-eps-converted-to.pdf Chapter3/Figs/LossOmega25T20N5_5.eps>
+(epstopdf)             \includegraphics on input line 431.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/LossOmega25T20N5_5-eps-converted-to.pdf, id=740, 561.09625pt x 8
+09.0225pt>
+File: Chapter3/Figs/LossOmega25T20N5_5-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use Chapter3/Figs/LossOmega25T20N5_5-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/LossOmega25T20N5_5-eps-converted-to.pdf 
+used on input line 431.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/LossA50T20N5_5.eps>
+(epstopdf)                    date: 2016-05-26 08:51:56
+(epstopdf)                    size: 24229 bytes
+(epstopdf)             Output file: <Chapter3/Figs/LossA50T20N5_5-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2018-05-06 18:01:52
+(epstopdf)                    size: 13763 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/LossA50T20N5_
+5-eps-converted-to.pdf Chapter3/Figs/LossA50T20N5_5.eps>
+(epstopdf)             \includegraphics on input line 442.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/LossA50T20N5_5-eps-converted-to.pdf, id=741, 561.09625pt x 809.0
+225pt>
+File: Chapter3/Figs/LossA50T20N5_5-eps-converted-to.pdf Graphic file (type pdf)
+
+ <use Chapter3/Figs/LossA50T20N5_5-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/LossA50T20N5_5-eps-converted-to.pdf used
+ on input line 442.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/LossOmega50T20N5_5.eps>
+(epstopdf)                    date: 2016-05-26 08:53:02
+(epstopdf)                    size: 22310 bytes
+(epstopdf)             Output file: <Chapter3/Figs/LossOmega50T20N5_5-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2018-05-06 18:01:53
+(epstopdf)                    size: 13194 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/LossOmega50T2
+0N5_5-eps-converted-to.pdf Chapter3/Figs/LossOmega50T20N5_5.eps>
+(epstopdf)             \includegraphics on input line 444.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/LossOmega50T20N5_5-eps-converted-to.pdf, id=742, 561.09625pt x 8
+09.0225pt>
+File: Chapter3/Figs/LossOmega50T20N5_5-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use Chapter3/Figs/LossOmega50T20N5_5-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/LossOmega50T20N5_5-eps-converted-to.pdf 
+used on input line 444.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[35
+
+ <./Chapter3/Figs/LossA25T20N5_5-eps-converted-to.pdf> <./Chapter3/Figs/LossOme
+ga25T20N5_5-eps-converted-to.pdf>] [36 <./Chapter3/Figs/LossA50T20N5_5-eps-conv
+erted-to.pdf> <./Chapter3/Figs/LossOmega50T20N5_5-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Chapter3/Figs/LossA25T10N15_5.eps>
+(epstopdf)                    date: 2016-05-26 08:51:14
+(epstopdf)                    size: 23101 bytes
+(epstopdf)             Output file: <Chapter3/Figs/LossA25T10N15_5-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2018-05-06 18:01:53
+(epstopdf)                    size: 13256 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/LossA25T10N15
+_5-eps-converted-to.pdf Chapter3/Figs/LossA25T10N15_5.eps>
+(epstopdf)             \includegraphics on input line 456.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/LossA25T10N15_5-eps-converted-to.pdf, id=796, 561.09625pt x 809.
+0225pt>
+File: Chapter3/Figs/LossA25T10N15_5-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use Chapter3/Figs/LossA25T10N15_5-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/LossA25T10N15_5-eps-converted-to.pdf use
+d on input line 456.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/LossOmega25T10N15_5.eps>
+(epstopdf)                    date: 2016-05-26 08:52:24
+(epstopdf)                    size: 24262 bytes
+(epstopdf)             Output file: <Chapter3/Figs/LossOmega25T10N15_5-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2018-05-06 18:01:53
+(epstopdf)                    size: 14064 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/LossOmega25T1
+0N15_5-eps-converted-to.pdf Chapter3/Figs/LossOmega25T10N15_5.eps>
+(epstopdf)             \includegraphics on input line 458.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/LossOmega25T10N15_5-eps-converted-to.pdf, id=797, 561.09625pt x 
+809.0225pt>
+File: Chapter3/Figs/LossOmega25T10N15_5-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use Chapter3/Figs/LossOmega25T10N15_5-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/LossOmega25T10N15_5-eps-converted-to.pdf
+ used on input line 458.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/LossA50T10N15_5.eps>
+(epstopdf)                    date: 2016-05-26 08:51:46
+(epstopdf)                    size: 24979 bytes
+(epstopdf)             Output file: <Chapter3/Figs/LossA50T10N15_5-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2018-05-06 18:01:54
+(epstopdf)                    size: 13670 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/LossA50T10N15
+_5-eps-converted-to.pdf Chapter3/Figs/LossA50T10N15_5.eps>
+(epstopdf)             \includegraphics on input line 469.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/LossA50T10N15_5-eps-converted-to.pdf, id=798, 561.09625pt x 809.
+0225pt>
+File: Chapter3/Figs/LossA50T10N15_5-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use Chapter3/Figs/LossA50T10N15_5-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/LossA50T10N15_5-eps-converted-to.pdf use
+d on input line 469.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/LossOmega50T10N15_5.eps>
+(epstopdf)                    date: 2016-05-26 08:52:54
+(epstopdf)                    size: 23016 bytes
+(epstopdf)             Output file: <Chapter3/Figs/LossOmega50T10N15_5-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2018-05-06 18:01:54
+(epstopdf)                    size: 13033 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/LossOmega50T1
+0N15_5-eps-converted-to.pdf Chapter3/Figs/LossOmega50T10N15_5.eps>
+(epstopdf)             \includegraphics on input line 471.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/LossOmega50T10N15_5-eps-converted-to.pdf, id=799, 561.09625pt x 
+809.0225pt>
+File: Chapter3/Figs/LossOmega50T10N15_5-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use Chapter3/Figs/LossOmega50T10N15_5-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/LossOmega50T10N15_5-eps-converted-to.pdf
+ used on input line 471.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package epstopdf Info: Source file: <Chapter3/Figs/LossA25T20N15_5.eps>
+(epstopdf)                    date: 2016-05-26 08:51:30
+(epstopdf)                    size: 23926 bytes
+(epstopdf)             Output file: <Chapter3/Figs/LossA25T20N15_5-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2018-05-06 18:01:55
+(epstopdf)                    size: 13284 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/LossA25T20N15
+_5-eps-converted-to.pdf Chapter3/Figs/LossA25T20N15_5.eps>
+(epstopdf)             \includegraphics on input line 482.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/LossA25T20N15_5-eps-converted-to.pdf, id=800, 561.09625pt x 809.
+0225pt>
+File: Chapter3/Figs/LossA25T20N15_5-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use Chapter3/Figs/LossA25T20N15_5-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/LossA25T20N15_5-eps-converted-to.pdf use
+d on input line 482.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/LossOmega25T20N15_5.eps>
+(epstopdf)                    date: 2016-05-26 08:52:38
+(epstopdf)                    size: 23920 bytes
+(epstopdf)             Output file: <Chapter3/Figs/LossOmega25T20N15_5-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2018-05-06 18:01:55
+(epstopdf)                    size: 13511 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/LossOmega25T2
+0N15_5-eps-converted-to.pdf Chapter3/Figs/LossOmega25T20N15_5.eps>
+(epstopdf)             \includegraphics on input line 484.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/LossOmega25T20N15_5-eps-converted-to.pdf, id=801, 561.09625pt x 
+809.0225pt>
+File: Chapter3/Figs/LossOmega25T20N15_5-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use Chapter3/Figs/LossOmega25T20N15_5-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/LossOmega25T20N15_5-eps-converted-to.pdf
+ used on input line 484.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package epstopdf Info: Source file: <Chapter3/Figs/LossA50T20N15_5.eps>
+(epstopdf)                    date: 2016-05-26 08:52:02
+(epstopdf)                    size: 22966 bytes
+(epstopdf)             Output file: <Chapter3/Figs/LossA50T20N15_5-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2018-05-06 18:01:55
+(epstopdf)                    size: 13018 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/LossA50T20N15
+_5-eps-converted-to.pdf Chapter3/Figs/LossA50T20N15_5.eps>
+(epstopdf)             \includegraphics on input line 495.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/LossA50T20N15_5-eps-converted-to.pdf, id=802, 561.09625pt x 809.
+0225pt>
+File: Chapter3/Figs/LossA50T20N15_5-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use Chapter3/Figs/LossA50T20N15_5-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/LossA50T20N15_5-eps-converted-to.pdf use
+d on input line 495.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/LossOmega50T20N15_5.eps>
+(epstopdf)                    date: 2016-05-26 08:53:08
+(epstopdf)                    size: 23054 bytes
+(epstopdf)             Output file: <Chapter3/Figs/LossOmega50T20N15_5-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2018-05-06 18:01:56
+(epstopdf)                    size: 13055 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/LossOmega50T2
+0N15_5-eps-converted-to.pdf Chapter3/Figs/LossOmega50T20N15_5.eps>
+(epstopdf)             \includegraphics on input line 497.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/LossOmega50T20N15_5-eps-converted-to.pdf, id=803, 561.09625pt x 
+809.0225pt>
+File: Chapter3/Figs/LossOmega50T20N15_5-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use Chapter3/Figs/LossOmega50T20N15_5-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/LossOmega50T20N15_5-eps-converted-to.pdf
+ used on input line 497.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[37
+
+ <./Chapter3/Figs/LossA25T10N15_5-eps-converted-to.pdf> <./Chapter3/Figs/LossOm
+ega25T10N15_5-eps-converted-to.pdf>] [38 <./Chapter3/Figs/LossA50T10N15_5-eps-c
+onverted-to.pdf> <./Chapter3/Figs/LossOmega50T10N15_5-eps-converted-to.pdf>] [3
+9 <./Chapter3/Figs/LossA25T20N15_5-eps-converted-to.pdf> <./Chapter3/Figs/LossO
+mega25T20N15_5-eps-converted-to.pdf>] [40 <./Chapter3/Figs/LossA50T20N15_5-eps-
+converted-to.pdf> <./Chapter3/Figs/LossOmega50T20N15_5-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Chapter3/Figs/LossA25T10N5_25.eps>
+(epstopdf)                    date: 2016-05-26 08:51:08
+(epstopdf)                    size: 22526 bytes
+(epstopdf)             Output file: <Chapter3/Figs/LossA25T10N5_25-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2018-05-06 18:01:56
+(epstopdf)                    size: 13674 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/LossA25T10N5_
+25-eps-converted-to.pdf Chapter3/Figs/LossA25T10N5_25.eps>
+(epstopdf)             \includegraphics on input line 511.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/LossA25T10N5_25-eps-converted-to.pdf, id=911, 561.09625pt x 809.
+0225pt>
+File: Chapter3/Figs/LossA25T10N5_25-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use Chapter3/Figs/LossA25T10N5_25-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/LossA25T10N5_25-eps-converted-to.pdf use
+d on input line 511.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/LossOmega25T10N5_25.eps>
+(epstopdf)                    date: 2016-05-26 08:52:20
+(epstopdf)                    size: 23082 bytes
+(epstopdf)             Output file: <Chapter3/Figs/LossOmega25T10N5_25-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2018-05-06 18:01:57
+(epstopdf)                    size: 13423 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/LossOmega25T1
+0N5_25-eps-converted-to.pdf Chapter3/Figs/LossOmega25T10N5_25.eps>
+(epstopdf)             \includegraphics on input line 513.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/LossOmega25T10N5_25-eps-converted-to.pdf, id=912, 561.09625pt x 
+809.0225pt>
+File: Chapter3/Figs/LossOmega25T10N5_25-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use Chapter3/Figs/LossOmega25T10N5_25-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/LossOmega25T10N5_25-eps-converted-to.pdf
+ used on input line 513.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/LossA50T10N5_25.eps>
+(epstopdf)                    date: 2016-05-26 08:51:42
+(epstopdf)                    size: 22745 bytes
+(epstopdf)             Output file: <Chapter3/Figs/LossA50T10N5_25-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2018-05-06 18:01:57
+(epstopdf)                    size: 13011 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/LossA50T10N5_
+25-eps-converted-to.pdf Chapter3/Figs/LossA50T10N5_25.eps>
+(epstopdf)             \includegraphics on input line 524.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/LossA50T10N5_25-eps-converted-to.pdf, id=913, 561.09625pt x 809.
+0225pt>
+File: Chapter3/Figs/LossA50T10N5_25-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use Chapter3/Figs/LossA50T10N5_25-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/LossA50T10N5_25-eps-converted-to.pdf use
+d on input line 524.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/LossOmega50T10N5_25.eps>
+(epstopdf)                    date: 2016-05-26 08:52:50
+(epstopdf)                    size: 22021 bytes
+(epstopdf)             Output file: <Chapter3/Figs/LossOmega50T10N5_25-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2018-05-06 18:01:57
+(epstopdf)                    size: 12715 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/LossOmega50T1
+0N5_25-eps-converted-to.pdf Chapter3/Figs/LossOmega50T10N5_25.eps>
+(epstopdf)             \includegraphics on input line 526.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/LossOmega50T10N5_25-eps-converted-to.pdf, id=914, 561.09625pt x 
+809.0225pt>
+File: Chapter3/Figs/LossOmega50T10N5_25-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use Chapter3/Figs/LossOmega50T10N5_25-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/LossOmega50T10N5_25-eps-converted-to.pdf
+ used on input line 526.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package epstopdf Info: Source file: <Chapter3/Figs/LossA25T20N5_25.eps>
+(epstopdf)                    date: 2016-05-26 08:51:28
+(epstopdf)                    size: 24140 bytes
+(epstopdf)             Output file: <Chapter3/Figs/LossA25T20N5_25-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2018-05-06 18:01:58
+(epstopdf)                    size: 13725 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/LossA25T20N5_
+25-eps-converted-to.pdf Chapter3/Figs/LossA25T20N5_25.eps>
+(epstopdf)             \includegraphics on input line 537.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/LossA25T20N5_25-eps-converted-to.pdf, id=915, 561.09625pt x 809.
+0225pt>
+File: Chapter3/Figs/LossA25T20N5_25-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use Chapter3/Figs/LossA25T20N5_25-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/LossA25T20N5_25-eps-converted-to.pdf use
+d on input line 537.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/LossOmega25T20N5_25.eps>
+(epstopdf)                    date: 2016-05-26 08:52:34
+(epstopdf)                    size: 23113 bytes
+(epstopdf)             Output file: <Chapter3/Figs/LossOmega25T20N5_25-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2018-05-06 18:01:58
+(epstopdf)                    size: 13427 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/LossOmega25T2
+0N5_25-eps-converted-to.pdf Chapter3/Figs/LossOmega25T20N5_25.eps>
+(epstopdf)             \includegraphics on input line 539.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/LossOmega25T20N5_25-eps-converted-to.pdf, id=916, 561.09625pt x 
+809.0225pt>
+File: Chapter3/Figs/LossOmega25T20N5_25-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use Chapter3/Figs/LossOmega25T20N5_25-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/LossOmega25T20N5_25-eps-converted-to.pdf
+ used on input line 539.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package epstopdf Info: Source file: <Chapter3/Figs/LossA50T20N5_25.eps>
+(epstopdf)                    date: 2016-05-26 08:51:58
+(epstopdf)                    size: 23320 bytes
+(epstopdf)             Output file: <Chapter3/Figs/LossA50T20N5_25-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2018-05-06 18:01:59
+(epstopdf)                    size: 14045 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/LossA50T20N5_
+25-eps-converted-to.pdf Chapter3/Figs/LossA50T20N5_25.eps>
+(epstopdf)             \includegraphics on input line 550.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/LossA50T20N5_25-eps-converted-to.pdf, id=917, 561.09625pt x 809.
+0225pt>
+File: Chapter3/Figs/LossA50T20N5_25-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use Chapter3/Figs/LossA50T20N5_25-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/LossA50T20N5_25-eps-converted-to.pdf use
+d on input line 550.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/LossOmega50T20N5_25.eps>
+(epstopdf)                    date: 2016-05-26 08:53:06
+(epstopdf)                    size: 22553 bytes
+(epstopdf)             Output file: <Chapter3/Figs/LossOmega50T20N5_25-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2018-05-06 18:01:59
+(epstopdf)                    size: 13551 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/LossOmega50T2
+0N5_25-eps-converted-to.pdf Chapter3/Figs/LossOmega50T20N5_25.eps>
+(epstopdf)             \includegraphics on input line 552.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/LossOmega50T20N5_25-eps-converted-to.pdf, id=918, 561.09625pt x 
+809.0225pt>
+File: Chapter3/Figs/LossOmega50T20N5_25-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use Chapter3/Figs/LossOmega50T20N5_25-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/LossOmega50T20N5_25-eps-converted-to.pdf
+ used on input line 552.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package epstopdf Info: Source file: <Chapter3/Figs/LossA25T10N15_25.eps>
+(epstopdf)                    date: 2016-05-26 08:51:18
+(epstopdf)                    size: 24006 bytes
+(epstopdf)             Output file: <Chapter3/Figs/LossA25T10N15_25-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2018-05-06 18:02:00
+(epstopdf)                    size: 13286 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/LossA25T10N15
+_25-eps-converted-to.pdf Chapter3/Figs/LossA25T10N15_25.eps>
+(epstopdf)             \includegraphics on input line 563.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/LossA25T10N15_25-eps-converted-to.pdf, id=919, 561.09625pt x 809
+.0225pt>
+File: Chapter3/Figs/LossA25T10N15_25-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use Chapter3/Figs/LossA25T10N15_25-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/LossA25T10N15_25-eps-converted-to.pdf us
+ed on input line 563.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/LossOmega25T10N15_25.eps>
+(epstopdf)                    date: 2016-05-26 08:52:28
+(epstopdf)                    size: 23098 bytes
+(epstopdf)             Output file: <Chapter3/Figs/LossOmega25T10N15_25-eps-con
+verted-to.pdf>
+(epstopdf)                    date: 2018-05-06 18:02:00
+(epstopdf)                    size: 13496 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/LossOmega25T1
+0N15_25-eps-converted-to.pdf Chapter3/Figs/LossOmega25T10N15_25.eps>
+(epstopdf)             \includegraphics on input line 565.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/LossOmega25T10N15_25-eps-converted-to.pdf, id=920, 561.09625pt x
+ 809.0225pt>
+File: Chapter3/Figs/LossOmega25T10N15_25-eps-converted-to.pdf Graphic file (typ
+e pdf)
+ <use Chapter3/Figs/LossOmega25T10N15_25-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/LossOmega25T10N15_25-eps-converted-to.pd
+f used on input line 565.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package epstopdf Info: Source file: <Chapter3/Figs/LossA50T10N15_25.eps>
+(epstopdf)                    date: 2016-05-26 08:51:52
+(epstopdf)                    size: 23793 bytes
+(epstopdf)             Output file: <Chapter3/Figs/LossA50T10N15_25-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2018-05-06 18:02:00
+(epstopdf)                    size: 13483 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/LossA50T10N15
+_25-eps-converted-to.pdf Chapter3/Figs/LossA50T10N15_25.eps>
+(epstopdf)             \includegraphics on input line 576.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/LossA50T10N15_25-eps-converted-to.pdf, id=921, 561.09625pt x 809
+.0225pt>
+File: Chapter3/Figs/LossA50T10N15_25-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use Chapter3/Figs/LossA50T10N15_25-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/LossA50T10N15_25-eps-converted-to.pdf us
+ed on input line 576.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/LossOmega50T10N15_25.eps>
+(epstopdf)                    date: 2016-05-26 08:52:58
+(epstopdf)                    size: 22962 bytes
+(epstopdf)             Output file: <Chapter3/Figs/LossOmega50T10N15_25-eps-con
+verted-to.pdf>
+(epstopdf)                    date: 2018-05-06 18:02:01
+(epstopdf)                    size: 12968 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/LossOmega50T1
+0N15_25-eps-converted-to.pdf Chapter3/Figs/LossOmega50T10N15_25.eps>
+(epstopdf)             \includegraphics on input line 578.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/LossOmega50T10N15_25-eps-converted-to.pdf, id=922, 561.09625pt x
+ 809.0225pt>
+File: Chapter3/Figs/LossOmega50T10N15_25-eps-converted-to.pdf Graphic file (typ
+e pdf)
+ <use Chapter3/Figs/LossOmega50T10N15_25-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/LossOmega50T10N15_25-eps-converted-to.pd
+f used on input line 578.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package epstopdf Info: Source file: <Chapter3/Figs/LossA25T20N15_25.eps>
+(epstopdf)                    date: 2016-05-26 08:51:34
+(epstopdf)                    size: 24919 bytes
+(epstopdf)             Output file: <Chapter3/Figs/LossA25T20N15_25-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2018-05-06 18:02:01
+(epstopdf)                    size: 13372 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/LossA25T20N15
+_25-eps-converted-to.pdf Chapter3/Figs/LossA25T20N15_25.eps>
+(epstopdf)             \includegraphics on input line 590.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/LossA25T20N15_25-eps-converted-to.pdf, id=923, 561.09625pt x 809
+.0225pt>
+File: Chapter3/Figs/LossA25T20N15_25-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use Chapter3/Figs/LossA25T20N15_25-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/LossA25T20N15_25-eps-converted-to.pdf us
+ed on input line 590.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/LossOmega25T20N15_25.eps>
+(epstopdf)                    date: 2016-05-26 08:52:44
+(epstopdf)                    size: 23953 bytes
+(epstopdf)             Output file: <Chapter3/Figs/LossOmega25T20N15_25-eps-con
+verted-to.pdf>
+(epstopdf)                    date: 2018-05-06 18:02:02
+(epstopdf)                    size: 13643 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/LossOmega25T2
+0N15_25-eps-converted-to.pdf Chapter3/Figs/LossOmega25T20N15_25.eps>
+(epstopdf)             \includegraphics on input line 592.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/LossOmega25T20N15_25-eps-converted-to.pdf, id=924, 561.09625pt x
+ 809.0225pt>
+File: Chapter3/Figs/LossOmega25T20N15_25-eps-converted-to.pdf Graphic file (typ
+e pdf)
+ <use Chapter3/Figs/LossOmega25T20N15_25-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/LossOmega25T20N15_25-eps-converted-to.pd
+f used on input line 592.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package epstopdf Info: Source file: <Chapter3/Figs/LossA50T20N15_25.eps>
+(epstopdf)                    date: 2016-05-26 08:52:06
+(epstopdf)                    size: 23848 bytes
+(epstopdf)             Output file: <Chapter3/Figs/LossA50T20N15_25-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2018-05-06 18:02:02
+(epstopdf)                    size: 13629 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/LossA50T20N15
+_25-eps-converted-to.pdf Chapter3/Figs/LossA50T20N15_25.eps>
+(epstopdf)             \includegraphics on input line 604.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/LossA50T20N15_25-eps-converted-to.pdf, id=925, 561.09625pt x 809
+.0225pt>
+File: Chapter3/Figs/LossA50T20N15_25-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use Chapter3/Figs/LossA50T20N15_25-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/LossA50T20N15_25-eps-converted-to.pdf us
+ed on input line 604.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/LossOmega50T20N15_25.eps>
+(epstopdf)                    date: 2016-05-26 08:53:12
+(epstopdf)                    size: 23422 bytes
+(epstopdf)             Output file: <Chapter3/Figs/LossOmega50T20N15_25-eps-con
+verted-to.pdf>
+(epstopdf)                    date: 2018-05-06 18:02:02
+(epstopdf)                    size: 13541 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/LossOmega50T2
+0N15_25-eps-converted-to.pdf Chapter3/Figs/LossOmega50T20N15_25.eps>
+(epstopdf)             \includegraphics on input line 606.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/LossOmega50T20N15_25-eps-converted-to.pdf, id=926, 561.09625pt x
+ 809.0225pt>
+File: Chapter3/Figs/LossOmega50T20N15_25-eps-converted-to.pdf Graphic file (typ
+e pdf)
+ <use Chapter3/Figs/LossOmega50T20N15_25-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/LossOmega50T20N15_25-eps-converted-to.pd
+f used on input line 606.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[41
+
+ <./Chapter3/Figs/LossA25T10N5_25-eps-converted-to.pdf> <./Chapter3/Figs/LossOm
+ega25T10N5_25-eps-converted-to.pdf>] [42 <./Chapter3/Figs/LossA50T10N5_25-eps-c
+onverted-to.pdf> <./Chapter3/Figs/LossOmega50T10N5_25-eps-converted-to.pdf>] [4
+3 <./Chapter3/Figs/LossA25T20N5_25-eps-converted-to.pdf> <./Chapter3/Figs/LossO
+mega25T20N5_25-eps-converted-to.pdf>] [44 <./Chapter3/Figs/LossA50T20N5_25-eps-
+converted-to.pdf> <./Chapter3/Figs/LossOmega50T20N5_25-eps-converted-to.pdf>] [
+45 <./Chapter3/Figs/LossA25T10N15_25-eps-converted-to.pdf> <./Chapter3/Figs/Los
+sOmega25T10N15_25-eps-converted-to.pdf>] [46 <./Chapter3/Figs/LossA50T10N15_25-
+eps-converted-to.pdf> <./Chapter3/Figs/LossOmega50T10N15_25-eps-converted-to.pd
+f>] [47 <./Chapter3/Figs/LossA25T20N15_25-eps-converted-to.pdf> <./Chapter3/Fig
+s/LossOmega25T20N15_25-eps-converted-to.pdf>] [48 <./Chapter3/Figs/LossA50T20N1
+5_25-eps-converted-to.pdf> <./Chapter3/Figs/LossOmega50T20N15_25-eps-converted-
+to.pdf>]
+Package epstopdf Info: Source file: <Chapter3/Figs/ROCfpr25T10N5_5.eps>
+(epstopdf)                    date: 2016-05-26 08:53:16
+(epstopdf)                    size: 23389 bytes
+(epstopdf)             Output file: <Chapter3/Figs/ROCfpr25T10N5_5-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2018-05-06 18:03:55
+(epstopdf)                    size: 13278 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/ROCfpr25T10N5
+_5-eps-converted-to.pdf Chapter3/Figs/ROCfpr25T10N5_5.eps>
+(epstopdf)             \includegraphics on input line 620.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/ROCfpr25T10N5_5-eps-converted-to.pdf, id=1139, 561.09625pt x 809
+.0225pt>
+File: Chapter3/Figs/ROCfpr25T10N5_5-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use Chapter3/Figs/ROCfpr25T10N5_5-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/ROCfpr25T10N5_5-eps-converted-to.pdf use
+d on input line 620.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/ROCtpr25T10N5_5.eps>
+(epstopdf)                    date: 2016-05-26 08:53:54
+(epstopdf)                    size: 20990 bytes
+(epstopdf)             Output file: <Chapter3/Figs/ROCtpr25T10N5_5-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2018-05-06 18:04:18
+(epstopdf)                    size: 12950 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/ROCtpr25T10N5
+_5-eps-converted-to.pdf Chapter3/Figs/ROCtpr25T10N5_5.eps>
+(epstopdf)             \includegraphics on input line 622.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/ROCtpr25T10N5_5-eps-converted-to.pdf, id=1140, 561.09625pt x 809
+.0225pt>
+File: Chapter3/Figs/ROCtpr25T10N5_5-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use Chapter3/Figs/ROCtpr25T10N5_5-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/ROCtpr25T10N5_5-eps-converted-to.pdf use
+d on input line 622.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/ROCfpr50T10N5_5.eps>
+(epstopdf)                    date: 2016-05-26 08:53:38
+(epstopdf)                    size: 20483 bytes
+(epstopdf)             Output file: <Chapter3/Figs/ROCfpr50T10N5_5-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2018-05-06 18:04:44
+(epstopdf)                    size: 12385 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/ROCfpr50T10N5
+_5-eps-converted-to.pdf Chapter3/Figs/ROCfpr50T10N5_5.eps>
+(epstopdf)             \includegraphics on input line 634.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/ROCfpr50T10N5_5-eps-converted-to.pdf, id=1141, 561.09625pt x 809
+.0225pt>
+File: Chapter3/Figs/ROCfpr50T10N5_5-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use Chapter3/Figs/ROCfpr50T10N5_5-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/ROCfpr50T10N5_5-eps-converted-to.pdf use
+d on input line 634.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/ROCtpr50T10N5_5.eps>
+(epstopdf)                    date: 2016-05-26 08:54:08
+(epstopdf)                    size: 21290 bytes
+(epstopdf)             Output file: <Chapter3/Figs/ROCtpr50T10N5_5-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2018-05-06 18:05:03
+(epstopdf)                    size: 12222 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/ROCtpr50T10N5
+_5-eps-converted-to.pdf Chapter3/Figs/ROCtpr50T10N5_5.eps>
+(epstopdf)             \includegraphics on input line 636.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/ROCtpr50T10N5_5-eps-converted-to.pdf, id=1142, 561.09625pt x 809
+.0225pt>
+File: Chapter3/Figs/ROCtpr50T10N5_5-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use Chapter3/Figs/ROCtpr50T10N5_5-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/ROCtpr50T10N5_5-eps-converted-to.pdf use
+d on input line 636.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[49
+
+ <./Chapter3/Figs/ROCfpr25T10N5_5-eps-converted-to.pdf> <./Chapter3/Figs/ROCtpr
+25T10N5_5-eps-converted-to.pdf>] [50 <./Chapter3/Figs/ROCfpr50T10N5_5-eps-conve
+rted-to.pdf> <./Chapter3/Figs/ROCtpr50T10N5_5-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Chapter3/Figs/ROCfpr25T20N15_5.eps>
+(epstopdf)                    date: 2016-05-26 08:53:28
+(epstopdf)                    size: 21018 bytes
+(epstopdf)             Output file: <Chapter3/Figs/ROCfpr25T20N15_5-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2018-05-06 18:05:50
+(epstopdf)                    size: 13015 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/ROCfpr25T20N1
+5_5-eps-converted-to.pdf Chapter3/Figs/ROCfpr25T20N15_5.eps>
+(epstopdf)             \includegraphics on input line 649.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/ROCfpr25T20N15_5-eps-converted-to.pdf, id=1198, 561.09625pt x 80
+9.0225pt>
+File: Chapter3/Figs/ROCfpr25T20N15_5-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use Chapter3/Figs/ROCfpr25T20N15_5-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/ROCfpr25T20N15_5-eps-converted-to.pdf us
+ed on input line 649.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/ROCtpr25T20N15_5.eps>
+(epstopdf)                    date: 2016-05-26 08:54:00
+(epstopdf)                    size: 20483 bytes
+(epstopdf)             Output file: <Chapter3/Figs/ROCtpr25T20N15_5-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2018-05-06 18:05:50
+(epstopdf)                    size: 12933 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/ROCtpr25T20N1
+5_5-eps-converted-to.pdf Chapter3/Figs/ROCtpr25T20N15_5.eps>
+(epstopdf)             \includegraphics on input line 651.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/ROCtpr25T20N15_5-eps-converted-to.pdf, id=1199, 561.09625pt x 80
+9.0225pt>
+File: Chapter3/Figs/ROCtpr25T20N15_5-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use Chapter3/Figs/ROCtpr25T20N15_5-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/ROCtpr25T20N15_5-eps-converted-to.pdf us
+ed on input line 651.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/ROCfpr50T20N15_5.eps>
+(epstopdf)                    date: 2016-05-26 08:53:44
+(epstopdf)                    size: 21054 bytes
+(epstopdf)             Output file: <Chapter3/Figs/ROCfpr50T20N15_5-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2018-05-06 18:06:13
+(epstopdf)                    size: 13082 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/ROCfpr50T20N1
+5_5-eps-converted-to.pdf Chapter3/Figs/ROCfpr50T20N15_5.eps>
+(epstopdf)             \includegraphics on input line 662.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/ROCfpr50T20N15_5-eps-converted-to.pdf, id=1200, 561.09625pt x 80
+9.0225pt>
+File: Chapter3/Figs/ROCfpr50T20N15_5-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use Chapter3/Figs/ROCfpr50T20N15_5-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/ROCfpr50T20N15_5-eps-converted-to.pdf us
+ed on input line 662.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/ROCtpr50T20N15_5.eps>
+(epstopdf)                    date: 2016-05-26 08:54:16
+(epstopdf)                    size: 22479 bytes
+(epstopdf)             Output file: <Chapter3/Figs/ROCtpr50T20N15_5-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2018-05-06 18:06:54
+(epstopdf)                    size: 13245 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/ROCtpr50T20N1
+5_5-eps-converted-to.pdf Chapter3/Figs/ROCtpr50T20N15_5.eps>
+(epstopdf)             \includegraphics on input line 664.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/ROCtpr50T20N15_5-eps-converted-to.pdf, id=1201, 561.09625pt x 80
+9.0225pt>
+File: Chapter3/Figs/ROCtpr50T20N15_5-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use Chapter3/Figs/ROCtpr50T20N15_5-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/ROCtpr50T20N15_5-eps-converted-to.pdf us
+ed on input line 664.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[51
+
+ <./Chapter3/Figs/ROCfpr25T20N15_5-eps-converted-to.pdf> <./Chapter3/Figs/ROCtp
+r25T20N15_5-eps-converted-to.pdf>] [52 <./Chapter3/Figs/ROCfpr50T20N15_5-eps-co
+nverted-to.pdf> <./Chapter3/Figs/ROCtpr50T20N15_5-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Chapter3/Figs/ROCfpr25T10N5_25.eps>
+(epstopdf)                    date: 2016-05-26 08:53:20
+(epstopdf)                    size: 22417 bytes
+(epstopdf)             Output file: <Chapter3/Figs/ROCfpr25T10N5_25-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2018-05-06 18:07:52
+(epstopdf)                    size: 13099 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/ROCfpr25T10N5
+_25-eps-converted-to.pdf Chapter3/Figs/ROCfpr25T10N5_25.eps>
+(epstopdf)             \includegraphics on input line 678.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/ROCfpr25T10N5_25-eps-converted-to.pdf, id=1254, 561.09625pt x 80
+9.0225pt>
+File: Chapter3/Figs/ROCfpr25T10N5_25-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use Chapter3/Figs/ROCfpr25T10N5_25-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/ROCfpr25T10N5_25-eps-converted-to.pdf us
+ed on input line 678.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/ROCtpr25T10N5_25.eps>
+(epstopdf)                    date: 2016-05-26 08:53:56
+(epstopdf)                    size: 20798 bytes
+(epstopdf)             Output file: <Chapter3/Figs/ROCtpr25T10N5_25-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2018-05-06 18:07:52
+(epstopdf)                    size: 12584 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/ROCtpr25T10N5
+_25-eps-converted-to.pdf Chapter3/Figs/ROCtpr25T10N5_25.eps>
+(epstopdf)             \includegraphics on input line 680.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/ROCtpr25T10N5_25-eps-converted-to.pdf, id=1255, 561.09625pt x 80
+9.0225pt>
+File: Chapter3/Figs/ROCtpr25T10N5_25-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use Chapter3/Figs/ROCtpr25T10N5_25-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/ROCtpr25T10N5_25-eps-converted-to.pdf us
+ed on input line 680.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/ROCfpr50T10N5_25.eps>
+(epstopdf)                    date: 2016-05-26 08:53:42
+(epstopdf)                    size: 21529 bytes
+(epstopdf)             Output file: <Chapter3/Figs/ROCfpr50T10N5_25-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2018-05-06 22:27:33
+(epstopdf)                    size: 12368 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/ROCfpr50T10N5
+_25-eps-converted-to.pdf Chapter3/Figs/ROCfpr50T10N5_25.eps>
+(epstopdf)             \includegraphics on input line 692.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/ROCfpr50T10N5_25-eps-converted-to.pdf, id=1256, 561.09625pt x 80
+9.0225pt>
+File: Chapter3/Figs/ROCfpr50T10N5_25-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use Chapter3/Figs/ROCfpr50T10N5_25-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/ROCfpr50T10N5_25-eps-converted-to.pdf us
+ed on input line 692.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/ROCtpr50T10N5_25.eps>
+(epstopdf)                    date: 2016-05-26 08:54:12
+(epstopdf)                    size: 22439 bytes
+(epstopdf)             Output file: <Chapter3/Figs/ROCtpr50T10N5_25-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2018-05-06 22:27:58
+(epstopdf)                    size: 12828 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/ROCtpr50T10N5
+_25-eps-converted-to.pdf Chapter3/Figs/ROCtpr50T10N5_25.eps>
+(epstopdf)             \includegraphics on input line 694.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/ROCtpr50T10N5_25-eps-converted-to.pdf, id=1257, 561.09625pt x 80
+9.0225pt>
+File: Chapter3/Figs/ROCtpr50T10N5_25-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use Chapter3/Figs/ROCtpr50T10N5_25-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/ROCtpr50T10N5_25-eps-converted-to.pdf us
+ed on input line 694.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[53
+
+ <./Chapter3/Figs/ROCfpr25T10N5_25-eps-converted-to.pdf> <./Chapter3/Figs/ROCtp
+r25T10N5_25-eps-converted-to.pdf>] [54 <./Chapter3/Figs/ROCfpr50T10N5_25-eps-co
+nverted-to.pdf> <./Chapter3/Figs/ROCtpr50T10N5_25-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Chapter3/Figs/ROCfpr25T20N15_25.eps>
+(epstopdf)                    date: 2016-05-26 08:53:32
+(epstopdf)                    size: 21711 bytes
+(epstopdf)             Output file: <Chapter3/Figs/ROCfpr25T20N15_25-eps-conver
+ted-to.pdf>
+(epstopdf)                    date: 2018-05-06 22:28:48
+(epstopdf)                    size: 14268 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/ROCfpr25T20N1
+5_25-eps-converted-to.pdf Chapter3/Figs/ROCfpr25T20N15_25.eps>
+(epstopdf)             \includegraphics on input line 706.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/ROCfpr25T20N15_25-eps-converted-to.pdf, id=1310, 561.09625pt x 8
+09.0225pt>
+File: Chapter3/Figs/ROCfpr25T20N15_25-eps-converted-to.pdf Graphic file (type p
+df)
+ <use Chapter3/Figs/ROCfpr25T20N15_25-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/ROCfpr25T20N15_25-eps-converted-to.pdf u
+sed on input line 706.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/ROCtpr25T20N15_25.eps>
+(epstopdf)                    date: 2016-05-26 08:54:04
+(epstopdf)                    size: 21981 bytes
+(epstopdf)             Output file: <Chapter3/Figs/ROCtpr25T20N15_25-eps-conver
+ted-to.pdf>
+(epstopdf)                    date: 2018-05-06 22:28:48
+(epstopdf)                    size: 13157 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/ROCtpr25T20N1
+5_25-eps-converted-to.pdf Chapter3/Figs/ROCtpr25T20N15_25.eps>
+(epstopdf)             \includegraphics on input line 708.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/ROCtpr25T20N15_25-eps-converted-to.pdf, id=1311, 561.09625pt x 8
+09.0225pt>
+File: Chapter3/Figs/ROCtpr25T20N15_25-eps-converted-to.pdf Graphic file (type p
+df)
+ <use Chapter3/Figs/ROCtpr25T20N15_25-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/ROCtpr25T20N15_25-eps-converted-to.pdf u
+sed on input line 708.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/ROCfpr50T20N15_25.eps>
+(epstopdf)                    date: 2016-05-26 08:53:48
+(epstopdf)                    size: 21459 bytes
+(epstopdf)             Output file: <Chapter3/Figs/ROCfpr50T20N15_25-eps-conver
+ted-to.pdf>
+(epstopdf)                    date: 2018-05-06 22:29:54
+(epstopdf)                    size: 14205 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/ROCfpr50T20N1
+5_25-eps-converted-to.pdf Chapter3/Figs/ROCfpr50T20N15_25.eps>
+(epstopdf)             \includegraphics on input line 719.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/ROCfpr50T20N15_25-eps-converted-to.pdf, id=1312, 561.09625pt x 8
+09.0225pt>
+File: Chapter3/Figs/ROCfpr50T20N15_25-eps-converted-to.pdf Graphic file (type p
+df)
+ <use Chapter3/Figs/ROCfpr50T20N15_25-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/ROCfpr50T20N15_25-eps-converted-to.pdf u
+sed on input line 719.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/ROCtpr50T20N15_25.eps>
+(epstopdf)                    date: 2016-05-26 08:54:20
+(epstopdf)                    size: 22089 bytes
+(epstopdf)             Output file: <Chapter3/Figs/ROCtpr50T20N15_25-eps-conver
+ted-to.pdf>
+(epstopdf)                    date: 2018-05-06 22:29:54
+(epstopdf)                    size: 13979 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/ROCtpr50T20N1
+5_25-eps-converted-to.pdf Chapter3/Figs/ROCtpr50T20N15_25.eps>
+(epstopdf)             \includegraphics on input line 721.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/ROCtpr50T20N15_25-eps-converted-to.pdf, id=1313, 561.09625pt x 8
+09.0225pt>
+File: Chapter3/Figs/ROCtpr50T20N15_25-eps-converted-to.pdf Graphic file (type p
+df)
+ <use Chapter3/Figs/ROCtpr50T20N15_25-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/ROCtpr50T20N15_25-eps-converted-to.pdf u
+sed on input line 721.
+(pdftex.def)             Requested size: 252.49098pt x 364.05676pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[55
+
+ <./Chapter3/Figs/ROCfpr25T20N15_25-eps-converted-to.pdf> <./Chapter3/Figs/ROCt
+pr25T20N15_25-eps-converted-to.pdf>] [56 <./Chapter3/Figs/ROCfpr50T20N15_25-eps
+-converted-to.pdf> <./Chapter3/Figs/ROCtpr50T20N15_25-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Chapter3/Figs/contourPlot_nonSparse.eps>
+(epstopdf)                    date: 2015-12-21 19:15:40
+(epstopdf)                    size: 14558 bytes
+(epstopdf)             Output file: <Chapter3/Figs/contourPlot_nonSparse-eps-co
+nverted-to.pdf>
+(epstopdf)                    date: 2015-12-23 20:32:28
+(epstopdf)                    size: 15325 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/contourPlot_n
+onSparse-eps-converted-to.pdf Chapter3/Figs/contourPlot_nonSparse.eps>
+(epstopdf)             \includegraphics on input line 739.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/contourPlot_nonSparse-eps-converted-to.pdf, id=1368, 505.89pt x 
+505.89pt>
+File: Chapter3/Figs/contourPlot_nonSparse-eps-converted-to.pdf Graphic file (ty
+pe pdf)
+ <use Chapter3/Figs/contourPlot_nonSparse-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/contourPlot_nonSparse-eps-converted-to.p
+df used on input line 739.
+(pdftex.def)             Requested size: 151.76816pt x 151.76816pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/contourPlot_sparse.eps>
+(epstopdf)                    date: 2015-12-21 20:13:44
+(epstopdf)                    size: 14222 bytes
+(epstopdf)             Output file: <Chapter3/Figs/contourPlot_sparse-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2015-12-23 20:32:30
+(epstopdf)                    size: 15387 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/contourPlot_s
+parse-eps-converted-to.pdf Chapter3/Figs/contourPlot_sparse.eps>
+(epstopdf)             \includegraphics on input line 741.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/contourPlot_sparse-eps-converted-to.pdf, id=1369, 505.89pt x 505
+.89pt>
+File: Chapter3/Figs/contourPlot_sparse-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use Chapter3/Figs/contourPlot_sparse-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/contourPlot_sparse-eps-converted-to.pdf 
+used on input line 741.
+(pdftex.def)             Requested size: 151.76816pt x 151.76816pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/Ahat_nonSparse.eps>
+(epstopdf)                    date: 2015-12-21 19:17:44
+(epstopdf)                    size: 274320 bytes
+(epstopdf)             Output file: <Chapter3/Figs/Ahat_nonSparse-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2015-12-23 20:32:30
+(epstopdf)                    size: 38637 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/Ahat_nonSpars
+e-eps-converted-to.pdf Chapter3/Figs/Ahat_nonSparse.eps>
+(epstopdf)             \includegraphics on input line 750.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/Ahat_nonSparse-eps-converted-to.pdf, id=1370, 505.89pt x 505.89p
+t>
+File: Chapter3/Figs/Ahat_nonSparse-eps-converted-to.pdf Graphic file (type pdf)
+
+ <use Chapter3/Figs/Ahat_nonSparse-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/Ahat_nonSparse-eps-converted-to.pdf used
+ on input line 750.
+(pdftex.def)             Requested size: 151.76816pt x 151.76816pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/Phat_nonSparse.eps>
+(epstopdf)                    date: 2015-12-21 19:17:44
+(epstopdf)                    size: 271719 bytes
+(epstopdf)             Output file: <Chapter3/Figs/Phat_nonSparse-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2015-12-23 20:32:30
+(epstopdf)                    size: 37223 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/Phat_nonSpars
+e-eps-converted-to.pdf Chapter3/Figs/Phat_nonSparse.eps>
+(epstopdf)             \includegraphics on input line 752.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/Phat_nonSparse-eps-converted-to.pdf, id=1371, 505.89pt x 505.89p
+t>
+File: Chapter3/Figs/Phat_nonSparse-eps-converted-to.pdf Graphic file (type pdf)
+
+ <use Chapter3/Figs/Phat_nonSparse-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/Phat_nonSparse-eps-converted-to.pdf used
+ on input line 752.
+(pdftex.def)             Requested size: 151.76816pt x 151.76816pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/Ahat_sparse.eps>
+(epstopdf)                    date: 2015-12-21 20:17:24
+(epstopdf)                    size: 148073 bytes
+(epstopdf)             Output file: <Chapter3/Figs/Ahat_sparse-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2015-12-23 20:32:30
+(epstopdf)                    size: 28982 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/Ahat_sparse-e
+ps-converted-to.pdf Chapter3/Figs/Ahat_sparse.eps>
+(epstopdf)             \includegraphics on input line 762.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/Ahat_sparse-eps-converted-to.pdf, id=1372, 505.89pt x 505.89pt>
+File: Chapter3/Figs/Ahat_sparse-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Chapter3/Figs/Ahat_sparse-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/Ahat_sparse-eps-converted-to.pdf used on
+ input line 762.
+(pdftex.def)             Requested size: 151.76816pt x 151.76816pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/Phat_sparse.eps>
+(epstopdf)                    date: 2015-12-21 20:17:24
+(epstopdf)                    size: 146233 bytes
+(epstopdf)             Output file: <Chapter3/Figs/Phat_sparse-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2015-12-23 20:32:30
+(epstopdf)                    size: 28789 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/Phat_sparse-e
+ps-converted-to.pdf Chapter3/Figs/Phat_sparse.eps>
+(epstopdf)             \includegraphics on input line 764.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/Phat_sparse-eps-converted-to.pdf, id=1373, 505.89pt x 505.89pt>
+File: Chapter3/Figs/Phat_sparse-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Chapter3/Figs/Phat_sparse-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/Phat_sparse-eps-converted-to.pdf used on
+ input line 764.
+(pdftex.def)             Requested size: 151.76816pt x 151.76816pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package epstopdf Info: Source file: <Chapter3/Figs/Ahat_support.eps>
+(epstopdf)                    date: 2015-12-21 20:17:24
+(epstopdf)                    size: 136229 bytes
+(epstopdf)             Output file: <Chapter3/Figs/Ahat_support-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2015-12-23 20:32:32
+(epstopdf)                    size: 26235 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/Ahat_support-
+eps-converted-to.pdf Chapter3/Figs/Ahat_support.eps>
+(epstopdf)             \includegraphics on input line 774.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/Ahat_support-eps-converted-to.pdf, id=1374, 505.89pt x 505.89pt>
+File: Chapter3/Figs/Ahat_support-eps-converted-to.pdf Graphic file (type pdf)
+<use Chapter3/Figs/Ahat_support-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/Ahat_support-eps-converted-to.pdf used o
+n input line 774.
+(pdftex.def)             Requested size: 151.76816pt x 151.76816pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/Phat_support.eps>
+(epstopdf)                    date: 2015-12-21 20:17:32
+(epstopdf)                    size: 132208 bytes
+(epstopdf)             Output file: <Chapter3/Figs/Phat_support-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2015-12-23 20:32:32
+(epstopdf)                    size: 26136 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/Phat_support-
+eps-converted-to.pdf Chapter3/Figs/Phat_support.eps>
+(epstopdf)             \includegraphics on input line 776.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/Phat_support-eps-converted-to.pdf, id=1375, 505.89pt x 505.89pt>
+File: Chapter3/Figs/Phat_support-eps-converted-to.pdf Graphic file (type pdf)
+<use Chapter3/Figs/Phat_support-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/Phat_support-eps-converted-to.pdf used o
+n input line 776.
+(pdftex.def)             Requested size: 151.76816pt x 151.76816pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package epstopdf Info: Source file: <Chapter3/Figs/fit2obs_CCNG1.eps>
+(epstopdf)                    date: 2015-12-22 13:41:58
+(epstopdf)                    size: 32787 bytes
+(epstopdf)             Output file: <Chapter3/Figs/fit2obs_CCNG1-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2015-12-23 20:32:32
+(epstopdf)                    size: 9359 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/fit2obs_CCNG1
+-eps-converted-to.pdf Chapter3/Figs/fit2obs_CCNG1.eps>
+(epstopdf)             \includegraphics on input line 813.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/fit2obs_CCNG1-eps-converted-to.pdf, id=1376, 478.78876pt x 180.6
+75pt>
+File: Chapter3/Figs/fit2obs_CCNG1-eps-converted-to.pdf Graphic file (type pdf)
+ <use Chapter3/Figs/fit2obs_CCNG1-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/fit2obs_CCNG1-eps-converted-to.pdf used 
+on input line 813.
+(pdftex.def)             Requested size: 335.14984pt x 126.47162pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/fit2obs_EI24.eps>
+(epstopdf)                    date: 2015-12-22 13:40:44
+(epstopdf)                    size: 32379 bytes
+(epstopdf)             Output file: <Chapter3/Figs/fit2obs_EI24-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2015-12-23 20:32:32
+(epstopdf)                    size: 9178 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/fit2obs_EI24-
+eps-converted-to.pdf Chapter3/Figs/fit2obs_EI24.eps>
+(epstopdf)             \includegraphics on input line 815.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/fit2obs_EI24-eps-converted-to.pdf, id=1377, 478.78876pt x 180.67
+5pt>
+File: Chapter3/Figs/fit2obs_EI24-eps-converted-to.pdf Graphic file (type pdf)
+ <use Chapter3/Figs/fit2obs_EI24-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/fit2obs_EI24-eps-converted-to.pdf used o
+n input line 815.
+(pdftex.def)             Requested size: 335.14984pt x 126.47162pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/fit2obs_SFN.eps>
+(epstopdf)                    date: 2015-12-22 13:39:04
+(epstopdf)                    size: 32950 bytes
+(epstopdf)             Output file: <Chapter3/Figs/fit2obs_SFN-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2015-12-23 20:32:32
+(epstopdf)                    size: 9359 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/fit2obs_SFN-e
+ps-converted-to.pdf Chapter3/Figs/fit2obs_SFN.eps>
+(epstopdf)             \includegraphics on input line 817.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/fit2obs_SFN-eps-converted-to.pdf, id=1378, 478.78876pt x 180.675
+pt>
+File: Chapter3/Figs/fit2obs_SFN-eps-converted-to.pdf Graphic file (type pdf)
+ <use Chapter3/Figs/fit2obs_SFN-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/fit2obs_SFN-eps-converted-to.pdf used on
+ input line 817.
+(pdftex.def)             Requested size: 335.14984pt x 126.47162pt.
+Package epstopdf Info: Source file: <Chapter3/Figs/fit2obs_STEAP3.eps>
+(epstopdf)                    date: 2015-12-22 13:41:10
+(epstopdf)                    size: 32798 bytes
+(epstopdf)             Output file: <Chapter3/Figs/fit2obs_STEAP3-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2015-12-23 20:32:32
+(epstopdf)                    size: 9339 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter3/Figs/fit2obs_STEAP
+3-eps-converted-to.pdf Chapter3/Figs/fit2obs_STEAP3.eps>
+(epstopdf)             \includegraphics on input line 819.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter3/Figs/fit2obs_STEAP3-eps-converted-to.pdf, id=1379, 478.78876pt x 180.
+675pt>
+File: Chapter3/Figs/fit2obs_STEAP3-eps-converted-to.pdf Graphic file (type pdf)
+
+ <use Chapter3/Figs/fit2obs_STEAP3-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter3/Figs/fit2obs_STEAP3-eps-converted-to.pdf used
+ on input line 819.
+(pdftex.def)             Requested size: 335.14984pt x 126.47162pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) [57
+
+ <./Chapter3/Figs/contourPlot_nonSparse-eps-converted-to.pdf> <./Chapter3/Figs/
+contourPlot_sparse-eps-converted-to.pdf> <./Chapter3/Figs/Ahat_nonSparse-eps-co
+nverted-to.pdf> <./Chapter3/Figs/Phat_nonSparse-eps-converted-to.pdf>]
+[58 <./Chapter3/Figs/Ahat_sparse-eps-converted-to.pdf> <./Chapter3/Figs/Phat_sp
+arse-eps-converted-to.pdf> <./Chapter3/Figs/Ahat_support-eps-converted-to.pdf> 
+<./Chapter3/Figs/Phat_support-eps-converted-to.pdf>] [59] [60 <./Chapter3/Figs/
+fit2obs_CCNG1-eps-converted-to.pdf> <./Chapter3/Figs/fit2obs_EI24-eps-converted
+-to.pdf> <./Chapter3/Figs/fit2obs_SFN-eps-converted-to.pdf> <./Chapter3/Figs/fi
+t2obs_STEAP3-eps-converted-to.pdf>]
+\openout2 = `Chapter4/Ch4.aux'.
+
+ (./Chapter4/Ch4.tex
+Chapter 4.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 1.
+
+Package epstopdf Info: Source file: <Chapter4/Figs/Figure_5a.eps>
+(epstopdf)                    date: 2017-06-28 12:14:44
+(epstopdf)                    size: 26961 bytes
+(epstopdf)             Output file: <Chapter4/Figs/Figure_5a-eps-converted-to.p
+df>
+(epstopdf)                    date: 2017-08-29 14:54:24
+(epstopdf)                    size: 14054 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter4/Figs/Figure_5a-eps
+-converted-to.pdf Chapter4/Figs/Figure_5a.eps>
+(epstopdf)             \includegraphics on input line 12.
+Package epstopdf Info: Output file is already uptodate.
+<Chapter4/Figs/Figure_5a-eps-converted-to.pdf, id=1515, 505.89pt x 505.89pt>
+File: Chapter4/Figs/Figure_5a-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Chapter4/Figs/Figure_5a-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter4/Figs/Figure_5a-eps-converted-to.pdf used on i
+nput line 12.
+(pdftex.def)             Requested size: 177.06415pt x 177.06415pt.
+Package epstopdf Info: Source file: <Chapter4/Figs/Figure_5b.eps>
+(epstopdf)                    date: 2017-06-28 12:47:38
+(epstopdf)                    size: 15606 bytes
+(epstopdf)             Output file: <Chapter4/Figs/Figure_5b-eps-converted-to.p
+df>
+(epstopdf)                    date: 2017-08-29 14:54:24
+(epstopdf)                    size: 9847 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter4/Figs/Figure_5b-eps
+-converted-to.pdf Chapter4/Figs/Figure_5b.eps>
+(epstopdf)             \includegraphics on input line 13.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter4/Figs/Figure_5b-eps-converted-to.pdf, id=1516, 505.89pt x 505.89pt>
+File: Chapter4/Figs/Figure_5b-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Chapter4/Figs/Figure_5b-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter4/Figs/Figure_5b-eps-converted-to.pdf used on i
+nput line 13.
+(pdftex.def)             Requested size: 177.06415pt x 177.06415pt.
+Package epstopdf Info: Source file: <Chapter4/Figs/Figure_6.eps>
+(epstopdf)                    date: 2017-06-28 12:47:38
+(epstopdf)                    size: 205776 bytes
+(epstopdf)             Output file: <Chapter4/Figs/Figure_6-eps-converted-to.pd
+f>
+(epstopdf)                    date: 2017-08-29 14:54:26
+(epstopdf)                    size: 93187 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter4/Figs/Figure_6-eps-
+converted-to.pdf Chapter4/Figs/Figure_6.eps>
+(epstopdf)             \includegraphics on input line 22.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter4/Figs/Figure_6-eps-converted-to.pdf, id=1517, 505.89pt x 505.89pt>
+File: Chapter4/Figs/Figure_6-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Chapter4/Figs/Figure_6-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter4/Figs/Figure_6-eps-converted-to.pdf used on in
+put line 22.
+(pdftex.def)             Requested size: 303.53633pt x 303.53633pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[61
+
+
+
+
+ <./Chapter4/Figs/Figure_5a-eps-converted-to.pdf> <./Chapter4/Figs/Figure_5b-ep
+s-converted-to.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [62 <./Chapter4/Figs/Figure_6-eps-converted-to.pdf>]
+Overfull \hbox (68.05873pt too wide) in alignment at lines 75--88
+ [][][] []
+ []
+
+[63]
+Overfull \hbox (19.00621pt too wide) in paragraph at lines 95--124
+[][]
+ []
+
+[64]
+Package epstopdf Info: Source file: <Chapter4/Figs/Figure_9a.eps>
+(epstopdf)                    date: 2017-07-21 01:52:16
+(epstopdf)                    size: 27838 bytes
+(epstopdf)             Output file: <Chapter4/Figs/Figure_9a-eps-converted-to.p
+df>
+(epstopdf)                    date: 2017-08-29 14:58:22
+(epstopdf)                    size: 14387 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter4/Figs/Figure_9a-eps
+-converted-to.pdf Chapter4/Figs/Figure_9a.eps>
+(epstopdf)             \includegraphics on input line 133.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter4/Figs/Figure_9a-eps-converted-to.pdf, id=1561, 505.89pt x 505.89pt>
+File: Chapter4/Figs/Figure_9a-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Chapter4/Figs/Figure_9a-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter4/Figs/Figure_9a-eps-converted-to.pdf used on i
+nput line 133.
+(pdftex.def)             Requested size: 177.06415pt x 177.06415pt.
+Package epstopdf Info: Source file: <Chapter4/Figs/Figure_9b.eps>
+(epstopdf)                    date: 2017-07-21 02:15:26
+(epstopdf)                    size: 50734 bytes
+(epstopdf)             Output file: <Chapter4/Figs/Figure_9b-eps-converted-to.p
+df>
+(epstopdf)                    date: 2017-08-29 14:58:22
+(epstopdf)                    size: 21061 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter4/Figs/Figure_9b-eps
+-converted-to.pdf Chapter4/Figs/Figure_9b.eps>
+(epstopdf)             \includegraphics on input line 134.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter4/Figs/Figure_9b-eps-converted-to.pdf, id=1562, 505.89pt x 505.89pt>
+File: Chapter4/Figs/Figure_9b-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Chapter4/Figs/Figure_9b-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter4/Figs/Figure_9b-eps-converted-to.pdf used on i
+nput line 134.
+(pdftex.def)             Requested size: 177.06415pt x 177.06415pt.
+Package epstopdf Info: Source file: <Chapter4/Figs/Figure_10a.eps>
+(epstopdf)                    date: 2017-07-21 01:52:16
+(epstopdf)                    size: 153246 bytes
+(epstopdf)             Output file: <Chapter4/Figs/Figure_10a-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2017-08-29 14:58:22
+(epstopdf)                    size: 24445 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter4/Figs/Figure_10a-ep
+s-converted-to.pdf Chapter4/Figs/Figure_10a.eps>
+(epstopdf)             \includegraphics on input line 146.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter4/Figs/Figure_10a-eps-converted-to.pdf, id=1563, 505.89pt x 505.89pt>
+File: Chapter4/Figs/Figure_10a-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Chapter4/Figs/Figure_10a-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter4/Figs/Figure_10a-eps-converted-to.pdf used on 
+input line 146.
+(pdftex.def)             Requested size: 209.58534pt x 180.67676pt.
+Package epstopdf Info: Source file: <Chapter4/Figs/Figure_10b.eps>
+(epstopdf)                    date: 2017-07-21 02:15:26
+(epstopdf)                    size: 154831 bytes
+(epstopdf)             Output file: <Chapter4/Figs/Figure_10b-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2017-08-29 14:58:24
+(epstopdf)                    size: 24772 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter4/Figs/Figure_10b-ep
+s-converted-to.pdf Chapter4/Figs/Figure_10b.eps>
+(epstopdf)             \includegraphics on input line 148.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter4/Figs/Figure_10b-eps-converted-to.pdf, id=1564, 505.89pt x 505.89pt>
+File: Chapter4/Figs/Figure_10b-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Chapter4/Figs/Figure_10b-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter4/Figs/Figure_10b-eps-converted-to.pdf used on 
+input line 148.
+(pdftex.def)             Requested size: 209.58534pt x 180.67676pt.
+
+Overfull \hbox (9.55069pt too wide) in paragraph at lines 145--150
+ [][] 
+ []
+
+Package epstopdf Info: Source file: <Chapter4/Figs/Figure_11a.eps>
+(epstopdf)                    date: 2017-07-21 01:52:16
+(epstopdf)                    size: 91688 bytes
+(epstopdf)             Output file: <Chapter4/Figs/Figure_11a-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2017-08-29 14:58:24
+(epstopdf)                    size: 43017 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter4/Figs/Figure_11a-ep
+s-converted-to.pdf Chapter4/Figs/Figure_11a.eps>
+(epstopdf)             \includegraphics on input line 161.
+Package epstopdf Info: Output file is already uptodate.
+<Chapter4/Figs/Figure_11a-eps-converted-to.pdf, id=1565, 505.89pt x 505.89pt>
+File: Chapter4/Figs/Figure_11a-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Chapter4/Figs/Figure_11a-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter4/Figs/Figure_11a-eps-converted-to.pdf used on 
+input line 161.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+Package epstopdf Info: Source file: <Chapter4/Figs/Figure_11b.eps>
+(epstopdf)                    date: 2017-07-21 02:15:26
+(epstopdf)                    size: 121500 bytes
+(epstopdf)             Output file: <Chapter4/Figs/Figure_11b-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2017-08-29 14:58:24
+(epstopdf)                    size: 55347 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter4/Figs/Figure_11b-ep
+s-converted-to.pdf Chapter4/Figs/Figure_11b.eps>
+(epstopdf)             \includegraphics on input line 162.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter4/Figs/Figure_11b-eps-converted-to.pdf, id=1566, 505.89pt x 505.89pt>
+File: Chapter4/Figs/Figure_11b-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Chapter4/Figs/Figure_11b-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter4/Figs/Figure_11b-eps-converted-to.pdf used on 
+input line 162.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[65 <./Chapter4/Figs/Figure_9a-eps-converted-to.pdf> <./Chapter4/Figs/Figure_9b
+-eps-converted-to.pdf> <./Chapter4/Figs/Figure_10a-eps-converted-to.pdf> <./Cha
+pter4/Figs/Figure_10b-eps-converted-to.pdf>] [66 <./Chapter4/Figs/Figure_11a-ep
+s-converted-to.pdf> <./Chapter4/Figs/Figure_11b-eps-converted-to.pdf>] [67]
+Package epstopdf Info: Source file: <Chapter4/Figs/Figure_15a.eps>
+(epstopdf)                    date: 2017-06-28 18:30:16
+(epstopdf)                    size: 8871 bytes
+(epstopdf)             Output file: <Chapter4/Figs/Figure_15a-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2017-08-29 14:58:26
+(epstopdf)                    size: 7862 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter4/Figs/Figure_15a-ep
+s-converted-to.pdf Chapter4/Figs/Figure_15a.eps>
+(epstopdf)             \includegraphics on input line 177.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter4/Figs/Figure_15a-eps-converted-to.pdf, id=1628, 505.89pt x 505.89pt>
+File: Chapter4/Figs/Figure_15a-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Chapter4/Figs/Figure_15a-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter4/Figs/Figure_15a-eps-converted-to.pdf used on 
+input line 177.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+Package epstopdf Info: Source file: <Chapter4/Figs/Figure_15b.eps>
+(epstopdf)                    date: 2017-06-29 17:15:32
+(epstopdf)                    size: 13575 bytes
+(epstopdf)             Output file: <Chapter4/Figs/Figure_15b-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2017-08-29 14:58:28
+(epstopdf)                    size: 9532 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter4/Figs/Figure_15b-ep
+s-converted-to.pdf Chapter4/Figs/Figure_15b.eps>
+(epstopdf)             \includegraphics on input line 178.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter4/Figs/Figure_15b-eps-converted-to.pdf, id=1629, 505.89pt x 505.89pt>
+File: Chapter4/Figs/Figure_15b-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Chapter4/Figs/Figure_15b-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter4/Figs/Figure_15b-eps-converted-to.pdf used on 
+input line 178.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+Package epstopdf Info: Source file: <Chapter4/Figs/Figure_16a.eps>
+(epstopdf)                    date: 2017-06-29 17:15:32
+(epstopdf)                    size: 155291 bytes
+(epstopdf)             Output file: <Chapter4/Figs/Figure_16a-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2017-08-29 14:58:28
+(epstopdf)                    size: 24352 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter4/Figs/Figure_16a-ep
+s-converted-to.pdf Chapter4/Figs/Figure_16a.eps>
+(epstopdf)             \includegraphics on input line 188.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter4/Figs/Figure_16a-eps-converted-to.pdf, id=1630, 505.89pt x 505.89pt>
+File: Chapter4/Figs/Figure_16a-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Chapter4/Figs/Figure_16a-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter4/Figs/Figure_16a-eps-converted-to.pdf used on 
+input line 188.
+(pdftex.def)             Requested size: 141.64822pt x 141.64822pt.
+Package epstopdf Info: Source file: <Chapter4/Figs/Figure_16b.eps>
+(epstopdf)                    date: 2017-06-29 17:15:34
+(epstopdf)                    size: 151797 bytes
+(epstopdf)             Output file: <Chapter4/Figs/Figure_16b-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2017-08-29 14:58:28
+(epstopdf)                    size: 24261 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter4/Figs/Figure_16b-ep
+s-converted-to.pdf Chapter4/Figs/Figure_16b.eps>
+(epstopdf)             \includegraphics on input line 189.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter4/Figs/Figure_16b-eps-converted-to.pdf, id=1631, 505.89pt x 505.89pt>
+File: Chapter4/Figs/Figure_16b-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Chapter4/Figs/Figure_16b-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter4/Figs/Figure_16b-eps-converted-to.pdf used on 
+input line 189.
+(pdftex.def)             Requested size: 141.64822pt x 141.64822pt.
+Package epstopdf Info: Source file: <Chapter4/Figs/Figure_16c.eps>
+(epstopdf)                    date: 2017-06-29 17:15:34
+(epstopdf)                    size: 242467 bytes
+(epstopdf)             Output file: <Chapter4/Figs/Figure_16c-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2017-08-29 14:58:30
+(epstopdf)                    size: 34300 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter4/Figs/Figure_16c-ep
+s-converted-to.pdf Chapter4/Figs/Figure_16c.eps>
+(epstopdf)             \includegraphics on input line 190.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter4/Figs/Figure_16c-eps-converted-to.pdf, id=1632, 505.89pt x 505.89pt>
+File: Chapter4/Figs/Figure_16c-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Chapter4/Figs/Figure_16c-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter4/Figs/Figure_16c-eps-converted-to.pdf used on 
+input line 190.
+(pdftex.def)             Requested size: 141.64822pt x 141.64822pt.
+
+Overfull \hbox (11.1579pt too wide) in paragraph at lines 187--192
+ [][] 
+ []
+
+Package epstopdf Info: Source file: <Chapter4/Figs/Figure_13a.eps>
+(epstopdf)                    date: 2017-06-29 17:19:06
+(epstopdf)                    size: 6990 bytes
+(epstopdf)             Output file: <Chapter4/Figs/Figure_13a-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2017-08-29 14:58:26
+(epstopdf)                    size: 7109 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter4/Figs/Figure_13a-ep
+s-converted-to.pdf Chapter4/Figs/Figure_13a.eps>
+(epstopdf)             \includegraphics on input line 201.
+Package epstopdf Info: Output file is already uptodate.
+<Chapter4/Figs/Figure_13a-eps-converted-to.pdf, id=1633, 505.89pt x 505.89pt>
+File: Chapter4/Figs/Figure_13a-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Chapter4/Figs/Figure_13a-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter4/Figs/Figure_13a-eps-converted-to.pdf used on 
+input line 201.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+Package epstopdf Info: Source file: <Chapter4/Figs/Figure_13b.eps>
+(epstopdf)                    date: 2017-06-29 17:19:06
+(epstopdf)                    size: 6990 bytes
+(epstopdf)             Output file: <Chapter4/Figs/Figure_13b-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2017-08-29 14:58:26
+(epstopdf)                    size: 7102 bytes
+(epstopdf)             Command: <epstopdf --outfile=Chapter4/Figs/Figure_13b-ep
+s-converted-to.pdf Chapter4/Figs/Figure_13b.eps>
+(epstopdf)             \includegraphics on input line 202.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter4/Figs/Figure_13b-eps-converted-to.pdf, id=1634, 505.89pt x 505.89pt>
+File: Chapter4/Figs/Figure_13b-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Chapter4/Figs/Figure_13b-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter4/Figs/Figure_13b-eps-converted-to.pdf used on 
+input line 202.
+(pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) [68 <./Chapter4/Figs/Figure_15a-eps-converted-to.pdf> <./Chapter4/Figs/Figure
+_15b-eps-converted-to.pdf> <./Chapter4/Figs/Figure_16a-eps-converted-to.pdf> <.
+/Chapter4/Figs/Figure_16b-eps-converted-to.pdf> <./Chapter4/Figs/Figure_16c-eps
+-converted-to.pdf>] [69 <./Chapter4/Figs/Figure_13a-eps-converted-to.pdf> <./Ch
+apter4/Figs/Figure_13b-eps-converted-to.pdf>]
+\openout2 = `Chapter5/Ch5.aux'.
+
+ (./Chapter5/Ch5.tex [70
+
+
+
+]
+Chapter 5.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 1.
+
+) [71]
+\openout2 = `Chapter6/Ch6.aux'.
+
+ (./Chapter6/Ch6.tex [72
+
+
+
+]
+Chapter 6.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 1.
+
+[73]
+Overfull \hbox (23.9668pt too wide) in paragraph at lines 13--44
+[][]
+ []
+
+
+Overfull \hbox (59.36298pt too wide) in paragraph at lines 108--144
+[][]
+ []
+
+
+Overfull \hbox (71.12706pt too wide) in paragraph at lines 150--172
+[][]
+ []
+
+) [74] [75] [76] (./thesis.bbl [77
+
+
+
+] [78] [79] [80] [81] [82] [83] [84] [85]
+[86] [87] [88] [89] [90] [91] [92] [93])
+
+Package natbib Warning: There were undefined citations.
+
+
+AED: lastpage setting LastPage
+[94]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 449.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 449.
+ (./thesis.aux (./Chapter1/Ch1.aux) (./Chapter2/Ch2.aux)
+(./Chapter3/Ch3.aux) (./Chapter4/Ch4.aux) (./Chapter5/Ch5.aux)
+(./Chapter6/Ch6.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 449.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 449.
+Package rerunfilecheck Info: File `thesis.out' has not changed.
+(rerunfilecheck)             Checksum: 391873681C55E7415CBE0E4AB628EE10;12770.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 449.
+ )
+(\end occurred inside a group at level 2)
+
+### simple group (level 2) entered at line 1061 ({)
+### semi simple group (level 1) entered at line 813 (\begingroup)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 30026 strings out of 492995
+ 525256 string characters out of 6132705
+ 624476 words of memory out of 5000000
+ 32411 multiletter control sequences out of 15000+600000
+ 121910 words of font info for 109 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,16n,79p,1948b,16946s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{Hfootnote.1} has been referenced bu
+t does not exist, replaced by a fixed one
+
+{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/te
+xlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2017
+/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2017/texmf-dist/fo
+nts/enc/dvips/lm/lm-ts1.enc}{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips
+/base/8r.enc}{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.e
+nc}{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/l
+ocal/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/loc
+al/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/loca
+l/texlive/2017/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/
+2017/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2017/texmf
+-dist/fonts/type1/public/lm/lmbx8.pfb></usr/local/texlive/2017/texmf-dist/fonts
+/type1/public/lm/lmbxi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/pu
+blic/lm/lmex10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lm
+mi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmmi12.pfb><
+/usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmmi6.pfb></usr/local/
+texlive/2017/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/201
+7/texmf-dist/fonts/type1/public/lm/lmmib10.pfb></usr/local/texlive/2017/texmf-d
+ist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/t
+ype1/public/lm/lmr12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public
+/lm/lmr6.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmr7.pfb
+></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local
+/texlive/2017/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2
+017/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2017/texmf-
+dist/fonts/type1/public/lm/lmsy6.pfb></usr/local/texlive/2017/texmf-dist/fonts/
+type1/public/lm/lmsy8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/publi
+c/lm/lmtt12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts
+/symbols/msbm10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-s
+uper/sfrm0800.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-sup
+er/sfrm1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/helvetic/uh
+vro8a.pfb>
+Output written on thesis.pdf (100 pages, 2850438 bytes).
+PDF statistics:
+ 2235 PDF objects out of 2487 (max. 8388607)
+ 1714 compressed objects within 18 object streams
+ 413 named destinations out of 1000 (max. 500000)
+ 770 words of extra memory for PDF output out of 10000 (max. 10000000)
+
