@@ -7,7 +7,7 @@
 PhD Thesis Supplementary Materials
 ========================
 
-This repository include supplementary matrials related to the PhD thesis "Comprehensive molecular characterisation of HPV-induced transformation by longitudinal statistical modelling" defended at Vrije Unversitat Amsterdam.
+This repository includes supplementary materials related to the PhD thesis "Comprehensive molecular characterisation of HPV-induced transformation by longitudinal statistical modelling" defended at VU University Amsterdam.
 
 - [Author](#author)
 - [Title](#title)
