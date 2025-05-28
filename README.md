@@ -40,14 +40,14 @@ cd Thesis
 latexmk -pdf thesis.tex
 ```
 
-## Where to access thesis and supplementary materials
+## Where to access the thesis and supplementary materials
 
 The pdf version of this thesis can be accessed [here](https://research.vu.nl/en/publications/comprehensive-molecular-characterisation-of-hpv-induced-transform), while the supplementary materials from the publications can be found in this repository.
 
 ## Doctoral thesis supplementary materials
 
 I have done the work presented in this thesis in collaboration with the persons listed in each section. 
-When using to information of this thesis, please cite the associated papers:
+When using the information in this thesis, please cite the associated papers:
 
 
 [**Chapter 1:**](https://github.com/viktormiok/PhD-thesisSM/tree/main/Chapter1) `Introduction`
