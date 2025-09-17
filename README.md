@@ -42,7 +42,7 @@ latexmk -pdf thesis.tex
 
 ## Where to access the thesis and supplementary materials
 
-The pdf version of this thesis can be accessed [here](https://research.vu.nl/en/publications/comprehensive-molecular-characterisation-of-hpv-induced-transform), while the supplementary materials from the publications can be found in this repository.
+The PDF version of this thesis can be accessed [here](https://research.vu.nl/en/publications/comprehensive-molecular-characterisation-of-hpv-induced-transform). The supplementary materials from the publication can be found in this repository.
 
 ## Doctoral thesis supplementary materials
 
